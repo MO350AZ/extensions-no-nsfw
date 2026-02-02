@@ -275,738 +275,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: XBatCat",
-    "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.61.apk",
-    "lang": "all",
-    "code": 61,
-    "version": "1.4.61",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "XBatCat",
-        "lang": "all",
-        "id": "4531444389842992129",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "en",
-        "id": "7890050626002177109",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ar",
-        "id": "5096384382752696500",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "bg",
-        "id": "6495955027968241042",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "zh",
-        "id": "3158884414181268012",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "cs",
-        "id": "7576440018916883094",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "da",
-        "id": "5316229865560945519",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "nl",
-        "id": "2451829407813501910",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "fil",
-        "id": "313424729392609270",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "fi",
-        "id": "1251974539278082369",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "fr",
-        "id": "5836611700806032846",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "de",
-        "id": "139923318887989403",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "el",
-        "id": "8473797648002215114",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "he",
-        "id": "2408078218204857839",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "hi",
-        "id": "7084618587403216116",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "hu",
-        "id": "4530528320166985351",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "id",
-        "id": "1720762928205210073",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "it",
-        "id": "2160637426591463299",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ja",
-        "id": "5203173367987472935",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ko",
-        "id": "8427126052180576160",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ms",
-        "id": "5990851390838920547",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "pl",
-        "id": "3394902802486008664",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "pt",
-        "id": "6179954312892676695",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "pt-BR",
-        "id": "3484603489360202582",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ro",
-        "id": "5145326243818977877",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ru",
-        "id": "5188408707919914484",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "es",
-        "id": "6204540321264480489",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "es-419",
-        "id": "7185350469868201379",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "sv",
-        "id": "8913559243351013088",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "tr",
-        "id": "6468780937168595917",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "uk",
-        "id": "1782621454240367603",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "vi",
-        "id": "3164440079022386695",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "af",
-        "id": "9193031427501250739",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "sq",
-        "id": "6847493053848422645",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "am",
-        "id": "2526577153570564673",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "hy",
-        "id": "1586739058301487676",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "az",
-        "id": "713056016405537102",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "be",
-        "id": "7232505995053152192",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "bn",
-        "id": "3402500071662542228",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "bs",
-        "id": "6908072148468152785",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "my",
-        "id": "5762198617335159887",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "km",
-        "id": "6796421298740947063",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ca",
-        "id": "1392737883785118332",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ceb",
-        "id": "5837595011776494775",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "zh-Hans",
-        "id": "2818874445640189582",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "zh-Hant",
-        "id": "38886079663327225",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "hr",
-        "id": "7668596971407381245",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "et",
-        "id": "3006949234613526276",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "fo",
-        "id": "7703342981951715697",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ka",
-        "id": "5905178459829728484",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "gn",
-        "id": "4894494172631551657",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "gu",
-        "id": "4891408516910497422",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ht",
-        "id": "8773112916243804182",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ha",
-        "id": "8106799273220933842",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "is",
-        "id": "2566480683201153375",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ig",
-        "id": "3424308522705464084",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ga",
-        "id": "3707936942181329862",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "jv",
-        "id": "6913455010116693655",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "kn",
-        "id": "1088655658033412867",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "kk",
-        "id": "4920750007190577961",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ku",
-        "id": "5924797894030210791",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ky",
-        "id": "191250206471387059",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "lo",
-        "id": "374730826849442838",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "lv",
-        "id": "7483906778681041617",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "lt",
-        "id": "2909322037877472903",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "lb",
-        "id": "7998953198185983599",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "mk",
-        "id": "4493782214399724320",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "mg",
-        "id": "7844022624810291146",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ml",
-        "id": "3443092856670936701",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "mt",
-        "id": "7404477799743142598",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "mi",
-        "id": "8225972509362693639",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "mr",
-        "id": "6030352007472109485",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "mo",
-        "id": "8871355786189601023",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "mn",
-        "id": "1683078263344915307",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ne",
-        "id": "128549604427027000",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "no",
-        "id": "3907280050995528877",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ny",
-        "id": "5715855562377571991",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ps",
-        "id": "6105060607877949219",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "fa",
-        "id": "1302226087224798096",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "rm",
-        "id": "8327243820444225063",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "sm",
-        "id": "2859258045373504715",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "sr",
-        "id": "6589258274800936036",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "sh",
-        "id": "2675056792049767704",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "st",
-        "id": "7963579117812866356",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "sn",
-        "id": "2403628417982139515",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "sd",
-        "id": "7126242426383705161",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "si",
-        "id": "2913942844788726362",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "sk",
-        "id": "7182321933689697136",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "sl",
-        "id": "8410771330361157651",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "so",
-        "id": "2909968758031724143",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "sw",
-        "id": "1981693893234457639",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "tg",
-        "id": "8403246223033985015",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ta",
-        "id": "8440188015298648289",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "te",
-        "id": "6410585353225177292",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "th",
-        "id": "2706040171335467974",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ti",
-        "id": "5554111601105349413",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "to",
-        "id": "2410241309695200602",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "tk",
-        "id": "3635004776434724843",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "ur",
-        "id": "7602124517732860619",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "uz",
-        "id": "4555523281386098571",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "yo",
-        "id": "727983903143794104",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "zu",
-        "id": "3786926370127246407",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      },
-      {
-        "name": "XBatCat",
-        "lang": "other",
-        "id": "1897863245819012494",
-        "baseUrl": "https://xbat.app",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: 3600000 Beauty",
     "pkg": "eu.kanade.tachiyomi.extension.all.beauty3600000",
     "apk": "tachiyomi-all.beauty3600000-v1.4.2.apk",
@@ -4607,12 +3875,30 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Draft",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mangadraft",
+    "apk": "tachiyomi-all.mangadraft-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaDraft",
+        "lang": "all",
+        "id": "6866320578550428692",
+        "baseUrl": "https://mangadraft.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.16.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.17.apk",
     "lang": "all",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "sources": [
       {
@@ -4783,710 +4069,6 @@
         "id": "8497371037005902842",
         "baseUrl": "https://mangago.fit/manga-ru-yaoi",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaPark",
-    "pkg": "eu.kanade.tachiyomi.extension.all.mangapark",
-    "apk": "tachiyomi-all.mangapark-v1.4.25.apk",
-    "lang": "all",
-    "code": 25,
-    "version": "1.4.25",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "MangaPark",
-        "lang": "af",
-        "id": "2582063783678076445",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "sq",
-        "id": "4237465182067821837",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "am",
-        "id": "6993654181519089030",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ar",
-        "id": "1886485150961526021",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "hy",
-        "id": "8024110322136480217",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "az",
-        "id": "5858537807046456985",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "be",
-        "id": "2882861952027427172",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "bn",
-        "id": "1283370812282011207",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "bs",
-        "id": "3061835272361259368",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "bg",
-        "id": "3035047173699215668",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "my",
-        "id": "6691130797511865568",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "km",
-        "id": "1115520011730370679",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ca",
-        "id": "3926831658684211263",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ceb",
-        "id": "3742218293681910540",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "zh",
-        "id": "2551887951903036370",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "zh-Hans",
-        "id": "8363718895979558263",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "zh-Hant",
-        "id": "6370855516529451708",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "hr",
-        "id": "8835309856241803193",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "cs",
-        "id": "3512352771759571190",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "da",
-        "id": "1087446847158868886",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "nl",
-        "id": "808216257964805885",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "en",
-        "id": "2292947733994124621",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "eo",
-        "id": "4544417195829286190",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "et",
-        "id": "554442963658573856",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "fo",
-        "id": "4355489822704844544",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "fil",
-        "id": "1033845196396472420",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "fi",
-        "id": "8095859101371407852",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "fr",
-        "id": "5326415455296094716",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ka",
-        "id": "7287519934797647031",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "de",
-        "id": "3217813842670981365",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "el",
-        "id": "4504633894140935044",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "gn",
-        "id": "7374823283802890291",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ht",
-        "id": "9018006831491287020",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ha",
-        "id": "3089873689162457282",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "he",
-        "id": "4093414998985127510",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "hi",
-        "id": "3734362063865900209",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "hu",
-        "id": "2199902763990936476",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "is",
-        "id": "83344180879345840",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ig",
-        "id": "280228127242219927",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "id",
-        "id": "6468125114850231168",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ga",
-        "id": "2464218349288671001",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "it",
-        "id": "3917144389300397154",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ja",
-        "id": "8116778405059183880",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "jv",
-        "id": "1247997813423717005",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "kk",
-        "id": "8385988192311508148",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ko",
-        "id": "3808337459373470377",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ku",
-        "id": "7661137300722240584",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ky",
-        "id": "4492779549865369971",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "lo",
-        "id": "468277077436636697",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "lv",
-        "id": "364448785774659583",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "lt",
-        "id": "8704854549943519735",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "lb",
-        "id": "5338786620971677752",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "mk",
-        "id": "6238915579724909485",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "mg",
-        "id": "5282932686144221103",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ms",
-        "id": "5147911519899445250",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ml",
-        "id": "5205796376283477354",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "mt",
-        "id": "8377312773050333352",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "mi",
-        "id": "7548693146383229069",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "mo",
-        "id": "5349740697528936674",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "mn",
-        "id": "7625750086448353433",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ne",
-        "id": "1407641706713618271",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "no",
-        "id": "7169902523894560530",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ny",
-        "id": "7040629675576506437",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ps",
-        "id": "4635611419903982235",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "fa",
-        "id": "573786547889953063",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "pl",
-        "id": "538092928609316363",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "pt",
-        "id": "7173299704455879086",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "pt-BR",
-        "id": "3368480177888592428",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ro",
-        "id": "446630628670053304",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "rm",
-        "id": "4101855491332653694",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ru",
-        "id": "5954573709439954571",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "sm",
-        "id": "5505911187907938091",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "sr",
-        "id": "4426815267426040845",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "sh",
-        "id": "849487295002509523",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "st",
-        "id": "8637192318130593210",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "sn",
-        "id": "608194061398400609",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "sd",
-        "id": "771828946195785512",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "si",
-        "id": "7771468135509575210",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "sk",
-        "id": "8787580127471311520",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "sl",
-        "id": "8491249187985194418",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "so",
-        "id": "7925465388215648031",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "es",
-        "id": "3185438548397267090",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "es-419",
-        "id": "4036321126126804533",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "sw",
-        "id": "5197648287074450319",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "sv",
-        "id": "415066989665148177",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "tg",
-        "id": "23679029924031799",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ta",
-        "id": "389753661891368066",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "th",
-        "id": "2932449342572327182",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ti",
-        "id": "5454274973639178805",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "to",
-        "id": "7756340566097667079",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "tr",
-        "id": "3198784493606787558",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "tk",
-        "id": "1343156425636586078",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "uk",
-        "id": "2450106638844133282",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "ur",
-        "id": "2671353380856171336",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "uz",
-        "id": "2782277991997960489",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "vi",
-        "id": "8626807313298137919",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "yo",
-        "id": "8519931619184477635",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "zu",
-        "id": "3728488786813382265",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
-      },
-      {
-        "name": "MangaPark",
-        "lang": "other",
-        "id": "3104194596825946300",
-        "baseUrl": "https://mangapark.net",
-        "versionId": 2
       }
     ]
   },
@@ -10151,6 +8733,24 @@
         "lang": "en",
         "id": "7888539760648428292",
         "baseUrl": "https://boxmanhwa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Broccoli Soup",
+    "pkg": "eu.kanade.tachiyomi.extension.en.broccolisoup",
+    "apk": "tachiyomi-en.broccolisoup-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Broccoli Soup",
+        "lang": "en",
+        "id": "2175678633501332475",
+        "baseUrl": "https://politeandgood.com",
         "versionId": 1
       }
     ]
@@ -18329,10 +16929,10 @@
   {
     "name": "Tachiyomi: Manga TV",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangatv",
-    "apk": "tachiyomi-es.mangatv-v1.4.31.apk",
+    "apk": "tachiyomi-es.mangatv-v1.4.32.apk",
     "lang": "es",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "sources": [
       {
@@ -19758,10 +18358,10 @@
   {
     "name": "Tachiyomi: Rimu Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.rimuscans",
-    "apk": "tachiyomi-fr.rimuscans-v1.4.32.apk",
+    "apk": "tachiyomi-fr.rimuscans-v1.4.33.apk",
     "lang": "fr",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "sources": [
       {
@@ -20388,18 +18988,18 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.73.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.74.apk",
     "lang": "id",
-    "code": 73,
-    "version": "1.4.73",
+    "code": 74,
+    "version": "1.4.74",
     "nsfw": 0,
     "sources": [
       {
         "name": "Komik Cast",
         "lang": "id",
-        "id": "311605073216875260",
+        "id": "972717448578983812",
         "baseUrl": "https://v1.komikcast.fit",
-        "versionId": 2
+        "versionId": 1
       }
     ]
   },
@@ -27774,10 +26374,10 @@
   {
     "name": "Tachiyomi: HentaiVNx",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnx",
-    "apk": "tachiyomi-vi.hentaivnx-v1.4.1.apk",
+    "apk": "tachiyomi-vi.hentaivnx-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -27893,6 +26493,24 @@
         "lang": "vi",
         "id": "3129953610837449394",
         "baseUrl": "https://nettruyenx.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: NewTruyenTranh",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.newtruyentranh",
+    "apk": "tachiyomi-vi.newtruyentranh-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "NewTruyenTranh",
+        "lang": "vi",
+        "id": "2947299136081074220",
+        "baseUrl": "https://newtruyentranh5.com",
         "versionId": 1
       }
     ]
@@ -28163,6 +26781,24 @@
         "lang": "vi",
         "id": "6425642624422299254",
         "baseUrl": "https://vlogtruyen62.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ZetTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.zettruyen",
+    "apk": "tachiyomi-vi.zettruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "ZetTruyen",
+        "lang": "vi",
+        "id": "893747327087652119",
+        "baseUrl": "https://www.zettruyen.space",
         "versionId": 1
       }
     ]
