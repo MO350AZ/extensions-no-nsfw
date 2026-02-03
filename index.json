@@ -18842,6 +18842,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Holotoon",
+    "pkg": "eu.kanade.tachiyomi.extension.id.holotoon",
+    "apk": "tachiyomi-id.holotoon-v1.4.45.apk",
+    "lang": "id",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Holotoon",
+        "lang": "id",
+        "id": "3970113862660733375",
+        "baseUrl": "https://01.holotoon.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hwago",
     "pkg": "eu.kanade.tachiyomi.extension.id.hwago",
     "apk": "tachiyomi-id.hwago-v1.4.48.apk",
@@ -18988,10 +19006,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.74.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.75.apk",
     "lang": "id",
-    "code": 74,
-    "version": "1.4.74",
+    "code": 75,
+    "version": "1.4.75",
     "nsfw": 0,
     "sources": [
       {
@@ -19220,6 +19238,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: LepoyTL",
+    "pkg": "eu.kanade.tachiyomi.extension.id.lepoytl",
+    "apk": "tachiyomi-id.lepoytl-v1.4.11.apk",
+    "lang": "id",
+    "code": 11,
+    "version": "1.4.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "LepoyTL",
+        "lang": "id",
+        "id": "1601772753251290758",
+        "baseUrl": "https://www.lepoytl.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LianScans",
     "pkg": "eu.kanade.tachiyomi.extension.id.lianscans",
     "apk": "tachiyomi-id.lianscans-v1.4.31.apk",
@@ -19233,6 +19269,24 @@
         "lang": "id",
         "id": "8863831356505058723",
         "baseUrl": "https://www.lianscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LumireVerse",
+    "pkg": "eu.kanade.tachiyomi.extension.id.lumireverse",
+    "apk": "tachiyomi-id.lumireverse-v1.4.45.apk",
+    "lang": "id",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "LumireVerse",
+        "lang": "id",
+        "id": "5049126293924101116",
+        "baseUrl": "https://lumire.asia",
         "versionId": 1
       }
     ]
@@ -19719,6 +19773,42 @@
         "lang": "id",
         "id": "8483137484881504884",
         "baseUrl": "https://pornhwa18.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pramramadhan",
+    "pkg": "eu.kanade.tachiyomi.extension.id.pramramadhan",
+    "apk": "tachiyomi-id.pramramadhan-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Pramramadhan",
+        "lang": "id",
+        "id": "637793516114361627",
+        "baseUrl": "https://01.pramramadhan.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Roseveil",
+    "pkg": "eu.kanade.tachiyomi.extension.id.roseveil",
+    "apk": "tachiyomi-id.roseveil-v1.4.45.apk",
+    "lang": "id",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Roseveil",
+        "lang": "id",
+        "id": "3385863053550386025",
+        "baseUrl": "https://roseveil.org",
         "versionId": 1
       }
     ]
