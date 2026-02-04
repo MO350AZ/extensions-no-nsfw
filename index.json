@@ -10548,24 +10548,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Kawai Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.kawaiscans",
-    "apk": "tachiyomi-en.kawaiscans-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Kawai Scans",
-        "lang": "en",
-        "id": "8787968193649040716",
-        "baseUrl": "https://kawaiscans.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Kayn Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kaynscans",
     "apk": "tachiyomi-en.kaynscans-v1.4.18.apk",
@@ -13086,12 +13068,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: Novel24h",
+    "name": "Tachiyomi: 24HNovel",
     "pkg": "eu.kanade.tachiyomi.extension.en.novel24h",
-    "apk": "tachiyomi-en.novel24h-v1.4.45.apk",
+    "apk": "tachiyomi-en.novel24h-v1.4.46.apk",
     "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
@@ -14888,10 +14870,10 @@
   {
     "name": "Tachiyomi: The Blank",
     "pkg": "eu.kanade.tachiyomi.extension.en.theblank",
-    "apk": "tachiyomi-en.theblank-v1.4.52.apk",
+    "apk": "tachiyomi-en.theblank-v1.4.53.apk",
     "lang": "en",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 1,
     "sources": [
       {
@@ -19989,6 +19971,24 @@
         "lang": "id",
         "id": "8061354444776372735",
         "baseUrl": "https://soulscans.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: TheManga",
+    "pkg": "eu.kanade.tachiyomi.extension.id.themanga",
+    "apk": "tachiyomi-id.themanga-v1.4.45.apk",
+    "lang": "id",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "TheManga",
+        "lang": "id",
+        "id": "4154955713546598190",
+        "baseUrl": "https://themanga.my.id",
         "versionId": 1
       }
     ]
@@ -26871,6 +26871,24 @@
         "lang": "vi",
         "id": "6630877766973917674",
         "baseUrl": "https://ungtycomicsa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Vcomycs",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.vcomycs",
+    "apk": "tachiyomi-vi.vcomycs-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Vcomycs",
+        "lang": "vi",
+        "id": "5613705645187939531",
+        "baseUrl": "https://vivicomi15.info",
         "versionId": 1
       }
     ]
