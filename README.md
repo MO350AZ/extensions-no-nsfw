@@ -1,24 +1,61 @@
-# Keiyoushi Extensions
+# Extensions No NSFW – Safe Manga Extensions Repository
 
-### Please give the repo a :star:
+مستودع إضافات **بدون محتوى +18** لتطبيقات قراءة المانجا.
+هذا المستودع هو **Filtered Mirror** للمستودع الرسمي، ويهدف لتوفير تجربة قراءة آمنة بدون تعديل أي ملفات أصلية.
 
-| Build | Need Help? |
-|-------|---------|
-| [![CI](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml/badge.svg)](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
+---
 
-## Usage
-**If you are new to repository/extensions, please read the [Keiyoushi Getting Started guide](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) first.**
+## 📌 Supported Apps | التطبيقات المدعومة
+- **Tachiyomi (Android)**  
+  https://tachiyomi.org
+- **Mihon (Android)**  
+  https://mihon.app
+- **Tachimanga (iOS)**  
+  https://apps.apple.com/app/id6447486175
 
-* You can add our repo by visiting the [Keiyoushi Website](https://keiyoushi.github.io/add-repo)
-* Otherwise, copy & paste the following URL: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+---
 
-### Source Code
+## 🔗 Repository URL | رابط الإضافة
+انسخ الرابط التالي وأضِفه داخل التطبيق في:
+**Extensions → Repositories**
 
-https://github.com/keiyoushi/extensions-source
+```text
+https://raw.githubusercontent.com/MO350AZ/extensions-no-nsfw/repo/index.min.json
+```
 
-### Report issues
+---
 
-https://github.com/keiyoushi/extensions-source/issues/new/choose
+## 🛡️ What does this repository do?
+- Removes all extensions marked as **NSFW (+18)** automatically
+- Keeps the **original repository structure** (apk / icon / index)
+- Does **NOT** modify APK files or source code
+- Updates automatically to stay in sync with the official repository
 
-### Others
-If you're not using any of the above fork then manually download and update extensions from [the listing page](https://keiyoushi.github.io/extensions/)
+---
+
+## 🛡️ ماذا يقدم هذا المستودع؟
+- حذف تلقائي لكل الإضافات المصنفة **+18**
+- نفس بنية المستودع الرسمي بدون أي تغيير
+- لا يتم تعديل أي ملفات APK أو أيقونات
+- تحديث تلقائي بدون تدخل يدوي
+
+---
+
+## 📖 Original Source | المصدر الأصلي
+This repository is a filtered mirror of the official Keiyoushi extensions repository:
+https://github.com/keiyoushi/extensions
+
+All extensions, APK files, icons, names, and metadata are the property of their respective owners.
+This repository only provides an automated filtering layer for convenience.
+
+جميع الحقوق والملكية الفكرية تعود لأصحابها الأصليين.
+هذا المستودع لا يعيد توزيع أو تعديل المحتوى، بل يوفر فلترة تلقائية فقط.
+
+---
+
+## ⚠️ Disclaimer
+This repository is provided for personal use and convenience.
+If you are the owner of any content and have concerns, please contact the original source.
+
+هذا المستودع للاستخدام الشخصي فقط، وفي حال وجود أي ملاحظات يُرجى الرجوع إلى المصدر الرسمي.
+كده صح ؟
