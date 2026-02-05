@@ -7696,10 +7696,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.57.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.58.apk",
     "lang": "ar",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
@@ -26608,10 +26608,10 @@
   {
     "name": "Tachiyomi: NewTruyenTranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.newtruyentranh",
-    "apk": "tachiyomi-vi.newtruyentranh-v1.4.1.apk",
+    "apk": "tachiyomi-vi.newtruyentranh-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
