@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "*/30 * * * *"   # كل 30 دقيقة
 
+permissions:
+  contents: write
+
 jobs:
   update_filter:
     runs-on: ubuntu-latest
@@ -15,14 +18,33 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Ensure jq is installed
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Save local README
+        run: |
+          if [ -f README.md ]; then
+            cp README.md /tmp/README.local
+          fi
+
       - name: Fetch upstream repo
         run: |
           git remote add upstream https://github.com/keiyoushi/extensions.git || true
           git fetch upstream
 
-      - name: Update files from upstream (safe)
+      - name: Update selected files from upstream (sync)
         run: |
           git checkout upstream/repo -- apk icon index.html index.json index.min.json
+          # امسح الملفات اللي اتحذفت upstream
+          git checkout . && git status --porcelain
+
+      - name: Restore local README
+        run: |
+          if [ -f /tmp/README.local ]; then
+            mv /tmp/README.local README.md
+          fi
 
       - name: Filter NSFW from index files
         run: |
@@ -33,8 +55,9 @@ jobs:
 
       - name: Commit & push changes
         run: |
+          set -e
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add apk icon index.html index.json index.min.json
-          git commit -m "Update extensions & filter NSFW" || echo "No changes"
+          git add apk icon index.html index.json index.min.json README.md
+          git commit -m "Update extensions & filter NSFW (keep README)" || exit 0
           git push
