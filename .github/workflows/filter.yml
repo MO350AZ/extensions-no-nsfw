@@ -1,0 +1,40 @@
+name: Update & filter extensions repo (no NSFW)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"   # كل 30 دقيقة
+
+jobs:
+  update_filter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch upstream repo
+        run: |
+          git remote add upstream https://github.com/keiyoushi/extensions.git || true
+          git fetch upstream
+
+      - name: Update files from upstream (safe)
+        run: |
+          git checkout upstream/repo -- apk icon index.html index.json index.min.json
+
+      - name: Filter NSFW from index files
+        run: |
+          jq '[.[] | select(.nsfw != 1)]' index.json > index.tmp.json
+          jq -c '[.[] | select(.nsfw != 1)]' index.min.json > index.tmp.min.json
+          mv index.tmp.json index.json
+          mv index.tmp.min.json index.min.json
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add apk icon index.html index.json index.min.json
+          git commit -m "Update extensions & filter NSFW" || echo "No changes"
+          git push
