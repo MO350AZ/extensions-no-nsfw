@@ -7057,10 +7057,10 @@
   {
     "name": "Tachiyomi: AnimeSama",
     "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
-    "apk": "tachiyomi-fr.animesama-v1.4.13.apk",
+    "apk": "tachiyomi-fr.animesama-v1.4.14.apk",
     "lang": "fr",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "sources": [
       {
@@ -7141,24 +7141,6 @@
         "id": "2095949455655924623",
         "baseUrl": "https://bluesolo.org",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Legacy Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.flamescansfr",
-    "apk": "tachiyomi-fr.flamescansfr-v1.4.31.apk",
-    "lang": "fr",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Legacy Scans",
-        "lang": "fr",
-        "id": "6502091652464133570",
-        "baseUrl": "https://legacy-scans.com",
-        "versionId": 2
       }
     ]
   },
@@ -10502,6 +10484,24 @@
         "lang": "tr",
         "id": "546920749196078093",
         "baseUrl": "https://hayalistic.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Holy Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.holyscans",
+    "apk": "tachiyomi-tr.holyscans-v1.4.45.apk",
+    "lang": "tr",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Holy Scans",
+        "lang": "tr",
+        "id": "5655539211698234342",
+        "baseUrl": "https://holyscans.com.tr",
         "versionId": 1
       }
     ]
