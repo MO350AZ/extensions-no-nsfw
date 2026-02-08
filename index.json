@@ -3324,17 +3324,17 @@
   {
     "name": "Tachiyomi: Elf Toon",
     "pkg": "eu.kanade.tachiyomi.extension.en.elftoon",
-    "apk": "tachiyomi-en.elftoon-v1.4.31.apk",
+    "apk": "tachiyomi-en.elftoon-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
         "name": "Elf Toon",
         "lang": "en",
         "id": "3896703921896511395",
-        "baseUrl": "https://elftoon.xyz",
+        "baseUrl": "https://elftoon.com",
         "versionId": 1
       }
     ]
@@ -8389,10 +8389,10 @@
   {
     "name": "Tachiyomi: Comic Gardo",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comicgardo",
-    "apk": "tachiyomi-ja.comicgardo-v1.4.8.apk",
+    "apk": "tachiyomi-ja.comicgardo-v1.4.9.apk",
     "lang": "ja",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
@@ -8850,6 +8850,24 @@
         "lang": "ja",
         "id": "4278045440527026000",
         "baseUrl": "https://mangakuro.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga-Park",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangaparkpublisher",
+    "apk": "tachiyomi-ja.mangaparkpublisher-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga-Park",
+        "lang": "ja",
+        "id": "2905661176145448719",
+        "baseUrl": "https://manga-park.com",
         "versionId": 1
       }
     ]
