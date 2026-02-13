@@ -8945,6 +8945,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga UP! (Japan)",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangaupjapan",
+    "apk": "tachiyomi-ja.mangaupjapan-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga UP! (Japan)",
+        "lang": "ja",
+        "id": "697820552173578283",
+        "baseUrl": "https://www.manga-up.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nicovideo Seiga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.nicovideoseiga",
     "apk": "tachiyomi-ja.nicovideoseiga-v1.4.7.apk",
