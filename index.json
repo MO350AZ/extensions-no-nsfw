@@ -8603,6 +8603,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: CyComi",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.cycomi",
+    "apk": "tachiyomi-ja.cycomi-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "CyComi",
+        "lang": "ja",
+        "id": "8354556596244088751",
+        "baseUrl": "https://cycomi.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Docomo",
     "pkg": "eu.kanade.tachiyomi.extension.ja.docomo",
     "apk": "tachiyomi-ja.docomo-v1.4.1.apk",
@@ -9120,6 +9138,24 @@
         "lang": "ja",
         "id": "1896940876613282856",
         "baseUrl": "https://video.unext.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Young Jump+",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.ynjn",
+    "apk": "tachiyomi-ja.ynjn-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Young Jump+",
+        "lang": "ja",
+        "id": "3322701627784242064",
+        "baseUrl": "https://ynjn.jp",
         "versionId": 1
       }
     ]
