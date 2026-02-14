@@ -2892,10 +2892,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.52.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.53.apk",
     "lang": "en",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
@@ -3623,24 +3623,6 @@
         "lang": "en",
         "id": "4006397036545425884",
         "baseUrl": "https://www.blastwave-comic.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Hanuman Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.en.hanumanscan",
-    "apk": "tachiyomi-en.hanumanscan-v1.4.30.apk",
-    "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Hanuman Scan",
-        "lang": "en",
-        "id": "7771447263946705813",
-        "baseUrl": "https://hanumanscan.com",
         "versionId": 1
       }
     ]
@@ -6155,24 +6137,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: xCaliBR Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.xcalibrscans",
-    "apk": "tachiyomi-en.xcalibrscans-v1.4.35.apk",
-    "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "xCaliBR Scans",
-        "lang": "en",
-        "id": "5625393326855296209",
-        "baseUrl": "https://xcalibrscans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: XOXO Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.xoxocomics",
     "apk": "tachiyomi-en.xoxocomics-v1.4.12.apk",
@@ -6600,24 +6564,6 @@
         "lang": "es",
         "id": "5292079548510508306",
         "baseUrl": "https://lectorhub.j5z.xyz",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: La Zona del Lirio",
-    "pkg": "eu.kanade.tachiyomi.extension.es.lazonadellirio",
-    "apk": "tachiyomi-es.lazonadellirio-v1.4.30.apk",
-    "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "La Zona del Lirio",
-        "lang": "es",
-        "id": "5037392894456125536",
-        "baseUrl": "https://lazonadellirio.com",
         "versionId": 1
       }
     ]
@@ -9517,24 +9463,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Fênix Manhwas",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.fenixmanhwas",
-    "apk": "tachiyomi-pt.fenixmanhwas-v1.4.45.apk",
-    "lang": "pt-BR",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Fênix Manhwas",
-        "lang": "pt-BR",
-        "id": "969957311690402964",
-        "baseUrl": "https://fenixscan.xyz",
-        "versionId": 3
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: HQ Now!",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hqnow",
     "apk": "tachiyomi-pt.hqnow-v1.4.7.apk",
@@ -10077,10 +10005,10 @@
   {
     "name": "Tachiyomi: Com-X",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.4.33.apk",
+    "apk": "tachiyomi-ru.comx-v1.4.34.apk",
     "lang": "ru",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "sources": [
       {
@@ -10304,24 +10232,6 @@
         "lang": "tr",
         "id": "8964063758548358169",
         "baseUrl": "https://manga.adonisfansub.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Adu Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.adumanga",
-    "apk": "tachiyomi-tr.adumanga-v1.4.31.apk",
-    "lang": "tr",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Adu Manga",
-        "lang": "tr",
-        "id": "1823090555849741450",
-        "baseUrl": "https://adumanga.com",
         "versionId": 1
       }
     ]
