@@ -114,6 +114,31 @@
     ]
   },
   {
+    "name": "Tachiyomi: Corona EX",
+    "pkg": "eu.kanade.tachiyomi.extension.all.coronaex",
+    "apk": "tachiyomi-all.coronaex-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Corona EX",
+        "lang": "ja",
+        "id": "4760608706245794364",
+        "baseUrl": "https://to-corona-ex.com",
+        "versionId": 1
+      },
+      {
+        "name": "Corona EX",
+        "lang": "en",
+        "id": "8608333040792766579",
+        "baseUrl": "https://en.to-corona-ex.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
     "apk": "tachiyomi-all.cubari-v1.4.26.apk",
@@ -876,10 +901,10 @@
   {
     "name": "Tachiyomi: MangaTaro",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangataro",
-    "apk": "tachiyomi-all.mangataro-v1.4.7.apk",
+    "apk": "tachiyomi-all.mangataro-v1.4.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
@@ -2687,6 +2712,24 @@
         "lang": "en",
         "id": "5167190516702075823",
         "baseUrl": "https://aeinscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Akai Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.en.akaicomic",
+    "apk": "tachiyomi-en.akaicomic-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Akai Comic",
+        "lang": "en",
+        "id": "1987646205658282178",
+        "baseUrl": "https://akaicomic.org",
         "versionId": 1
       }
     ]
@@ -5484,10 +5527,10 @@
   {
     "name": "Tachiyomi: Sana Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.sanascans",
-    "apk": "tachiyomi-en.sanascans-v1.4.16.apk",
+    "apk": "tachiyomi-en.sanascans-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "sources": [
       {
@@ -8281,10 +8324,10 @@
   {
     "name": "Tachiyomi: ZeurelScan",
     "pkg": "eu.kanade.tachiyomi.extension.it.zeurelscan",
-    "apk": "tachiyomi-it.zeurelscan-v1.4.1.apk",
+    "apk": "tachiyomi-it.zeurelscan-v1.4.2.apk",
     "lang": "it",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -10041,10 +10084,10 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.81.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.82.apk",
     "lang": "ru",
-    "code": 81,
-    "version": "1.4.81",
+    "code": 82,
+    "version": "1.4.82",
     "nsfw": 0,
     "sources": [
       {
@@ -10059,10 +10102,10 @@
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.36.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.37.apk",
     "lang": "ru",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "sources": [
       {
@@ -10077,10 +10120,10 @@
   {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.57.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.58.apk",
     "lang": "ru",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
