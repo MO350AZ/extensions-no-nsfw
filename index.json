@@ -1018,24 +1018,24 @@
   {
     "name": "Tachiyomi: MayoTune",
     "pkg": "eu.kanade.tachiyomi.extension.all.mayotune",
-    "apk": "tachiyomi-all.mayotune-v1.4.1.apk",
+    "apk": "tachiyomi-all.mayotune-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
         "name": "MayoTune",
         "lang": "en",
         "id": "1480743237782384863",
-        "baseUrl": "https://mayotune.xyz",
+        "baseUrl": "https://mayochuu.xyz",
         "versionId": 1
       },
       {
         "name": "MayoTune",
         "lang": "ja",
         "id": "6644592287307303034",
-        "baseUrl": "https://mayotune.xyz",
+        "baseUrl": "https://mayochuu.xyz",
         "versionId": 1
       }
     ]
@@ -2231,24 +2231,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaPeak",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangapeak",
-    "apk": "tachiyomi-ar.mangapeak-v1.4.45.apk",
-    "lang": "ar",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "MangaPeak",
-        "lang": "ar",
-        "id": "4230561864524668567",
-        "baseUrl": "https://mangapeak.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaRabic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangarabic",
     "apk": "tachiyomi-ar.mangarabic-v1.4.47.apk",
@@ -2683,10 +2665,10 @@
   {
     "name": "Tachiyomi: Akai Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.akaicomic",
-    "apk": "tachiyomi-en.akaicomic-v1.4.1.apk",
+    "apk": "tachiyomi-en.akaicomic-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -3473,24 +3455,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: First Kiss Manhua",
-    "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmanhua",
-    "apk": "tachiyomi-en.firstkissmanhua-v1.4.45.apk",
-    "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "First Kiss Manhua",
-        "lang": "en",
-        "id": "4456397737267372625",
-        "baseUrl": "https://1stkissmanhua.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Flame Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
     "apk": "tachiyomi-en.flamecomics-v1.4.47.apk",
@@ -4067,24 +4031,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Leveling",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangaleveling",
-    "apk": "tachiyomi-en.mangaleveling-v1.4.46.apk",
-    "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Manga Leveling",
-        "lang": "en",
-        "id": "6857749122127602340",
-        "baseUrl": "https://mangaleveling.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangamo",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangamo",
     "apk": "tachiyomi-en.mangamo-v1.4.7.apk",
@@ -4260,24 +4206,6 @@
         "lang": "en",
         "id": "2764028939948004818",
         "baseUrl": "https://mangatyrant.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manhua AZ",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manhuaaz",
-    "apk": "tachiyomi-en.manhuaaz-v1.4.45.apk",
-    "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Manhua AZ",
-        "lang": "en",
-        "id": "5494053024328138644",
-        "baseUrl": "https://manhuaaz.com",
         "versionId": 1
       }
     ]
@@ -6432,24 +6360,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Foy Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.foyscan",
-    "apk": "tachiyomi-es.foyscan-v1.4.5.apk",
-    "lang": "es",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Foy Scan",
-        "lang": "es",
-        "id": "2706110739970584916",
-        "baseUrl": "https://foyscan.xyz",
-        "versionId": 2
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Gremory Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.gremorymangas",
     "apk": "tachiyomi-es.gremorymangas-v1.4.30.apk",
@@ -7584,24 +7494,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Futari",
-    "pkg": "eu.kanade.tachiyomi.extension.id.futari",
-    "apk": "tachiyomi-id.futari-v1.4.30.apk",
-    "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Futari",
-        "lang": "id",
-        "id": "1614420663316197917",
-        "baseUrl": "https://futari.info",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Hwago",
     "pkg": "eu.kanade.tachiyomi.extension.id.hwago",
     "apk": "tachiyomi-id.hwago-v1.4.48.apk",
@@ -8731,6 +8623,24 @@
         "lang": "ja",
         "id": "2876739237900975302",
         "baseUrl": "https://comic.j-nbooks.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Jump Rookie!",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.jumprookie",
+    "apk": "tachiyomi-ja.jumprookie-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Jump Rookie!",
+        "lang": "ja",
+        "id": "4194563020378281165",
+        "baseUrl": "https://rookie.shonenjump.com",
         "versionId": 1
       }
     ]
@@ -10388,24 +10298,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Athena Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.athenamanga",
-    "apk": "tachiyomi-tr.athenamanga-v1.4.30.apk",
-    "lang": "tr",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Athena Manga",
-        "lang": "tr",
-        "id": "7080008055297531372",
-        "baseUrl": "https://athenamanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: DiamondFansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.diamondfansub",
     "apk": "tachiyomi-tr.diamondfansub-v1.4.47.apk",
@@ -10426,10 +10318,10 @@
   {
     "name": "Tachiyomi: Elder Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.eldermanga",
-    "apk": "tachiyomi-tr.eldermanga-v1.4.4.apk",
+    "apk": "tachiyomi-tr.eldermanga-v1.4.5.apk",
     "lang": "tr",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -10546,24 +10438,6 @@
         "id": "5655539211698234342",
         "baseUrl": "https://holyscans.com.tr",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Seraph Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.hyperionscans",
-    "apk": "tachiyomi-tr.hyperionscans-v1.4.30.apk",
-    "lang": "tr",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Seraph Manga",
-        "lang": "tr",
-        "id": "571713912581469126",
-        "baseUrl": "https://www.seraphmanga.com",
-        "versionId": 2
       }
     ]
   },
@@ -11002,10 +10876,10 @@
   {
     "name": "Tachiyomi: Tenshi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.tenshimanga",
-    "apk": "tachiyomi-tr.tenshimanga-v1.4.3.apk",
+    "apk": "tachiyomi-tr.tenshimanga-v1.4.4.apk",
     "lang": "tr",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -11056,10 +10930,10 @@
   {
     "name": "Tachiyomi: Uzay Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.uzaymanga",
-    "apk": "tachiyomi-tr.uzaymanga-v1.4.43.apk",
+    "apk": "tachiyomi-tr.uzaymanga-v1.4.44.apk",
     "lang": "tr",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "sources": [
       {
@@ -11668,10 +11542,10 @@
   {
     "name": "Tachiyomi: Zazhimi",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zazhimi",
-    "apk": "tachiyomi-zh.zazhimi-v1.4.1.apk",
+    "apk": "tachiyomi-zh.zazhimi-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
