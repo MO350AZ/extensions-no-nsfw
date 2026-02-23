@@ -7316,10 +7316,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.55.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.56.apk",
     "lang": "fr",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 0,
     "sources": [
       {
@@ -9814,17 +9814,17 @@
   {
     "name": "Tachiyomi: Point Zero Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.pointzerotoons",
-    "apk": "tachiyomi-pt.pointzerotoons-v1.4.30.apk",
+    "apk": "tachiyomi-pt.pointzerotoons-v1.4.31.apk",
     "lang": "pt-BR",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
         "name": "Point Zero Toons",
         "lang": "pt-BR",
         "id": "2210021497257492329",
-        "baseUrl": "https://pointzerotoons.com",
+        "baseUrl": "https://kitsuneyako.com",
         "versionId": 1
       }
     ]
