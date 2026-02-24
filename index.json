@@ -3959,6 +3959,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaBolt",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangabolt",
+    "apk": "tachiyomi-en.mangabolt-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaBolt",
+        "lang": "en",
+        "id": "286088605022156276",
+        "baseUrl": "https://mangabolt.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaCloud",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangacloud",
     "apk": "tachiyomi-en.mangacloud-v1.4.2.apk",
@@ -4985,42 +5003,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Read Dragon Ball Super Chou Manga Online",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readdragonballsuperchoumangaonline",
-    "apk": "tachiyomi-en.readdragonballsuperchoumangaonline-v1.4.7.apk",
-    "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Read Dragon Ball Super Chou Manga Online",
-        "lang": "en",
-        "id": "1895892725356006040",
-        "baseUrl": "https://ww10.dbsmanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Read Dr. Stone Manga Online",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readdrstonemangaonline",
-    "apk": "tachiyomi-en.readdrstonemangaonline-v1.4.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Read Dr. Stone Manga Online",
-        "lang": "en",
-        "id": "4775596584317824593",
-        "baseUrl": "https://ww7.readdrstone.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Read Fairy Tail & Edens Zero Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readfairytailedenszeromangaonline",
     "apk": "tachiyomi-en.readfairytailedenszeromangaonline-v1.4.7.apk",
@@ -5057,24 +5039,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Read Hunter x Hunter Manga Online",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readhunterxhuntermangaonline",
-    "apk": "tachiyomi-en.readhunterxhuntermangaonline-v1.4.7.apk",
-    "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Read Hunter x Hunter Manga Online",
-        "lang": "en",
-        "id": "2086548583667971348",
-        "baseUrl": "https://ww6.readhxh.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Read Jujutsu Kaisen Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline",
     "apk": "tachiyomi-en.readjujutsukaisenmangaonline-v1.4.7.apk",
@@ -5088,24 +5052,6 @@
         "lang": "en",
         "id": "808850989053853006",
         "baseUrl": "https://ww5.readjujutsukaisen.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Read Kaguya-sama Manga Online",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readkaguyasamamangaonline",
-    "apk": "tachiyomi-en.readkaguyasamamangaonline-v1.4.7.apk",
-    "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Read Kaguya-sama Manga Online",
-        "lang": "en",
-        "id": "7780915030007693556",
-        "baseUrl": "https://ww4.readkaguyasama.com",
         "versionId": 1
       }
     ]
@@ -5219,24 +5165,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Read The Promised Neverland Manga Online",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readthepromisedneverlandmangaonline",
-    "apk": "tachiyomi-en.readthepromisedneverlandmangaonline-v1.4.7.apk",
-    "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Read The Promised Neverland Manga Online",
-        "lang": "en",
-        "id": "9035149068992454642",
-        "baseUrl": "https://ww7.readneverland.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline",
     "apk": "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.9.apk",
@@ -5268,24 +5196,6 @@
         "lang": "en",
         "id": "5300358436613908601",
         "baseUrl": "https://readbagabondo.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Read Vinland Saga Manga Online",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readvinlandsagamangaonline",
-    "apk": "tachiyomi-en.readvinlandsagamangaonline-v1.4.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Read Vinland Saga Manga Online",
-        "lang": "en",
-        "id": "8538029397471410463",
-        "baseUrl": "https://ww5.readvinlandsaga.com",
         "versionId": 1
       }
     ]
@@ -7586,10 +7496,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.76.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.77.apk",
     "lang": "id",
-    "code": 76,
-    "version": "1.4.76",
+    "code": 77,
+    "version": "1.4.77",
     "nsfw": 0,
     "sources": [
       {
@@ -7694,10 +7604,10 @@
   {
     "name": "Tachiyomi: LepoyTL",
     "pkg": "eu.kanade.tachiyomi.extension.id.lepoytl",
-    "apk": "tachiyomi-id.lepoytl-v1.4.12.apk",
+    "apk": "tachiyomi-id.lepoytl-v1.4.13.apk",
     "lang": "id",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "sources": [
       {
@@ -8018,10 +7928,10 @@
   {
     "name": "Tachiyomi: TheManga",
     "pkg": "eu.kanade.tachiyomi.extension.id.themanga",
-    "apk": "tachiyomi-id.themanga-v1.4.45.apk",
+    "apk": "tachiyomi-id.themanga-v1.4.46.apk",
     "lang": "id",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
@@ -8029,6 +7939,24 @@
         "lang": "id",
         "id": "4154955713546598190",
         "baseUrl": "https://themanga.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ulas Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.id.ulascomic",
+    "apk": "tachiyomi-id.ulascomic-v1.4.11.apk",
+    "lang": "id",
+    "code": 11,
+    "version": "1.4.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Ulas Comic",
+        "lang": "id",
+        "id": "440952493414630310",
+        "baseUrl": "https://www.ulascomic01.xyz",
         "versionId": 1
       }
     ]
