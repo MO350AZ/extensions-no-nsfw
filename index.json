@@ -2485,10 +2485,10 @@
   {
     "name": "Tachiyomi: Rocks Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.rocksmanga",
-    "apk": "tachiyomi-ar.rocksmanga-v1.4.47.apk",
+    "apk": "tachiyomi-ar.rocksmanga-v1.4.48.apk",
     "lang": "ar",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "sources": [
       {
@@ -6270,24 +6270,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: De Todo Un Poco Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.dtupscan",
-    "apk": "tachiyomi-es.dtupscan-v1.4.30.apk",
-    "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "De Todo Un Poco Scan",
-        "lang": "es",
-        "id": "3263535958507339356",
-        "baseUrl": "https://dtupscan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Emperor Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
     "apk": "tachiyomi-es.emperorscan-v1.4.53.apk",
@@ -7314,24 +7296,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Royal Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.royalmanga",
-    "apk": "tachiyomi-fr.royalmanga-v1.4.11.apk",
-    "lang": "fr",
-    "code": 11,
-    "version": "1.4.11",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Royal Manga",
-        "lang": "fr",
-        "id": "7266530168288450718",
-        "baseUrl": "https://www.royalmanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Scantrad Union",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scantradunion",
     "apk": "tachiyomi-fr.scantradunion-v1.4.2.apk",
@@ -7928,10 +7892,10 @@
   {
     "name": "Tachiyomi: Softkomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.softkomik",
-    "apk": "tachiyomi-id.softkomik-v1.4.2.apk",
+    "apk": "tachiyomi-id.softkomik-v1.4.3.apk",
     "lang": "id",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -9902,24 +9866,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Winter Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.winterscan",
-    "apk": "tachiyomi-pt.winterscan-v1.4.49.apk",
-    "lang": "pt-BR",
-    "code": 49,
-    "version": "1.4.49",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Winter Scan",
-        "lang": "pt-BR",
-        "id": "9191031408908163145",
-        "baseUrl": "https://winterscan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Wolftoon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.wolftoon",
     "apk": "tachiyomi-pt.wolftoon-v1.4.3.apk",
@@ -11038,10 +10984,10 @@
   {
     "name": "Tachiyomi: ManhuaRock",
     "pkg": "eu.kanade.tachiyomi.extension.vi.manhuarock",
-    "apk": "tachiyomi-vi.manhuarock-v1.4.15.apk",
+    "apk": "tachiyomi-vi.manhuarock-v1.4.16.apk",
     "lang": "vi",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "sources": [
       {
@@ -11182,17 +11128,17 @@
   {
     "name": "Tachiyomi: ZetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.zettruyen",
-    "apk": "tachiyomi-vi.zettruyen-v1.4.1.apk",
+    "apk": "tachiyomi-vi.zettruyen-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
         "name": "ZetTruyen",
         "lang": "vi",
         "id": "893747327087652119",
-        "baseUrl": "https://www.zettruyen.space",
+        "baseUrl": "https://www.zettruyen.us",
         "versionId": 1
       }
     ]
