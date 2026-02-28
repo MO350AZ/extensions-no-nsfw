@@ -1963,10 +1963,10 @@
   {
     "name": "Tachiyomi: Area Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.areamanga",
-    "apk": "tachiyomi-ar.areamanga-v1.4.31.apk",
+    "apk": "tachiyomi-ar.areamanga-v1.4.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
@@ -3799,10 +3799,10 @@
   {
     "name": "Tachiyomi: K Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.kmanga",
-    "apk": "tachiyomi-en.kmanga-v1.4.2.apk",
+    "apk": "tachiyomi-en.kmanga-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -8520,6 +8520,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Flower Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.flowercomics",
+    "apk": "tachiyomi-ja.flowercomics-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Flower Comics",
+        "lang": "ja",
+        "id": "6525907185900913523",
+        "baseUrl": "https://flowercomics.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Gangan Online",
     "pkg": "eu.kanade.tachiyomi.extension.ja.ganganonline",
     "apk": "tachiyomi-ja.ganganonline-v1.4.2.apk",
@@ -9634,10 +9652,10 @@
   {
     "name": "Tachiyomi: Monte Tai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.montetai",
-    "apk": "tachiyomi-pt.montetai-v1.4.45.apk",
+    "apk": "tachiyomi-pt.montetai-v1.4.46.apk",
     "lang": "pt-BR",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
