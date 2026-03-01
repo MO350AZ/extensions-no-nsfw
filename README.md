@@ -58,4 +58,3 @@ This repository is provided for personal use and convenience.
 If you are the owner of any content and have concerns, please contact the original source.
 
 هذا المستودع للاستخدام الشخصي فقط، وفي حال وجود أي ملاحظات يُرجى الرجوع إلى المصدر الرسمي.
-كده صح ؟
