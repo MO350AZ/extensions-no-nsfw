@@ -2179,17 +2179,17 @@
   {
     "name": "Tachiyomi: Mangalek",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
-    "apk": "tachiyomi-ar.mangalek-v1.4.53.apk",
+    "apk": "tachiyomi-ar.mangalek-v1.4.54.apk",
     "lang": "ar",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "sources": [
       {
         "name": "مانجا ليك",
         "lang": "ar",
         "id": "918460697583900080",
-        "baseUrl": "https://lekmanga.net#, https://lekmanga.org#, https://like-manga.net#, https://lekmanga.com#, https://manga-leko.org",
+        "baseUrl": "https://lekmanga.net#, https://lekmanga.online#, https://like-manga.net#, https://lekmanga.site#, https://manga-leko.site",
         "versionId": 1
       }
     ]
@@ -3673,10 +3673,10 @@
   {
     "name": "Tachiyomi: Hive Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.4.52.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.4.53.apk",
     "lang": "en",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
@@ -6866,10 +6866,10 @@
   {
     "name": "Tachiyomi: Taurus Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.taurusfansub",
-    "apk": "tachiyomi-es.taurusfansub-v1.4.52.apk",
+    "apk": "tachiyomi-es.taurusfansub-v1.4.53.apk",
     "lang": "es",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
@@ -11128,10 +11128,10 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.4.20.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.21.apk",
     "lang": "vi",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "sources": [
       {
@@ -11146,17 +11146,17 @@
   {
     "name": "Tachiyomi: ZetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.zettruyen",
-    "apk": "tachiyomi-vi.zettruyen-v1.4.2.apk",
+    "apk": "tachiyomi-vi.zettruyen-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
         "name": "ZetTruyen",
         "lang": "vi",
         "id": "893747327087652119",
-        "baseUrl": "https://www.zettruyen.us",
+        "baseUrl": "https://www.zettruyen.africa",
         "versionId": 1
       }
     ]
