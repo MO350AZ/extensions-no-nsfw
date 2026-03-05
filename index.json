@@ -2591,6 +2591,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: WaveTeamy",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.waveteamy",
+    "apk": "tachiyomi-ar.waveteamy-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "WaveTeamy",
+        "lang": "ar",
+        "id": "898162339487144205",
+        "baseUrl": "https://waveteamy.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Yokai",
     "pkg": "eu.kanade.tachiyomi.extension.ar.yokai",
     "apk": "tachiyomi-ar.yokai-v1.4.12.apk",
@@ -4987,10 +5005,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.38.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "sources": [
       {
@@ -7280,10 +7298,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.57.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.58.apk",
     "lang": "fr",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
@@ -7514,17 +7532,17 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.4.46.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.4.47.apk",
     "lang": "id",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
         "name": "Kiryuu",
         "lang": "id",
         "id": "3639673976007021338",
-        "baseUrl": "https://kiryuu03.com",
+        "baseUrl": "https://v1.kiryuu.to",
         "versionId": 1
       }
     ]
@@ -9490,10 +9508,10 @@
   {
     "name": "Tachiyomi: Kairos Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.kairostoons",
-    "apk": "tachiyomi-pt.kairostoons-v1.4.1.apk",
+    "apk": "tachiyomi-pt.kairostoons-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -9861,6 +9879,24 @@
         "lang": "pt-BR",
         "id": "3492404357721425345",
         "baseUrl": "https://rfdragonscan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Risentoons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.risentoons",
+    "apk": "tachiyomi-pt.risentoons-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Risentoons",
+        "lang": "pt-BR",
+        "id": "4905131080278546043",
+        "baseUrl": "https://risentoons.xyz",
         "versionId": 1
       }
     ]
