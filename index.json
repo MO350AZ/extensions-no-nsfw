@@ -552,6 +552,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kodoku Studio",
+    "pkg": "eu.kanade.tachiyomi.extension.all.kodokustudio",
+    "apk": "tachiyomi-all.kodokustudio-v1.4.45.apk",
+    "lang": "all",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Kodoku Studio",
+        "lang": "all",
+        "id": "1835150489344342556",
+        "baseUrl": "https://kodokustudio.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
     "apk": "tachiyomi-all.komga-v1.4.64.apk",
