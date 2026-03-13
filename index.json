@@ -2017,10 +2017,10 @@
   {
     "name": "Tachiyomi: Azora",
     "pkg": "eu.kanade.tachiyomi.extension.ar.azora",
-    "apk": "tachiyomi-ar.azora-v1.4.58.apk",
+    "apk": "tachiyomi-ar.azora-v1.4.59.apk",
     "lang": "ar",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "sources": [
       {
@@ -2663,24 +2663,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: AllManga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.allanime",
-    "apk": "tachiyomi-en.allanime-v1.4.10.apk",
-    "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "AllManga",
-        "lang": "en",
-        "id": "4709139914729853090",
-        "baseUrl": "https://allmanga.to",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Aqua Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.aquamanga",
     "apk": "tachiyomi-en.aquamanga-v1.4.55.apk",
@@ -2755,10 +2737,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.53.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.54.apk",
     "lang": "en",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "sources": [
       {
@@ -3367,10 +3349,10 @@
   {
     "name": "Tachiyomi: EZmanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.ezmanga",
-    "apk": "tachiyomi-en.ezmanga-v1.4.56.apk",
+    "apk": "tachiyomi-en.ezmanga-v1.4.57.apk",
     "lang": "en",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 0,
     "sources": [
       {
@@ -3583,10 +3565,10 @@
   {
     "name": "Tachiyomi: Hijala Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.hijalascans",
-    "apk": "tachiyomi-en.hijalascans-v1.4.14.apk",
+    "apk": "tachiyomi-en.hijalascans-v1.4.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "sources": [
       {
@@ -3637,10 +3619,10 @@
   {
     "name": "Tachiyomi: Hive Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.4.55.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.4.56.apk",
     "lang": "en",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 0,
     "sources": [
       {
@@ -3709,10 +3691,10 @@
   {
     "name": "Tachiyomi: Ken Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kenscans",
-    "apk": "tachiyomi-en.kenscans-v1.4.23.apk",
+    "apk": "tachiyomi-en.kenscans-v1.4.24.apk",
     "lang": "en",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 0,
     "sources": [
       {
@@ -3907,10 +3889,10 @@
   {
     "name": "Tachiyomi: Magus Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.magusmanga",
-    "apk": "tachiyomi-en.magusmanga-v1.4.59.apk",
+    "apk": "tachiyomi-en.magusmanga-v1.4.60.apk",
     "lang": "en",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 0,
     "sources": [
       {
@@ -4537,10 +4519,10 @@
   {
     "name": "Tachiyomi: Nyx Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.nyxscans",
-    "apk": "tachiyomi-en.nyxscans-v1.4.15.apk",
+    "apk": "tachiyomi-en.nyxscans-v1.4.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "sources": [
       {
@@ -4681,10 +4663,10 @@
   {
     "name": "Tachiyomi: Qi Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.qiscans",
-    "apk": "tachiyomi-en.qiscans-v1.4.19.apk",
+    "apk": "tachiyomi-en.qiscans-v1.4.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "sources": [
       {
@@ -4807,10 +4789,10 @@
   {
     "name": "Tachiyomi: ReadAllComics",
     "pkg": "eu.kanade.tachiyomi.extension.en.readallcomicscom",
-    "apk": "tachiyomi-en.readallcomicscom-v1.4.7.apk",
+    "apk": "tachiyomi-en.readallcomicscom-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
@@ -4825,10 +4807,10 @@
   {
     "name": "Tachiyomi: Read Attack on Titan Shingeki no Kyojin Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga",
-    "apk": "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.11.apk",
+    "apk": "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "sources": [
       {
@@ -4843,10 +4825,10 @@
   {
     "name": "Tachiyomi: Read Berserk Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.readberserkmanga",
-    "apk": "tachiyomi-en.readberserkmanga-v1.4.6.apk",
+    "apk": "tachiyomi-en.readberserkmanga-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -4861,10 +4843,10 @@
   {
     "name": "Tachiyomi: Read Black Clover Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readblackclovermangaonline",
-    "apk": "tachiyomi-en.readblackclovermangaonline-v1.4.6.apk",
+    "apk": "tachiyomi-en.readblackclovermangaonline-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -4879,10 +4861,10 @@
   {
     "name": "Tachiyomi: Read Boku no Hero Academia My Hero Academia Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga",
-    "apk": "tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.8.apk",
+    "apk": "tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
@@ -4933,10 +4915,10 @@
   {
     "name": "Tachiyomi: Read Fairy Tail & Edens Zero Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readfairytailedenszeromangaonline",
-    "apk": "tachiyomi-en.readfairytailedenszeromangaonline-v1.4.7.apk",
+    "apk": "tachiyomi-en.readfairytailedenszeromangaonline-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
@@ -4951,10 +4933,10 @@
   {
     "name": "Tachiyomi: Read Haikyuu!! Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readhaikyuumangaonline",
-    "apk": "tachiyomi-en.readhaikyuumangaonline-v1.4.6.apk",
+    "apk": "tachiyomi-en.readhaikyuumangaonline-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -4969,10 +4951,10 @@
   {
     "name": "Tachiyomi: Read Jujutsu Kaisen Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline",
-    "apk": "tachiyomi-en.readjujutsukaisenmangaonline-v1.4.7.apk",
+    "apk": "tachiyomi-en.readjujutsukaisenmangaonline-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
@@ -4987,10 +4969,10 @@
   {
     "name": "Tachiyomi: Read Kingdom Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readkingdommangaonline",
-    "apk": "tachiyomi-en.readkingdommangaonline-v1.4.6.apk",
+    "apk": "tachiyomi-en.readkingdommangaonline-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -5005,10 +4987,10 @@
   {
     "name": "Tachiyomi: Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline",
-    "apk": "tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.8.apk",
+    "apk": "tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
@@ -5023,10 +5005,10 @@
   {
     "name": "Tachiyomi: Read Naruto Boruto Samurai 8 Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readnarutoborutosamurai8mangaonline",
-    "apk": "tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.7.apk",
+    "apk": "tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
@@ -5041,10 +5023,10 @@
   {
     "name": "Tachiyomi: Read One Piece Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readonepiecemangaonline",
-    "apk": "tachiyomi-en.readonepiecemangaonline-v1.4.6.apk",
+    "apk": "tachiyomi-en.readonepiecemangaonline-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -5059,10 +5041,10 @@
   {
     "name": "Tachiyomi: Read One-Punch Man Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo",
-    "apk": "tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.6.apk",
+    "apk": "tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -5077,10 +5059,10 @@
   {
     "name": "Tachiyomi: Read Solo Leveling Manga Manhwa Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline",
-    "apk": "tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.8.apk",
+    "apk": "tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
@@ -5095,10 +5077,10 @@
   {
     "name": "Tachiyomi: Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline",
-    "apk": "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.9.apk",
+    "apk": "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
@@ -5707,10 +5689,10 @@
   {
     "name": "Tachiyomi: Vanilla Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.vanillascans",
-    "apk": "tachiyomi-en.vanillascans-v1.4.14.apk",
+    "apk": "tachiyomi-en.vanillascans-v1.4.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "sources": [
       {
@@ -7440,6 +7422,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Komik Next G Online",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komiknextgonline",
+    "apk": "tachiyomi-id.komiknextgonline-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Komik Next G Online",
+        "lang": "id",
+        "id": "5850393134813310906",
+        "baseUrl": "https://komiknextgonline.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komik Station",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikstation",
     "apk": "tachiyomi-id.komikstation-v1.4.36.apk",
@@ -8576,10 +8576,10 @@
   {
     "name": "Tachiyomi: Magazine Pocket",
     "pkg": "eu.kanade.tachiyomi.extension.ja.magazinepocket",
-    "apk": "tachiyomi-ja.magazinepocket-v1.4.11.apk",
+    "apk": "tachiyomi-ja.magazinepocket-v1.4.12.apk",
     "lang": "ja",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "sources": [
       {
@@ -8677,6 +8677,24 @@
         "lang": "ja",
         "id": "4278045440527026000",
         "baseUrl": "https://mangakuro.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga One",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangaone",
+    "apk": "tachiyomi-ja.mangaone-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga One",
+        "lang": "ja",
+        "id": "7948822981386785924",
+        "baseUrl": "https://manga-one.com",
         "versionId": 1
       }
     ]
