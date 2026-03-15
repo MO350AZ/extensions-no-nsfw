@@ -2411,6 +2411,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Orca Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.orcamanga",
+    "apk": "tachiyomi-ar.orcamanga-v1.4.11.apk",
+    "lang": "ar",
+    "code": 11,
+    "version": "1.4.11",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Orca Manga",
+        "lang": "ar",
+        "id": "5634203247016722993",
+        "baseUrl": "https://www.orcamanga.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rocks Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.rocksmanga",
     "apk": "tachiyomi-ar.rocksmanga-v1.4.48.apk",
@@ -3144,6 +3162,24 @@
         "lang": "en",
         "id": "4722346859737894698",
         "baseUrl": "https://reader.deathtollscans.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: DFlowScans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.dflowscans",
+    "apk": "tachiyomi-en.dflowscans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "DFlowScans",
+        "lang": "en",
+        "id": "5731115645938971449",
+        "baseUrl": "https://dflow.alwaysdata.net",
         "versionId": 1
       }
     ]
@@ -4663,10 +4699,10 @@
   {
     "name": "Tachiyomi: Qi Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.qiscans",
-    "apk": "tachiyomi-en.qiscans-v1.4.20.apk",
+    "apk": "tachiyomi-en.qiscans-v1.4.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "sources": [
       {
@@ -7926,6 +7962,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Juin Jutsu Team Reader",
+    "pkg": "eu.kanade.tachiyomi.extension.it.juinjutsuteamreader",
+    "apk": "tachiyomi-it.juinjutsuteamreader-v1.4.4.apk",
+    "lang": "it",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Juin Jutsu Team Reader",
+        "lang": "it",
+        "id": "1779918793601923139",
+        "baseUrl": "https://www.juinjutsureader.ovh",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LupiTeam",
     "pkg": "eu.kanade.tachiyomi.extension.it.lupiteam",
     "apk": "tachiyomi-it.lupiteam-v1.4.7.apk",
@@ -10028,6 +10082,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Singmanga",
+    "pkg": "eu.kanade.tachiyomi.extension.th.singmanga",
+    "apk": "tachiyomi-th.singmanga-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "SingManga",
+        "lang": "th",
+        "id": "834994810873638550",
+        "baseUrl": "https://www.sing-manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Adonis Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.adonisfansub",
     "apk": "tachiyomi-tr.adonisfansub-v1.4.46.apk",
@@ -10510,6 +10582,24 @@
         "id": "4883620005315879682",
         "baseUrl": "https://merlintoon.com",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nemesis scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.nemesisscans",
+    "apk": "tachiyomi-tr.nemesisscans-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Nemesisscans",
+        "lang": "tr",
+        "id": "4325951682189741537",
+        "baseUrl": "https://nemesisscans.com",
+        "versionId": 1
       }
     ]
   },
