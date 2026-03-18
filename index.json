@@ -1451,10 +1451,10 @@
   {
     "name": "Tachiyomi: Project Suki",
     "pkg": "eu.kanade.tachiyomi.extension.all.projectsuki",
-    "apk": "tachiyomi-all.projectsuki-v1.4.5.apk",
+    "apk": "tachiyomi-all.projectsuki-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -3905,6 +3905,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Luminare Translations",
+    "pkg": "eu.kanade.tachiyomi.extension.en.luminaretranslations",
+    "apk": "tachiyomi-en.luminaretranslations-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Luminare Translations",
+        "lang": "en",
+        "id": "1698654724978495521",
+        "baseUrl": "https://luminaretranslations.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Madara Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.madarascans",
     "apk": "tachiyomi-en.madarascans-v1.4.31.apk",
@@ -4098,6 +4116,24 @@
         "lang": "en",
         "id": "6458420328066857684",
         "baseUrl": "https://www.mangamo.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaMob",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangamob",
+    "apk": "tachiyomi-en.mangamob-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaMob",
+        "lang": "en",
+        "id": "954997815643613941",
+        "baseUrl": "https://mangamob.com",
         "versionId": 1
       }
     ]
@@ -4933,10 +4969,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.40.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "sources": [
       {
@@ -5858,10 +5894,10 @@
   {
     "name": "Tachiyomi: Webcomics",
     "pkg": "eu.kanade.tachiyomi.extension.en.webcomics",
-    "apk": "tachiyomi-en.webcomics-v1.4.8.apk",
+    "apk": "tachiyomi-en.webcomics-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
@@ -6218,10 +6254,10 @@
   {
     "name": "Tachiyomi: Emperor Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
-    "apk": "tachiyomi-es.emperorscan-v1.4.54.apk",
+    "apk": "tachiyomi-es.emperorscan-v1.4.55.apk",
     "lang": "es",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 0,
     "sources": [
       {
@@ -6416,10 +6452,10 @@
   {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
-    "apk": "tachiyomi-es.mangacrab-v1.4.65.apk",
+    "apk": "tachiyomi-es.mangacrab-v1.4.66.apk",
     "lang": "es",
-    "code": 65,
-    "version": "1.4.65",
+    "code": 66,
+    "version": "1.4.66",
     "nsfw": 0,
     "sources": [
       {
@@ -6686,17 +6722,17 @@
   {
     "name": "Tachiyomi: RichtoScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.richtoscan",
-    "apk": "tachiyomi-es.richtoscan-v1.4.47.apk",
+    "apk": "tachiyomi-es.richtoscan-v1.4.48.apk",
     "lang": "es",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "sources": [
       {
         "name": "RichtoScan",
         "lang": "es",
         "id": "1245067583654716116",
-        "baseUrl": "https://lascanderichto.com/",
+        "baseUrl": "https://r1.richtoon.top",
         "versionId": 1
       }
     ]
@@ -7003,6 +7039,24 @@
         "lang": "fr",
         "id": "8654267899929745421",
         "baseUrl": "https://kiwiyascans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LanorTrad",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.lanortrad",
+    "apk": "tachiyomi-fr.lanortrad-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "LanorTrad",
+        "lang": "fr",
+        "id": "6624592926208705847",
+        "baseUrl": "https://lanortrad.netlify.app",
         "versionId": 1
       }
     ]
@@ -9526,10 +9580,10 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.57.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.58.apk",
     "lang": "pt-BR",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
@@ -9580,10 +9634,10 @@
   {
     "name": "Tachiyomi: Manga Stop",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangastop",
-    "apk": "tachiyomi-pt.mangastop-v1.4.39.apk",
+    "apk": "tachiyomi-pt.mangastop-v1.4.40.apk",
     "lang": "pt-BR",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "sources": [
       {
@@ -9742,10 +9796,10 @@
   {
     "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.57.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.58.apk",
     "lang": "pt-BR",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
@@ -9886,16 +9940,16 @@
   {
     "name": "Tachiyomi: Yugen Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
-    "apk": "tachiyomi-pt.yugenmangas-v1.4.49.apk",
+    "apk": "tachiyomi-pt.yugenmangas-v1.4.50.apk",
     "lang": "pt-BR",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 0,
     "sources": [
       {
         "name": "Yugen Mangás",
         "lang": "pt-BR",
-        "id": "6397779552798039942",
+        "id": "8900485893586998299",
         "baseUrl": "https://yugenmangasbr.dxtg.online",
         "versionId": 2
       }
