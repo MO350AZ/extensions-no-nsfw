@@ -2845,17 +2845,17 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.54.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.55.apk",
     "lang": "en",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 0,
     "sources": [
       {
         "name": "Asura Scans",
         "lang": "en",
         "id": "6247824327199706550",
-        "baseUrl": "https://asuracomic.net",
+        "baseUrl": "https://asurascans.com",
         "versionId": 1
       }
     ]
@@ -9398,6 +9398,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Bladetoons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.bladetoons",
+    "apk": "tachiyomi-pt.bladetoons-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Bladetoons",
+        "lang": "pt-BR",
+        "id": "7671549037049858081",
+        "baseUrl": "https://bladetoons.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Boruto Explorer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.borutoexplorer",
     "apk": "tachiyomi-pt.borutoexplorer-v1.4.46.apk",
@@ -9454,17 +9472,17 @@
   {
     "name": "Tachiyomi: Sagrado Império da Britannia",
     "pkg": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
-    "apk": "tachiyomi-pt.imperiodabritannia-v1.4.52.apk",
+    "apk": "tachiyomi-pt.imperiodabritannia-v1.4.53.apk",
     "lang": "pt-BR",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
         "name": "Sagrado Império da Britannia",
         "lang": "pt-BR",
         "id": "7355004027880350247",
-        "baseUrl": "https://imperiodabritannia.com",
+        "baseUrl": "https://imperiodabritannia.net",
         "versionId": 1
       }
     ]
@@ -9652,10 +9670,10 @@
   {
     "name": "Tachiyomi: Mango Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangotoons",
-    "apk": "tachiyomi-pt.mangotoons-v1.4.5.apk",
+    "apk": "tachiyomi-pt.mangotoons-v1.4.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -11074,17 +11092,17 @@
   {
     "name": "Tachiyomi: NewTruyenTranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.newtruyentranh",
-    "apk": "tachiyomi-vi.newtruyentranh-v1.4.3.apk",
+    "apk": "tachiyomi-vi.newtruyentranh-v1.4.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
         "name": "NewTruyenTranh",
         "lang": "vi",
         "id": "2947299136081074220",
-        "baseUrl": "https://newtruyentranh7.com",
+        "baseUrl": "https://newtruyentranh8.com",
         "versionId": 1
       }
     ]
