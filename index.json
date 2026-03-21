@@ -2845,10 +2845,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.56.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.57.apk",
     "lang": "en",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 0,
     "sources": [
       {
@@ -7028,10 +7028,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.57.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.58.apk",
     "lang": "fr",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
@@ -7398,7 +7398,7 @@
         "name": "Ainz Scans ID",
         "lang": "id",
         "id": "6828652413569586396",
-        "baseUrl": "https://ainzscans01.com",
+        "baseUrl": "https://v1.ainzscans01.com",
         "versionId": 1
       }
     ]
