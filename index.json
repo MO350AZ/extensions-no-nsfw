@@ -3061,10 +3061,10 @@
   {
     "name": "Tachiyomi: Collected Curios",
     "pkg": "eu.kanade.tachiyomi.extension.en.collectedcurios",
-    "apk": "tachiyomi-en.collectedcurios-v1.4.1.apk",
+    "apk": "tachiyomi-en.collectedcurios-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -7910,10 +7910,10 @@
   {
     "name": "Tachiyomi: Softkomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.softkomik",
-    "apk": "tachiyomi-id.softkomik-v1.4.5.apk",
+    "apk": "tachiyomi-id.softkomik-v1.4.6.apk",
     "lang": "id",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -11038,10 +11038,10 @@
   {
     "name": "Tachiyomi: Goc Truyen Tranh Vui",
     "pkg": "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui",
-    "apk": "tachiyomi-vi.goctruyentranhvui-v1.4.9.apk",
+    "apk": "tachiyomi-vi.goctruyentranhvui-v1.4.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
