@@ -6126,6 +6126,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Bakaguya Scanlation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.bakaguyascanlation",
+    "apk": "tachiyomi-es.bakaguyascanlation-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Bakaguya Scanlation",
+        "lang": "es",
+        "id": "2736232268051308623",
+        "baseUrl": "https://capibaratraductor.com/bakaguya",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Bega Translation",
     "pkg": "eu.kanade.tachiyomi.extension.es.begatranslation",
     "apk": "tachiyomi-es.begatranslation-v1.4.46.apk",
@@ -6234,6 +6252,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Daisuki na Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.es.daisukinafansub",
+    "apk": "tachiyomi-es.daisukinafansub-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Daisuki na Fansub",
+        "lang": "es",
+        "id": "2271005353764523186",
+        "baseUrl": "https://capibaratraductor.com/dnfansub",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DapRob",
     "pkg": "eu.kanade.tachiyomi.extension.es.daprob",
     "apk": "tachiyomi-es.daprob-v1.4.45.apk",
@@ -6319,6 +6355,24 @@
         "lang": "es",
         "id": "6911130909796364094",
         "baseUrl": "https://gremoryhistorias.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Haru Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.haruscan",
+    "apk": "tachiyomi-es.haruscan-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Haru Scan",
+        "lang": "es",
+        "id": "3934074738530888454",
+        "baseUrl": "https://capibaratraductor.com/haruscan",
         "versionId": 1
       }
     ]
@@ -6720,6 +6774,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Rakuen Translations",
+    "pkg": "eu.kanade.tachiyomi.extension.es.rakuentranslations",
+    "apk": "tachiyomi-es.rakuentranslations-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Rakuen Translations",
+        "lang": "es",
+        "id": "7590805690203433820",
+        "baseUrl": "https://capibaratraductor.com/rakuen",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: RavenManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.ravenmanga",
     "apk": "tachiyomi-es.ravenmanga-v1.4.4.apk",
@@ -6776,10 +6848,10 @@
   {
     "name": "Tachiyomi: Senshi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.senshimanga",
-    "apk": "tachiyomi-es.senshimanga-v1.4.9.apk",
+    "apk": "tachiyomi-es.senshimanga-v1.4.10.apk",
     "lang": "es",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
@@ -6794,10 +6866,10 @@
   {
     "name": "Tachiyomi: 6ianfranc9",
     "pkg": "eu.kanade.tachiyomi.extension.es.sixianfranc9",
-    "apk": "tachiyomi-es.sixianfranc9-v1.4.3.apk",
+    "apk": "tachiyomi-es.sixianfranc9-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -7530,6 +7602,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Komikhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikhwa",
+    "apk": "tachiyomi-id.komikhwa-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Komikhwa",
+        "lang": "id",
+        "id": "5430652619051267300",
+        "baseUrl": "https://komikhwa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
     "apk": "tachiyomi-id.komikindoid-v1.4.18.apk",
@@ -7831,6 +7921,24 @@
         "lang": "id",
         "id": "6327374097013138583",
         "baseUrl": "https://onepieceberwarna.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Riztranslation",
+    "pkg": "eu.kanade.tachiyomi.extension.id.riztranslation",
+    "apk": "tachiyomi-id.riztranslation-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Riztranslation",
+        "lang": "id",
+        "id": "7209416153926734838",
+        "baseUrl": "https://riztranslation.pages.dev",
         "versionId": 1
       }
     ]
