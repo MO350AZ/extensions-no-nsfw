@@ -2017,10 +2017,10 @@
   {
     "name": "Tachiyomi: Azora",
     "pkg": "eu.kanade.tachiyomi.extension.ar.azora",
-    "apk": "tachiyomi-ar.azora-v1.4.60.apk",
+    "apk": "tachiyomi-ar.azora-v1.4.61.apk",
     "lang": "ar",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 0,
     "sources": [
       {
@@ -2737,10 +2737,10 @@
   {
     "name": "Tachiyomi: Art Lapsa",
     "pkg": "eu.kanade.tachiyomi.extension.en.artlapsa",
-    "apk": "tachiyomi-en.artlapsa-v1.4.19.apk",
+    "apk": "tachiyomi-en.artlapsa-v1.4.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "sources": [
       {
@@ -2773,10 +2773,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.55.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.56.apk",
     "lang": "en",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 0,
     "sources": [
       {
@@ -3403,10 +3403,10 @@
   {
     "name": "Tachiyomi: EZmanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.ezmanga",
-    "apk": "tachiyomi-en.ezmanga-v1.4.58.apk",
+    "apk": "tachiyomi-en.ezmanga-v1.4.59.apk",
     "lang": "en",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "sources": [
       {
@@ -3619,10 +3619,10 @@
   {
     "name": "Tachiyomi: Hijala Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.hijalascans",
-    "apk": "tachiyomi-en.hijalascans-v1.4.16.apk",
+    "apk": "tachiyomi-en.hijalascans-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "sources": [
       {
@@ -3673,10 +3673,10 @@
   {
     "name": "Tachiyomi: Hive Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.4.57.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.4.58.apk",
     "lang": "en",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
@@ -3745,10 +3745,10 @@
   {
     "name": "Tachiyomi: Ken Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kenscans",
-    "apk": "tachiyomi-en.kenscans-v1.4.25.apk",
+    "apk": "tachiyomi-en.kenscans-v1.4.26.apk",
     "lang": "en",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
     "sources": [
       {
@@ -3961,10 +3961,10 @@
   {
     "name": "Tachiyomi: Magus Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.magusmanga",
-    "apk": "tachiyomi-en.magusmanga-v1.4.61.apk",
+    "apk": "tachiyomi-en.magusmanga-v1.4.62.apk",
     "lang": "en",
-    "code": 61,
-    "version": "1.4.61",
+    "code": 62,
+    "version": "1.4.62",
     "nsfw": 0,
     "sources": [
       {
@@ -4627,10 +4627,10 @@
   {
     "name": "Tachiyomi: Nyx Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.nyxscans",
-    "apk": "tachiyomi-en.nyxscans-v1.4.17.apk",
+    "apk": "tachiyomi-en.nyxscans-v1.4.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "sources": [
       {
@@ -4771,10 +4771,10 @@
   {
     "name": "Tachiyomi: Qi Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.qiscans",
-    "apk": "tachiyomi-en.qiscans-v1.4.22.apk",
+    "apk": "tachiyomi-en.qiscans-v1.4.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "sources": [
       {
@@ -5239,10 +5239,10 @@
   {
     "name": "Tachiyomi: Renascans",
     "pkg": "eu.kanade.tachiyomi.extension.en.renascans",
-    "apk": "tachiyomi-en.renascans-v1.4.16.apk",
+    "apk": "tachiyomi-en.renascans-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "sources": [
       {
@@ -5833,10 +5833,10 @@
   {
     "name": "Tachiyomi: Vanilla Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.vanillascans",
-    "apk": "tachiyomi-en.vanillascans-v1.4.16.apk",
+    "apk": "tachiyomi-en.vanillascans-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "sources": [
       {
@@ -7766,10 +7766,10 @@
   {
     "name": "Tachiyomi: Komiku",
     "pkg": "eu.kanade.tachiyomi.extension.id.komiku",
-    "apk": "tachiyomi-id.komiku-v1.4.19.apk",
+    "apk": "tachiyomi-id.komiku-v1.4.20.apk",
     "lang": "id",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "sources": [
       {
@@ -9940,10 +9940,10 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.58.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.59.apk",
     "lang": "pt-BR",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "sources": [
       {
@@ -10221,24 +10221,6 @@
         "lang": "pt-BR",
         "id": "273341846992513187",
         "baseUrl": "https://housesaikai.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Yomu Comics",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
-    "apk": "tachiyomi-pt.sssscanlator-v1.4.40.apk",
-    "lang": "pt-BR",
-    "code": 40,
-    "version": "1.4.40",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Yomu Comics",
-        "lang": "pt-BR",
-        "id": "1497838059713668619",
-        "baseUrl": "https://yomu.com.br",
         "versionId": 1
       }
     ]
@@ -11392,6 +11374,24 @@
         "id": "5818973680777851987",
         "baseUrl": "https://manhuarock4.site",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MoeTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.moetruyen",
+    "apk": "tachiyomi-vi.moetruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MoeTruyen",
+        "lang": "vi",
+        "id": "8689080191405841403",
+        "baseUrl": "https://moetruyen.net",
+        "versionId": 1
       }
     ]
   },
