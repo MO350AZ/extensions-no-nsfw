@@ -3076,19 +3076,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: Eros Scans",
+    "name": "Tachiyomi: Scythe Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.erosscans",
-    "apk": "tachiyomi-en.erosscans-v1.4.35.apk",
+    "apk": "tachiyomi-en.erosscans-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "sources": [
       {
-        "name": "Eros Scans",
+        "name": "Scythe Scans",
         "lang": "en",
         "id": "1124131000360667434",
-        "baseUrl": "https://erosxsun.xyz",
+        "baseUrl": "https://scythescans.com",
         "versionId": 1
       }
     ]
@@ -5218,24 +5218,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ScytheScans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.scythescans",
-    "apk": "tachiyomi-en.scythescans-v1.4.30.apk",
-    "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "ScytheScans",
-        "lang": "en",
-        "id": "625731300893574234",
-        "baseUrl": "https://scythescans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: SectScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.sectscans",
     "apk": "tachiyomi-en.sectscans-v1.4.45.apk",
@@ -5452,24 +5434,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: TappyToon.Net",
-    "pkg": "eu.kanade.tachiyomi.extension.en.tappytoonnet",
-    "apk": "tachiyomi-en.tappytoonnet-v1.4.45.apk",
-    "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "TappyToon.Net",
-        "lang": "en",
-        "id": "6816620706925036501",
-        "baseUrl": "https://tappytoon.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: TCB Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.tcbscans",
     "apk": "tachiyomi-en.tcbscans-v1.4.11.apk",
@@ -5519,24 +5483,6 @@
         "lang": "en",
         "id": "7307224992915342074",
         "baseUrl": "https://jolleycomics.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ToonChill",
-    "pkg": "eu.kanade.tachiyomi.extension.en.toonchill",
-    "apk": "tachiyomi-en.toonchill-v1.4.46.apk",
-    "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "ToonChill",
-        "lang": "en",
-        "id": "232118325347849348",
-        "baseUrl": "https://toonchill.com",
         "versionId": 1
       }
     ]
@@ -7981,10 +7927,10 @@
   {
     "name": "Tachiyomi: Softkomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.softkomik",
-    "apk": "tachiyomi-id.softkomik-v1.4.6.apk",
+    "apk": "tachiyomi-id.softkomik-v1.4.7.apk",
     "lang": "id",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -10587,10 +10533,10 @@
   {
     "name": "Tachiyomi: MangaDenizi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangadenizi",
-    "apk": "tachiyomi-tr.mangadenizi-v1.4.6.apk",
+    "apk": "tachiyomi-tr.mangadenizi-v1.4.7.apk",
     "lang": "tr",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -11253,10 +11199,10 @@
   {
     "name": "Tachiyomi: FoxTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyengg",
-    "apk": "tachiyomi-vi.truyengg-v1.4.10.apk",
+    "apk": "tachiyomi-vi.truyengg-v1.4.11.apk",
     "lang": "vi",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "sources": [
       {
@@ -11271,10 +11217,10 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.4.21.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.22.apk",
     "lang": "vi",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "sources": [
       {
