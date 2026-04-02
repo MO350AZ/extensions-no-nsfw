@@ -2538,17 +2538,17 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.56.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.57.apk",
     "lang": "en",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 0,
     "sources": [
       {
         "name": "Vortex Scans",
         "lang": "en",
         "id": "2559570015828016575",
-        "baseUrl": "https://vortexscans.org",
+        "baseUrl": "https://vortexscans.io",
         "versionId": 1
       }
     ]
@@ -2646,10 +2646,10 @@
   {
     "name": "Tachiyomi: azComic",
     "pkg": "eu.kanade.tachiyomi.extension.en.azcomic",
-    "apk": "tachiyomi-en.azcomic-v1.4.1.apk",
+    "apk": "tachiyomi-en.azcomic-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -4392,17 +4392,17 @@
   {
     "name": "Tachiyomi: Nyx Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.nyxscans",
-    "apk": "tachiyomi-en.nyxscans-v1.4.18.apk",
+    "apk": "tachiyomi-en.nyxscans-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "sources": [
       {
         "name": "Nyx Scans",
         "lang": "en",
         "id": "419822582289753882",
-        "baseUrl": "https://nyxscans.com",
+        "baseUrl": "https://nyxmanga.org",
         "versionId": 1
       }
     ]
@@ -4476,24 +4476,6 @@
         "id": "940450670010209918",
         "baseUrl": "https://philiascans.org",
         "versionId": 3
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Platinum Crown",
-    "pkg": "eu.kanade.tachiyomi.extension.en.platinumcrown",
-    "apk": "tachiyomi-en.platinumcrown-v1.4.46.apk",
-    "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Platinum Crown",
-        "lang": "en",
-        "id": "2992840511596832495",
-        "baseUrl": "https://platinumscans.com",
-        "versionId": 1
       }
     ]
   },
@@ -5526,17 +5508,17 @@
   {
     "name": "Tachiyomi: Valir Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.valirscans",
-    "apk": "tachiyomi-en.valirscans-v1.4.18.apk",
+    "apk": "tachiyomi-en.valirscans-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "sources": [
       {
         "name": "Valir Scans",
         "lang": "en",
         "id": "5399846924306111232",
-        "baseUrl": "https://valirscans.com",
+        "baseUrl": "https://valirscans.org",
         "versionId": 1
       }
     ]
@@ -5929,10 +5911,10 @@
   {
     "name": "Tachiyomi: BokugenTranslation",
     "pkg": "eu.kanade.tachiyomi.extension.es.bokugentranslation",
-    "apk": "tachiyomi-es.bokugentranslation-v1.4.46.apk",
+    "apk": "tachiyomi-es.bokugentranslation-v1.4.47.apk",
     "lang": "es",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -7927,10 +7909,10 @@
   {
     "name": "Tachiyomi: Softkomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.softkomik",
-    "apk": "tachiyomi-id.softkomik-v1.4.7.apk",
+    "apk": "tachiyomi-id.softkomik-v1.4.8.apk",
     "lang": "id",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
@@ -11145,17 +11127,17 @@
   {
     "name": "Tachiyomi: NewTruyenTranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.newtruyentranh",
-    "apk": "tachiyomi-vi.newtruyentranh-v1.4.4.apk",
+    "apk": "tachiyomi-vi.newtruyentranh-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
         "name": "NewTruyenTranh",
         "lang": "vi",
         "id": "2947299136081074220",
-        "baseUrl": "https://newtruyentranh8.com",
+        "baseUrl": "https://newtruyentranh9.com",
         "versionId": 1
       }
     ]
