@@ -4464,10 +4464,10 @@
   {
     "name": "Tachiyomi: Philia Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
-    "apk": "tachiyomi-en.philiascans-v1.4.46.apk",
+    "apk": "tachiyomi-en.philiascans-v1.4.47.apk",
     "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
