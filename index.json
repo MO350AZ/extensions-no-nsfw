@@ -45,10 +45,10 @@
   {
     "name": "Tachiyomi: Comikey",
     "pkg": "eu.kanade.tachiyomi.extension.all.comikey",
-    "apk": "tachiyomi-all.comikey-v1.4.3.apk",
+    "apk": "tachiyomi-all.comikey-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -3690,10 +3690,10 @@
   {
     "name": "Tachiyomi: Luminare Translations",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminaretranslations",
-    "apk": "tachiyomi-en.luminaretranslations-v1.4.1.apk",
+    "apk": "tachiyomi-en.luminaretranslations-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -6721,10 +6721,10 @@
   {
     "name": "Tachiyomi: BigSolo",
     "pkg": "eu.kanade.tachiyomi.extension.fr.bigsolo",
-    "apk": "tachiyomi-fr.bigsolo-v1.4.3.apk",
+    "apk": "tachiyomi-fr.bigsolo-v1.4.4.apk",
     "lang": "fr",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -7075,24 +7075,6 @@
         "id": "8373267671495516033",
         "baseUrl": "https://raijin-scans.fr",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Reaper Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.reaperscans",
-    "apk": "tachiyomi-fr.reaperscans-v1.4.22.apk",
-    "lang": "fr",
-    "code": 22,
-    "version": "1.4.22",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Reaper Scans",
-        "lang": "fr",
-        "id": "8021882997341141274",
-        "baseUrl": "https://reaper-scans.fr",
-        "versionId": 4
       }
     ]
   },
@@ -8935,10 +8917,10 @@
   {
     "name": "Tachiyomi: Nicovideo Seiga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.nicovideoseiga",
-    "apk": "tachiyomi-ja.nicovideoseiga-v1.4.7.apk",
+    "apk": "tachiyomi-ja.nicovideoseiga-v1.4.8.apk",
     "lang": "ja",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
@@ -11055,17 +11037,17 @@
   {
     "name": "Tachiyomi: Goc Truyen Tranh Vui",
     "pkg": "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui",
-    "apk": "tachiyomi-vi.goctruyentranhvui-v1.4.10.apk",
+    "apk": "tachiyomi-vi.goctruyentranhvui-v1.4.11.apk",
     "lang": "vi",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "sources": [
       {
         "name": "Goc Truyen Tranh Vui",
         "lang": "vi",
         "id": "2831859393730435398",
-        "baseUrl": "https://goctruyentranhvui21.com",
+        "baseUrl": "https://goctruyentranhvui22.com",
         "versionId": 1
       }
     ]
