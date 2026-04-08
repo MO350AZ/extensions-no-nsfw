@@ -5508,10 +5508,10 @@
   {
     "name": "Tachiyomi: Valir Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.valirscans",
-    "apk": "tachiyomi-en.valirscans-v1.4.20.apk",
+    "apk": "tachiyomi-en.valirscans-v1.4.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "sources": [
       {
