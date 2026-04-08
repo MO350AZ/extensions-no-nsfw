@@ -2628,10 +2628,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.58.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.59.apk",
     "lang": "en",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "sources": [
       {
@@ -3114,10 +3114,10 @@
   {
     "name": "Tachiyomi: Eva Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.evascans",
-    "apk": "tachiyomi-en.evascans-v1.4.31.apk",
+    "apk": "tachiyomi-en.evascans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
@@ -5616,24 +5616,6 @@
         "lang": "en",
         "id": "9161629559428486377",
         "baseUrl": "https://xrabohrok.github.io/WarMap/#/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Wearehunger",
-    "pkg": "eu.kanade.tachiyomi.extension.en.wearehunger",
-    "apk": "tachiyomi-en.wearehunger-v1.4.45.apk",
-    "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Wearehunger",
-        "lang": "en",
-        "id": "7128834815853592616",
-        "baseUrl": "https://www.wearehunger.site",
         "versionId": 1
       }
     ]
