@@ -3186,18 +3186,18 @@
   {
     "name": "Tachiyomi: EZmanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.ezmanga",
-    "apk": "tachiyomi-en.ezmanga-v1.4.59.apk",
+    "apk": "tachiyomi-en.ezmanga-v1.4.60.apk",
     "lang": "en",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 0,
     "sources": [
       {
         "name": "EZmanga",
         "lang": "en",
-        "id": "610148674542079240",
+        "id": "3317136566565343717",
         "baseUrl": "https://ezmanga.org",
-        "versionId": 4
+        "versionId": 5
       }
     ]
   },
@@ -4554,16 +4554,16 @@
   {
     "name": "Tachiyomi: Qi Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.qiscans",
-    "apk": "tachiyomi-en.qiscans-v1.4.23.apk",
+    "apk": "tachiyomi-en.qiscans-v1.4.24.apk",
     "lang": "en",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 0,
     "sources": [
       {
-        "name": "Qi Scans",
+        "name": "QiScans",
         "lang": "en",
-        "id": "7597513901538568173",
+        "id": "5806040666300479660",
         "baseUrl": "https://qimanhwa.com",
         "versionId": 1
       }
@@ -6811,10 +6811,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.60.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.61.apk",
     "lang": "fr",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 0,
     "sources": [
       {
@@ -7153,10 +7153,10 @@
   {
     "name": "Tachiyomi: Ainz Scans ID",
     "pkg": "eu.kanade.tachiyomi.extension.id.ainzscansid",
-    "apk": "tachiyomi-id.ainzscansid-v1.4.32.apk",
+    "apk": "tachiyomi-id.ainzscansid-v1.4.33.apk",
     "lang": "id",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "sources": [
       {
@@ -7873,10 +7873,10 @@
   {
     "name": "Tachiyomi: Softkomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.softkomik",
-    "apk": "tachiyomi-id.softkomik-v1.4.9.apk",
+    "apk": "tachiyomi-id.softkomik-v1.4.10.apk",
     "lang": "id",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
@@ -9705,10 +9705,10 @@
   {
     "name": "Tachiyomi: Monte Tai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.montetai",
-    "apk": "tachiyomi-pt.montetai-v1.4.46.apk",
+    "apk": "tachiyomi-pt.montetai-v1.4.47.apk",
     "lang": "pt-BR",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -10688,6 +10688,24 @@
         "lang": "tr",
         "id": "2783611133798677654",
         "baseUrl": "https://nirvanamanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Paradox Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.paradoxscans",
+    "apk": "tachiyomi-tr.paradoxscans-v1.4.3.apk",
+    "lang": "tr",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Paradox Scans",
+        "lang": "tr",
+        "id": "3730980240510982131",
+        "baseUrl": "https://paradoxscans.com",
         "versionId": 1
       }
     ]
