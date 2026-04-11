@@ -3456,10 +3456,10 @@
   {
     "name": "Tachiyomi: Hive Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.4.58.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.4.59.apk",
     "lang": "en",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "sources": [
       {
@@ -3756,6 +3756,24 @@
         "id": "1589747287364201069",
         "baseUrl": "https://magustoon.org",
         "versionId": 3
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaBlaze",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangablaze",
+    "apk": "tachiyomi-en.mangablaze-v1.4.45.apk",
+    "lang": "en",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaBlaze",
+        "lang": "en",
+        "id": "6145388266378605164",
+        "baseUrl": "https://mangablaze.com",
+        "versionId": 1
       }
     ]
   },
@@ -7207,10 +7225,10 @@
   {
     "name": "Tachiyomi: Comicazen",
     "pkg": "eu.kanade.tachiyomi.extension.id.comicazen",
-    "apk": "tachiyomi-id.comicazen-v1.4.4.apk",
+    "apk": "tachiyomi-id.comicazen-v1.4.5.apk",
     "lang": "id",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
