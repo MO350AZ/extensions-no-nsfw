@@ -2556,10 +2556,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.60.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.61.apk",
     "lang": "en",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 0,
     "sources": [
       {
@@ -5488,6 +5488,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: TimelessToons",
+    "pkg": "eu.kanade.tachiyomi.extension.en.timelesstoons",
+    "apk": "tachiyomi-en.timelesstoons-v1.4.18.apk",
+    "lang": "en",
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "TimelessToons",
+        "lang": "en",
+        "id": "9063123408669132087",
+        "baseUrl": "https://timelesstoons.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: TritiniaScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.tritiniascans",
     "apk": "tachiyomi-en.tritiniascans-v1.4.49.apk",
@@ -6991,10 +7009,10 @@
   {
     "name": "Tachiyomi: MangaMoins",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangamoins",
-    "apk": "tachiyomi-fr.mangamoins-v1.4.1.apk",
+    "apk": "tachiyomi-fr.mangamoins-v1.4.2.apk",
     "lang": "fr",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -7979,24 +7997,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: TheManga",
-    "pkg": "eu.kanade.tachiyomi.extension.id.themanga",
-    "apk": "tachiyomi-id.themanga-v1.4.46.apk",
-    "lang": "id",
-    "code": 46,
-    "version": "1.4.46",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "TheManga",
-        "lang": "id",
-        "id": "4154955713546598190",
-        "baseUrl": "https://themanga.my.id",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Ulas Comic",
     "pkg": "eu.kanade.tachiyomi.extension.id.ulascomic",
     "apk": "tachiyomi-id.ulascomic-v1.4.12.apk",
@@ -8269,10 +8269,10 @@
   {
     "name": "Tachiyomi: Big Comics",
     "pkg": "eu.kanade.tachiyomi.extension.ja.bigcomics",
-    "apk": "tachiyomi-ja.bigcomics-v1.4.3.apk",
+    "apk": "tachiyomi-ja.bigcomics-v1.4.4.apk",
     "lang": "ja",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -9453,10 +9453,10 @@
   {
     "name": "Tachiyomi: Astratoons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.astratoons",
-    "apk": "tachiyomi-pt.astratoons-v1.4.7.apk",
+    "apk": "tachiyomi-pt.astratoons-v1.4.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
