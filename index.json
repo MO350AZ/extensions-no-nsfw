@@ -11143,6 +11143,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: FastScan",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.fastscan",
+    "apk": "tachiyomi-vi.fastscan-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "FastScan",
+        "lang": "vi",
+        "id": "4353548193024198457",
+        "baseUrl": "https://fastscan.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Goc Truyen Tranh Vui",
     "pkg": "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui",
     "apk": "tachiyomi-vi.goctruyentranhvui-v1.4.11.apk",
