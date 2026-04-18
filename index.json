@@ -2052,17 +2052,17 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.59.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.60.apk",
     "lang": "ar",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 0,
     "sources": [
       {
         "name": "MangaSwat",
         "lang": "ar",
         "id": "7657007209499352344",
-        "baseUrl": "https://appswat.com",
+        "baseUrl": "https://meshmanga.com",
         "versionId": 2
       }
     ]
@@ -11271,10 +11271,10 @@
   {
     "name": "Tachiyomi: NewTruyenTranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.newtruyentranh",
-    "apk": "tachiyomi-vi.newtruyentranh-v1.4.6.apk",
+    "apk": "tachiyomi-vi.newtruyentranh-v1.4.7.apk",
     "lang": "vi",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
