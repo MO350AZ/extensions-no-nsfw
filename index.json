@@ -1744,6 +1744,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Anyone Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.anyonemanga",
+    "apk": "tachiyomi-ar.anyonemanga-v1.4.46.apk",
+    "lang": "ar",
+    "code": 46,
+    "version": "1.4.46",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Anyone Manga",
+        "lang": "ar",
+        "id": "2056490261402651047",
+        "baseUrl": "https://anyonemanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Area Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.areamanga",
     "apk": "tachiyomi-ar.areamanga-v1.4.32.apk",
@@ -3582,10 +3600,10 @@
   {
     "name": "Tachiyomi: K Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.kmanga",
-    "apk": "tachiyomi-en.kmanga-v1.4.3.apk",
+    "apk": "tachiyomi-en.kmanga-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -4151,6 +4169,24 @@
         "lang": "en",
         "id": "5075089422240578347",
         "baseUrl": "https://manhuaplus.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manhua Rush",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhuarush",
+    "apk": "tachiyomi-en.manhuarush-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manhua Rush",
+        "lang": "en",
+        "id": "5670748624310603730",
+        "baseUrl": "https://manhuarush.vercel.app",
         "versionId": 1
       }
     ]
@@ -6415,10 +6451,10 @@
   {
     "name": "Tachiyomi: Olympus Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
-    "apk": "tachiyomi-es.olympusscanlation-v1.4.16.apk",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.17.apk",
     "lang": "es",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "sources": [
       {
@@ -7297,17 +7333,17 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.4.50.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.4.51.apk",
     "lang": "id",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "sources": [
       {
         "name": "Kiryuu",
         "lang": "id",
         "id": "3639673976007021338",
-        "baseUrl": "https://v4.kiryuu.to",
+        "baseUrl": "https://v5.kiryuu.to",
         "versionId": 1
       }
     ]
@@ -7506,6 +7542,24 @@
         "lang": "id",
         "id": "2556223347862084050",
         "baseUrl": "https://komikzoid.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: KuroManga",
+    "pkg": "eu.kanade.tachiyomi.extension.id.kuromanga",
+    "apk": "tachiyomi-id.kuromanga-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "KuroManga",
+        "lang": "id",
+        "id": "3118864015513028174",
+        "baseUrl": "https://kuromanga.me",
         "versionId": 1
       }
     ]
@@ -8645,6 +8699,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hana To Yume+",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.hanayume",
+    "apk": "tachiyomi-ja.hanayume-v1.4.3.apk",
+    "lang": "ja",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Hana To Yume+",
+        "lang": "ja",
+        "id": "6820605856874807465",
+        "baseUrl": "https://hanayume.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ichicomi",
     "pkg": "eu.kanade.tachiyomi.extension.ja.ichicomi",
     "apk": "tachiyomi-ja.ichicomi-v1.4.9.apk",
@@ -9023,24 +9095,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Sen Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.senmanga",
-    "apk": "tachiyomi-ja.senmanga-v1.4.7.apk",
-    "lang": "ja",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Sen Manga",
-        "lang": "ja",
-        "id": "7715542271185249444",
-        "baseUrl": "https://raw.senmanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Shonen Jump+",
     "pkg": "eu.kanade.tachiyomi.extension.ja.shonenjumpplus",
     "apk": "tachiyomi-ja.shonenjumpplus-v1.4.11.apk",
@@ -9291,10 +9345,10 @@
   {
     "name": "Tachiyomi: AnimeXNovel",
     "pkg": "eu.kanade.tachiyomi.extension.pt.animexnovel",
-    "apk": "tachiyomi-pt.animexnovel-v1.4.16.apk",
+    "apk": "tachiyomi-pt.animexnovel-v1.4.17.apk",
     "lang": "pt-BR",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "sources": [
       {
@@ -9633,10 +9687,10 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.60.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.61.apk",
     "lang": "pt-BR",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 0,
     "sources": [
       {
