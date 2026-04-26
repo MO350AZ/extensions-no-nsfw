@@ -8143,17 +8143,17 @@
   {
     "name": "Tachiyomi: West Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.westmanga",
-    "apk": "tachiyomi-id.westmanga-v1.4.40.apk",
+    "apk": "tachiyomi-id.westmanga-v1.4.41.apk",
     "lang": "id",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "sources": [
       {
         "name": "West Manga",
         "lang": "id",
         "id": "8883916630998758688",
-        "baseUrl": "https://westmanga.tv",
+        "baseUrl": "https://westmanga.co",
         "versionId": 1
       }
     ]
