@@ -2538,10 +2538,10 @@
   {
     "name": "Tachiyomi: Art Lapsa",
     "pkg": "eu.kanade.tachiyomi.extension.en.artlapsa",
-    "apk": "tachiyomi-en.artlapsa-v1.4.20.apk",
+    "apk": "tachiyomi-en.artlapsa-v1.4.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "sources": [
       {
@@ -5148,10 +5148,10 @@
   {
     "name": "Tachiyomi: RitharScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ritharscans",
-    "apk": "tachiyomi-en.ritharscans-v1.4.19.apk",
+    "apk": "tachiyomi-en.ritharscans-v1.4.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "sources": [
       {
@@ -5490,10 +5490,10 @@
   {
     "name": "Tachiyomi: TCB Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.tcbscans",
-    "apk": "tachiyomi-en.tcbscans-v1.4.11.apk",
+    "apk": "tachiyomi-en.tcbscans-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "sources": [
       {
@@ -5652,10 +5652,10 @@
   {
     "name": "Tachiyomi: VIZ",
     "pkg": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
-    "apk": "tachiyomi-en.vizshonenjump-v1.4.22.apk",
+    "apk": "tachiyomi-en.vizshonenjump-v1.4.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "sources": [
       {
@@ -6973,10 +6973,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.64.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.65.apk",
     "lang": "fr",
-    "code": 64,
-    "version": "1.4.64",
+    "code": 65,
+    "version": "1.4.65",
     "nsfw": 0,
     "sources": [
       {
@@ -7513,17 +7513,17 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.77.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.78.apk",
     "lang": "id",
-    "code": 77,
-    "version": "1.4.77",
+    "code": 78,
+    "version": "1.4.78",
     "nsfw": 0,
     "sources": [
       {
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://v1.komikcast.fit",
+        "baseUrl": "https://v2.komikcast.fit",
         "versionId": 1
       }
     ]
@@ -8197,10 +8197,10 @@
   {
     "name": "Tachiyomi: DigitalTeam",
     "pkg": "eu.kanade.tachiyomi.extension.it.digitalteam",
-    "apk": "tachiyomi-it.digitalteam-v1.4.3.apk",
+    "apk": "tachiyomi-it.digitalteam-v1.4.4.apk",
     "lang": "it",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -10281,10 +10281,10 @@
   {
     "name": "Tachiyomi: YagamiProject",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yagamiproject",
-    "apk": "tachiyomi-ru.yagamiproject-v1.4.5.apk",
+    "apk": "tachiyomi-ru.yagamiproject-v1.4.6.apk",
     "lang": "ru",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
