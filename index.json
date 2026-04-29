@@ -91,10 +91,10 @@
   {
     "name": "Tachiyomi: Commit Strip",
     "pkg": "eu.kanade.tachiyomi.extension.all.commitstrip",
-    "apk": "tachiyomi-all.commitstrip-v1.4.3.apk",
+    "apk": "tachiyomi-all.commitstrip-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -497,10 +497,10 @@
   {
     "name": "Tachiyomi: HOLONOMETRIA",
     "pkg": "eu.kanade.tachiyomi.extension.all.holonometria",
-    "apk": "tachiyomi-all.holonometria-v1.4.3.apk",
+    "apk": "tachiyomi-all.holonometria-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -926,10 +926,10 @@
   {
     "name": "Tachiyomi: MangaToon (Limited)",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangatoon",
-    "apk": "tachiyomi-all.mangatoon-v1.4.6.apk",
+    "apk": "tachiyomi-all.mangatoon-v1.4.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -1371,66 +1371,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: NineManga",
-    "pkg": "eu.kanade.tachiyomi.extension.all.ninemanga",
-    "apk": "tachiyomi-all.ninemanga-v1.4.25.apk",
-    "lang": "all",
-    "code": 25,
-    "version": "1.4.25",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "NineMangaEn",
-        "lang": "en",
-        "id": "120391793502126753",
-        "baseUrl": "https://www.ninemanga.com",
-        "versionId": 1
-      },
-      {
-        "name": "NineMangaEs",
-        "lang": "es",
-        "id": "4097111295486074350",
-        "baseUrl": "https://es.ninemanga.com",
-        "versionId": 1
-      },
-      {
-        "name": "NineMangaBr",
-        "lang": "pt-BR",
-        "id": "7162569729467394726",
-        "baseUrl": "https://br.ninemanga.com",
-        "versionId": 1
-      },
-      {
-        "name": "NineMangaRu",
-        "lang": "ru",
-        "id": "6531002958728774729",
-        "baseUrl": "https://ru.ninemanga.com",
-        "versionId": 1
-      },
-      {
-        "name": "NineMangaDe",
-        "lang": "de",
-        "id": "8454920920230076882",
-        "baseUrl": "https://de.ninemanga.com",
-        "versionId": 1
-      },
-      {
-        "name": "NineMangaIt",
-        "lang": "it",
-        "id": "4312023446566221911",
-        "baseUrl": "https://it.ninemanga.com",
-        "versionId": 1
-      },
-      {
-        "name": "NineMangaFr",
-        "lang": "fr",
-        "id": "3415116372640359218",
-        "baseUrl": "https://fr.ninemanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Pepper&Carrot",
     "pkg": "eu.kanade.tachiyomi.extension.all.peppercarrot",
     "apk": "tachiyomi-all.peppercarrot-v1.4.4.apk",
@@ -1469,10 +1409,10 @@
   {
     "name": "Tachiyomi: Sandra and Woo",
     "pkg": "eu.kanade.tachiyomi.extension.all.sandraandwoo",
-    "apk": "tachiyomi-all.sandraandwoo-v1.4.2.apk",
+    "apk": "tachiyomi-all.sandraandwoo-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -2538,10 +2478,10 @@
   {
     "name": "Tachiyomi: Art Lapsa",
     "pkg": "eu.kanade.tachiyomi.extension.en.artlapsa",
-    "apk": "tachiyomi-en.artlapsa-v1.4.21.apk",
+    "apk": "tachiyomi-en.artlapsa-v1.4.22.apk",
     "lang": "en",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "sources": [
       {
@@ -5148,10 +5088,10 @@
   {
     "name": "Tachiyomi: RitharScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ritharscans",
-    "apk": "tachiyomi-en.ritharscans-v1.4.20.apk",
+    "apk": "tachiyomi-en.ritharscans-v1.4.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "sources": [
       {
@@ -5634,10 +5574,10 @@
   {
     "name": "Tachiyomi: vgperson",
     "pkg": "eu.kanade.tachiyomi.extension.en.vgperson",
-    "apk": "tachiyomi-en.vgperson-v1.4.6.apk",
+    "apk": "tachiyomi-en.vgperson-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -8161,10 +8101,10 @@
   {
     "name": "Tachiyomi: Anime GDR Club",
     "pkg": "eu.kanade.tachiyomi.extension.it.animegdrclub",
-    "apk": "tachiyomi-it.animegdrclub-v1.4.1.apk",
+    "apk": "tachiyomi-it.animegdrclub-v1.4.2.apk",
     "lang": "it",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
