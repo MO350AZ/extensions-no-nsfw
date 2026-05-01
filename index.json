@@ -1774,24 +1774,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Hadess",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.crowscans",
-    "apk": "tachiyomi-ar.crowscans-v1.4.47.apk",
-    "lang": "ar",
-    "code": 47,
-    "version": "1.4.47",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Hadess",
-        "lang": "ar",
-        "id": "5952392608448542590",
-        "baseUrl": "https://www.hadess.xyz",
-        "versionId": 2
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Despair Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.despairmanga",
     "apk": "tachiyomi-ar.despairmanga-v1.4.30.apk",
@@ -2134,24 +2116,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Oduto",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.oduto",
-    "apk": "tachiyomi-ar.oduto-v1.4.1.apk",
-    "lang": "ar",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Oduto",
-        "lang": "ar",
-        "id": "1862668423724227387",
-        "baseUrl": "https://nb19u.blogspot.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Onma",
     "pkg": "eu.kanade.tachiyomi.extension.ar.onma",
     "apk": "tachiyomi-ar.onma-v1.4.15.apk",
@@ -2370,10 +2334,10 @@
   {
     "name": "Tachiyomi: Manga Tube",
     "pkg": "eu.kanade.tachiyomi.extension.de.mangatube",
-    "apk": "tachiyomi-de.mangatube-v1.4.2.apk",
+    "apk": "tachiyomi-de.mangatube-v1.4.3.apk",
     "lang": "de",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -5196,10 +5160,10 @@
   {
     "name": "Tachiyomi: Sana Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.sanascans",
-    "apk": "tachiyomi-en.sanascans-v1.4.17.apk",
+    "apk": "tachiyomi-en.sanascans-v1.4.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "sources": [
       {
@@ -6913,10 +6877,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.65.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.66.apk",
     "lang": "fr",
-    "code": 65,
-    "version": "1.4.65",
+    "code": 66,
+    "version": "1.4.66",
     "nsfw": 0,
     "sources": [
       {
@@ -7723,17 +7687,17 @@
   {
     "name": "Tachiyomi: Ikiru",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
-    "apk": "tachiyomi-id.mangatale-v1.4.47.apk",
+    "apk": "tachiyomi-id.mangatale-v1.4.48.apk",
     "lang": "id",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "sources": [
       {
         "name": "Ikiru",
         "lang": "id",
         "id": "1532456597012176985",
-        "baseUrl": "https://03.ikiru.wtf",
+        "baseUrl": "https://05.ikiru.wtf",
         "versionId": 1
       }
     ]
@@ -7795,10 +7759,10 @@
   {
     "name": "Tachiyomi: MG Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mgkomik",
-    "apk": "tachiyomi-id.mgkomik-v1.4.65.apk",
+    "apk": "tachiyomi-id.mgkomik-v1.4.66.apk",
     "lang": "id",
-    "code": 65,
-    "version": "1.4.65",
+    "code": 66,
+    "version": "1.4.66",
     "nsfw": 0,
     "sources": [
       {
@@ -7914,24 +7878,6 @@
         "lang": "id",
         "id": "8361715798247396418",
         "baseUrl": "https://www.okyykomik.my.id",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: One Piece Berwarna",
-    "pkg": "eu.kanade.tachiyomi.extension.id.onepieceberwarna",
-    "apk": "tachiyomi-id.onepieceberwarna-v1.4.1.apk",
-    "lang": "id",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "One Piece Berwarna",
-        "lang": "id",
-        "id": "6327374097013138583",
-        "baseUrl": "https://onepieceberwarna.com",
         "versionId": 1
       }
     ]
@@ -8317,10 +8263,10 @@
   {
     "name": "Tachiyomi: ZeurelScan",
     "pkg": "eu.kanade.tachiyomi.extension.it.zeurelscan",
-    "apk": "tachiyomi-it.zeurelscan-v1.4.3.apk",
+    "apk": "tachiyomi-it.zeurelscan-v1.4.4.apk",
     "lang": "it",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -9753,18 +9699,18 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.62.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.63.apk",
     "lang": "pt-BR",
-    "code": 62,
-    "version": "1.4.62",
+    "code": 63,
+    "version": "1.4.63",
     "nsfw": 0,
     "sources": [
       {
         "name": "Manga Livre",
         "lang": "pt-BR",
         "id": "2834885536325274328",
-        "baseUrl": "https://mangalivre.tv",
-        "versionId": 1
+        "baseUrl": "https://toonlivre.net",
+        "versionId": 2
       }
     ]
   },
@@ -10779,10 +10725,10 @@
   {
     "name": "Tachiyomi: Merlin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.merlinscans",
-    "apk": "tachiyomi-tr.merlinscans-v1.4.34.apk",
+    "apk": "tachiyomi-tr.merlinscans-v1.4.35.apk",
     "lang": "tr",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "sources": [
       {
@@ -10833,10 +10779,10 @@
   {
     "name": "Tachiyomi: Paradox Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.paradoxscans",
-    "apk": "tachiyomi-tr.paradoxscans-v1.4.3.apk",
+    "apk": "tachiyomi-tr.paradoxscans-v1.4.4.apk",
     "lang": "tr",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -10869,10 +10815,10 @@
   {
     "name": "Tachiyomi: Ragnar Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.ragnarscans",
-    "apk": "tachiyomi-tr.ragnarscans-v1.4.47.apk",
+    "apk": "tachiyomi-tr.ragnarscans-v1.4.48.apk",
     "lang": "tr",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "sources": [
       {
@@ -11348,24 +11294,6 @@
         "lang": "vi",
         "id": "3129953610837449394",
         "baseUrl": "https://nettruyenx.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: NewTruyenTranh",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.newtruyentranh",
-    "apk": "tachiyomi-vi.newtruyentranh-v1.4.7.apk",
-    "lang": "vi",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "NewTruyenTranh",
-        "lang": "vi",
-        "id": "2947299136081074220",
-        "baseUrl": "https://newtruyentranh10.com",
         "versionId": 1
       }
     ]
