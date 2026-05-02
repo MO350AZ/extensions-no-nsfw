@@ -1452,10 +1452,10 @@
   {
     "name": "Tachiyomi: The Library of Ohara",
     "pkg": "eu.kanade.tachiyomi.extension.all.thelibraryofohara",
-    "apk": "tachiyomi-all.thelibraryofohara-v1.4.1.apk",
+    "apk": "tachiyomi-all.thelibraryofohara-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -1530,24 +1530,24 @@
   {
     "name": "Tachiyomi: Vinne Veritas - CCC",
     "pkg": "eu.kanade.tachiyomi.extension.all.vinnieVeritas",
-    "apk": "tachiyomi-all.vinnieVeritas-v1.4.2.apk",
+    "apk": "tachiyomi-all.vinnieVeritas-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
         "name": "Vinnie Veritas - CCC",
         "lang": "en",
         "id": "9005452006043030878",
-        "baseUrl": "https://vinnieveritas.com/",
+        "baseUrl": "https://ccc.vinnieveritas.com",
         "versionId": 1
       },
       {
         "name": "Vinnie Veritas - CCC",
         "lang": "es",
         "id": "2264075849201286666",
-        "baseUrl": "https://vinnieveritas.com/",
+        "baseUrl": "https://ccc.vinnieveritas.com",
         "versionId": 1
       }
     ]
@@ -2028,10 +2028,10 @@
   {
     "name": "Tachiyomi: MangaTek",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangatek",
-    "apk": "tachiyomi-ar.mangatek-v1.4.1.apk",
+    "apk": "tachiyomi-ar.mangatek-v1.4.2.apk",
     "lang": "ar",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -3826,24 +3826,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaKatana",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangakatana",
-    "apk": "tachiyomi-en.mangakatana-v1.4.11.apk",
-    "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "MangaKatana",
-        "lang": "en",
-        "id": "3170561626848540385",
-        "baseUrl": "https://mangakatana.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Kiss",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakiss",
     "apk": "tachiyomi-en.mangakiss-v1.4.48.apk",
@@ -4386,10 +4368,10 @@
   {
     "name": "Tachiyomi: oots",
     "pkg": "eu.kanade.tachiyomi.extension.en.oots",
-    "apk": "tachiyomi-en.oots-v1.4.2.apk",
+    "apk": "tachiyomi-en.oots-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -4512,10 +4494,10 @@
   {
     "name": "Tachiyomi: Questionable Content",
     "pkg": "eu.kanade.tachiyomi.extension.en.questionablecontent",
-    "apk": "tachiyomi-en.questionablecontent-v1.4.9.apk",
+    "apk": "tachiyomi-en.questionablecontent-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
@@ -4926,10 +4908,10 @@
   {
     "name": "Tachiyomi: Real Life Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.reallifecomics",
-    "apk": "tachiyomi-en.reallifecomics-v1.4.2.apk",
+    "apk": "tachiyomi-en.reallifecomics-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -5142,10 +5124,10 @@
   {
     "name": "Tachiyomi: Schlock Mercenary",
     "pkg": "eu.kanade.tachiyomi.extension.en.schlockmercenary",
-    "apk": "tachiyomi-en.schlockmercenary-v1.4.1.apk",
+    "apk": "tachiyomi-en.schlockmercenary-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -6643,17 +6625,17 @@
   {
     "name": "Tachiyomi: AnimeSama",
     "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
-    "apk": "tachiyomi-fr.animesama-v1.4.15.apk",
+    "apk": "tachiyomi-fr.animesama-v1.4.16.apk",
     "lang": "fr",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeSama",
         "lang": "fr",
         "id": "5104384223103778991",
-        "baseUrl": "https://anime-sama.pw",
+        "baseUrl": "https://anime-sama.to",
         "versionId": 1
       }
     ]
@@ -11319,10 +11301,10 @@
   {
     "name": "Tachiyomi: Baozi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
-    "apk": "tachiyomi-zh.baozimanhua-v1.4.25.apk",
+    "apk": "tachiyomi-zh.baozimanhua-v1.4.26.apk",
     "lang": "zh",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
     "sources": [
       {
@@ -11355,10 +11337,10 @@
   {
     "name": "Tachiyomi: BH3",
     "pkg": "eu.kanade.tachiyomi.extension.zh.bh3",
-    "apk": "tachiyomi-zh.bh3-v1.4.3.apk",
+    "apk": "tachiyomi-zh.bh3-v1.4.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -11463,10 +11445,10 @@
   {
     "name": "Tachiyomi: Iqiyi",
     "pkg": "eu.kanade.tachiyomi.extension.zh.iqiyi",
-    "apk": "tachiyomi-zh.iqiyi-v1.4.3.apk",
+    "apk": "tachiyomi-zh.iqiyi-v1.4.4.apk",
     "lang": "zh-Hans",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -11553,10 +11535,10 @@
   {
     "name": "Tachiyomi: MH1234",
     "pkg": "eu.kanade.tachiyomi.extension.zh.mh1234",
-    "apk": "tachiyomi-zh.mh1234-v1.4.2.apk",
+    "apk": "tachiyomi-zh.mh1234-v1.4.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -11600,24 +11582,6 @@
         "lang": "zh",
         "id": "392262758488714109",
         "baseUrl": "https://m.rumanhua2.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Tencent Comics (ac.qq.com)",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.tencentcomics",
-    "apk": "tachiyomi-zh.tencentcomics-v1.4.8.apk",
-    "lang": "zh-Hans",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "腾讯动漫",
-        "lang": "zh-Hans",
-        "id": "6353436350537369479",
-        "baseUrl": "https://m.ac.qq.com",
         "versionId": 1
       }
     ]
@@ -11690,24 +11654,6 @@
         "lang": "zh",
         "id": "6466445276541048432",
         "baseUrl": "https://www.zazhimi.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Zerobyw",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.zerobyw",
-    "apk": "tachiyomi-zh.zerobyw-v1.4.19.apk",
-    "lang": "zh",
-    "code": 19,
-    "version": "1.4.19",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "zero搬运网",
-        "lang": "zh",
-        "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywai.com",
         "versionId": 1
       }
     ]
