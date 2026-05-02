@@ -5921,12 +5921,30 @@
     ]
   },
   {
+    "name": "Tachiyomi: El Scan Semanal",
+    "pkg": "eu.kanade.tachiyomi.extension.es.elscansemanal",
+    "apk": "tachiyomi-es.elscansemanal-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "El Scan Semanal",
+        "lang": "es",
+        "id": "6066408430738108766",
+        "baseUrl": "https://capibaratraductor.com/elscansemanal",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Emperor Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
-    "apk": "tachiyomi-es.emperorscan-v1.4.57.apk",
+    "apk": "tachiyomi-es.emperorscan-v1.4.58.apk",
     "lang": "es",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
