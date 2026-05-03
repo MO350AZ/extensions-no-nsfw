@@ -443,10 +443,10 @@
   {
     "name": "Tachiyomi: FoolSlide Customizable",
     "pkg": "eu.kanade.tachiyomi.extension.all.foolslidecustomizable",
-    "apk": "tachiyomi-all.foolslidecustomizable-v1.4.4.apk",
+    "apk": "tachiyomi-all.foolslidecustomizable-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -2874,10 +2874,10 @@
   {
     "name": "Tachiyomi: Death Toll Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.deathtollscans",
-    "apk": "tachiyomi-en.deathtollscans-v1.4.4.apk",
+    "apk": "tachiyomi-en.deathtollscans-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -3954,10 +3954,10 @@
   {
     "name": "Tachiyomi: Mangatellers",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatellers",
-    "apk": "tachiyomi-en.mangatellers-v1.4.4.apk",
+    "apk": "tachiyomi-en.mangatellers-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -5268,10 +5268,10 @@
   {
     "name": "Tachiyomi: SUPER MEGA",
     "pkg": "eu.kanade.tachiyomi.extension.en.supermega",
-    "apk": "tachiyomi-en.supermega-v1.4.3.apk",
+    "apk": "tachiyomi-en.supermega-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -6121,18 +6121,18 @@
   {
     "name": "Tachiyomi: Jeaz Scans",
     "pkg": "eu.kanade.tachiyomi.extension.es.jeazscans",
-    "apk": "tachiyomi-es.jeazscans-v1.4.65.apk",
+    "apk": "tachiyomi-es.jeazscans-v1.4.66.apk",
     "lang": "es",
-    "code": 65,
-    "version": "1.4.65",
+    "code": 66,
+    "version": "1.4.66",
     "nsfw": 0,
     "sources": [
       {
         "name": "Jeaz Scans",
         "lang": "es",
-        "id": "5292079548510508306",
+        "id": "8103409233756077332",
         "baseUrl": "https://lectorhub.j5z.xyz",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -6283,10 +6283,10 @@
   {
     "name": "Tachiyomi: Menudo-Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.menudofansub",
-    "apk": "tachiyomi-es.menudofansub-v1.4.5.apk",
+    "apk": "tachiyomi-es.menudofansub-v1.4.6.apk",
     "lang": "es",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -6301,10 +6301,10 @@
   {
     "name": "Tachiyomi: MHScans",
     "pkg": "eu.kanade.tachiyomi.extension.es.mhscans",
-    "apk": "tachiyomi-es.mhscans-v1.4.57.apk",
+    "apk": "tachiyomi-es.mhscans-v1.4.58.apk",
     "lang": "es",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 0,
     "sources": [
       {
@@ -6805,10 +6805,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.67.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.68.apk",
     "lang": "fr",
-    "code": 67,
-    "version": "1.4.67",
+    "code": 68,
+    "version": "1.4.68",
     "nsfw": 0,
     "sources": [
       {
@@ -6877,10 +6877,10 @@
   {
     "name": "Tachiyomi: Lelscan-VF",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelscanvf",
-    "apk": "tachiyomi-fr.lelscanvf-v1.4.14.apk",
+    "apk": "tachiyomi-fr.lelscanvf-v1.4.15.apk",
     "lang": "fr",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "sources": [
       {
@@ -7471,10 +7471,10 @@
   {
     "name": "Tachiyomi: Komikzoid",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikzoid",
-    "apk": "tachiyomi-id.komikzoid-v1.4.1.apk",
+    "apk": "tachiyomi-id.komikzoid-v1.4.2.apk",
     "lang": "id",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -7813,10 +7813,10 @@
   {
     "name": "Tachiyomi: Sekte Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.sektekomik",
-    "apk": "tachiyomi-id.sektekomik-v1.4.27.apk",
+    "apk": "tachiyomi-id.sektekomik-v1.4.28.apk",
     "lang": "id",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "sources": [
       {
@@ -8047,10 +8047,10 @@
   {
     "name": "Tachiyomi: Juin Jutsu Team Reader",
     "pkg": "eu.kanade.tachiyomi.extension.it.juinjutsuteamreader",
-    "apk": "tachiyomi-it.juinjutsuteamreader-v1.4.4.apk",
+    "apk": "tachiyomi-it.juinjutsuteamreader-v1.4.5.apk",
     "lang": "it",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -8101,10 +8101,10 @@
   {
     "name": "Tachiyomi: NIFTeam",
     "pkg": "eu.kanade.tachiyomi.extension.it.nifteam",
-    "apk": "tachiyomi-it.nifteam-v1.4.5.apk",
+    "apk": "tachiyomi-it.nifteam-v1.4.6.apk",
     "lang": "it",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
