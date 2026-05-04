@@ -173,10 +173,10 @@
   {
     "name": "Tachiyomi: Dragon Ball Multiverse",
     "pkg": "eu.kanade.tachiyomi.extension.all.dragonballmultiverse",
-    "apk": "tachiyomi-all.dragonballmultiverse-v1.4.6.apk",
+    "apk": "tachiyomi-all.dragonballmultiverse-v1.4.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -2424,10 +2424,10 @@
   {
     "name": "Tachiyomi: Art Lapsa",
     "pkg": "eu.kanade.tachiyomi.extension.en.artlapsa",
-    "apk": "tachiyomi-en.artlapsa-v1.4.22.apk",
+    "apk": "tachiyomi-en.artlapsa-v1.4.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "sources": [
       {
@@ -3216,17 +3216,17 @@
   {
     "name": "Tachiyomi: Greed Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.greedscans",
-    "apk": "tachiyomi-en.greedscans-v1.4.31.apk",
+    "apk": "tachiyomi-en.greedscans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
         "name": "Greed Scans",
         "lang": "en",
         "id": "288706940180085416",
-        "baseUrl": "https://greedscans.com",
+        "baseUrl": "https://gojoscans.com",
         "versionId": 1
       }
     ]
@@ -3556,6 +3556,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Leslie&Victims",
+    "pkg": "eu.kanade.tachiyomi.extension.en.leslievictims",
+    "apk": "tachiyomi-en.leslievictims-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Leslie&Victims",
+        "lang": "en",
+        "id": "1228130671216317629",
+        "baseUrl": "https://leslie-victims.pages.dev",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LHTranslation",
     "pkg": "eu.kanade.tachiyomi.extension.en.lhtranslation",
     "apk": "tachiyomi-en.lhtranslation-v1.4.48.apk",
@@ -3630,10 +3648,10 @@
   {
     "name": "Tachiyomi: Luminare Translations",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminaretranslations",
-    "apk": "tachiyomi-en.luminaretranslations-v1.4.2.apk",
+    "apk": "tachiyomi-en.luminaretranslations-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -3648,10 +3666,10 @@
   {
     "name": "Tachiyomi: Madara Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.madarascans",
-    "apk": "tachiyomi-en.madarascans-v1.4.31.apk",
+    "apk": "tachiyomi-en.madarascans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
@@ -6301,17 +6319,17 @@
   {
     "name": "Tachiyomi: MHScans",
     "pkg": "eu.kanade.tachiyomi.extension.es.mhscans",
-    "apk": "tachiyomi-es.mhscans-v1.4.58.apk",
+    "apk": "tachiyomi-es.mhscans-v1.4.59.apk",
     "lang": "es",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "sources": [
       {
         "name": "MHScans",
         "lang": "es",
         "id": "3253304651550496369",
-        "baseUrl": "https://mh.inventariooculto.com",
+        "baseUrl": "https://mhscans.com",
         "versionId": 1
       }
     ]
@@ -6805,10 +6823,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.68.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.69.apk",
     "lang": "fr",
-    "code": 68,
-    "version": "1.4.68",
+    "code": 69,
+    "version": "1.4.69",
     "nsfw": 0,
     "sources": [
       {
@@ -10419,17 +10437,17 @@
   {
     "name": "Tachiyomi: Hayalistic",
     "pkg": "eu.kanade.tachiyomi.extension.tr.hayalistic",
-    "apk": "tachiyomi-tr.hayalistic-v1.4.51.apk",
+    "apk": "tachiyomi-tr.hayalistic-v1.4.52.apk",
     "lang": "tr",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "sources": [
       {
         "name": "Hayalistic",
         "lang": "tr",
         "id": "546920749196078093",
-        "baseUrl": "https://hayalistic.com",
+        "baseUrl": "https://hayalistic.blog",
         "versionId": 1
       }
     ]
