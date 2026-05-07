@@ -2800,6 +2800,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Crow Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.crowscans",
+    "apk": "tachiyomi-en.crowscans-v1.4.31.apk",
+    "lang": "en",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Crow Scans",
+        "lang": "en",
+        "id": "2142724534705483892",
+        "baseUrl": "https://crowscans.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Dark Legacy Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.darklegacycomics",
     "apk": "tachiyomi-en.darklegacycomics-v1.4.1.apk",
@@ -6173,24 +6191,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Lector MOnline",
-    "pkg": "eu.kanade.tachiyomi.extension.es.lectormonline",
-    "apk": "tachiyomi-es.lectormonline-v1.4.1.apk",
-    "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Lector MOnline",
-        "lang": "es",
-        "id": "7470188862319655999",
-        "baseUrl": "https://www.lectormangas.online",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: LeerCapitulo",
     "pkg": "eu.kanade.tachiyomi.extension.es.leercapitulo",
     "apk": "tachiyomi-es.leercapitulo-v1.4.16.apk",
@@ -7273,10 +7273,10 @@
   {
     "name": "Tachiyomi: DailySuka",
     "pkg": "eu.kanade.tachiyomi.extension.id.dailysuka",
-    "apk": "tachiyomi-id.dailysuka-v1.4.31.apk",
+    "apk": "tachiyomi-id.dailysuka-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
@@ -7363,17 +7363,17 @@
   {
     "name": "Tachiyomi: APKOMIK",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikav",
-    "apk": "tachiyomi-id.komikav-v1.4.34.apk",
+    "apk": "tachiyomi-id.komikav-v1.4.35.apk",
     "lang": "id",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "sources": [
       {
         "name": "APKOMIK",
         "lang": "id",
         "id": "7875815514004535629",
-        "baseUrl": "https://apkomik.cc",
+        "baseUrl": "https://01.apkomik.com",
         "versionId": 1
       }
     ]
@@ -11175,10 +11175,10 @@
   {
     "name": "Tachiyomi: MoeTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.moetruyen",
-    "apk": "tachiyomi-vi.moetruyen-v1.4.2.apk",
+    "apk": "tachiyomi-vi.moetruyen-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
