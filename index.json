@@ -3774,10 +3774,10 @@
   {
     "name": "Tachiyomi: MangaCloud",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangacloud",
-    "apk": "tachiyomi-en.mangacloud-v1.4.3.apk",
+    "apk": "tachiyomi-en.mangacloud-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
