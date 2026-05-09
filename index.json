@@ -3450,10 +3450,10 @@
   {
     "name": "Tachiyomi: Kayn Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kaynscans",
-    "apk": "tachiyomi-en.kaynscans-v1.4.18.apk",
+    "apk": "tachiyomi-en.kaynscans-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "sources": [
       {
@@ -6427,10 +6427,10 @@
   {
     "name": "Tachiyomi: Ragnarok Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.ragnarokscanlation",
-    "apk": "tachiyomi-es.ragnarokscanlation-v1.4.51.apk",
+    "apk": "tachiyomi-es.ragnarokscanlation-v1.4.52.apk",
     "lang": "es",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "sources": [
       {
@@ -8549,24 +8549,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: DRE Comics",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.drecomics",
-    "apk": "tachiyomi-ja.drecomics-v1.4.2.apk",
-    "lang": "ja",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "DRE Comics",
-        "lang": "ja",
-        "id": "1192219287792216887",
-        "baseUrl": "https://drecom-media.jp",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: FireCross",
     "pkg": "eu.kanade.tachiyomi.extension.ja.firecross",
     "apk": "tachiyomi-ja.firecross-v1.4.2.apk",
@@ -10509,17 +10491,17 @@
   {
     "name": "Tachiyomi: Koreli Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.koreliscans",
-    "apk": "tachiyomi-tr.koreliscans-v1.4.50.apk",
+    "apk": "tachiyomi-tr.koreliscans-v1.4.51.apk",
     "lang": "tr",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "sources": [
       {
         "name": "Koreli Scans",
         "lang": "tr",
         "id": "1475942648540931708",
-        "baseUrl": "https://nabimanga.com",
+        "baseUrl": "https://www.nabicix.com",
         "versionId": 1
       }
     ]
