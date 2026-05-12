@@ -2370,17 +2370,17 @@
   {
     "name": "Tachiyomi: Aqua Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.aquamanga",
-    "apk": "tachiyomi-en.aquamanga-v1.4.60.apk",
+    "apk": "tachiyomi-en.aquamanga-v1.4.61.apk",
     "lang": "en",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 0,
     "sources": [
       {
         "name": "Aqua Manga",
         "lang": "en",
         "id": "626267698662819838",
-        "baseUrl": "https://aquareader.net",
+        "baseUrl": "https://aquareader.org",
         "versionId": 1
       }
     ]
@@ -4188,10 +4188,10 @@
   {
     "name": "Tachiyomi: Mist Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.mistscans",
-    "apk": "tachiyomi-en.mistscans-v1.4.18.apk",
+    "apk": "tachiyomi-en.mistscans-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "sources": [
       {
