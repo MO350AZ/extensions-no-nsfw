@@ -572,10 +572,10 @@
   {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.4.64.apk",
+    "apk": "tachiyomi-all.komga-v1.4.65.apk",
     "lang": "all",
-    "code": 64,
-    "version": "1.4.64",
+    "code": 65,
+    "version": "1.4.65",
     "nsfw": 0,
     "sources": [
       {
@@ -604,10 +604,10 @@
   {
     "name": "Tachiyomi: LANraragi",
     "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
-    "apk": "tachiyomi-all.lanraragi-v1.4.20.apk",
+    "apk": "tachiyomi-all.lanraragi-v1.4.21.apk",
     "lang": "all",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "sources": [
       {
@@ -1733,6 +1733,24 @@
         "lang": "ar",
         "id": "241593018172482505",
         "baseUrl": "https://ar.areascans.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: AriaToon",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.ariatoon",
+    "apk": "tachiyomi-ar.ariatoon-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AriaToon",
+        "lang": "ar",
+        "id": "8156789703798131884",
+        "baseUrl": "https://ariatoon.com",
         "versionId": 1
       }
     ]
@@ -6875,6 +6893,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Lelscan",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.lelscan",
+    "apk": "tachiyomi-fr.lelscan-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Lelscan",
+        "lang": "fr",
+        "id": "8620544519921042006",
+        "baseUrl": "https://lelscans.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Lelscan-VF",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelscanvf",
     "apk": "tachiyomi-fr.lelscanvf-v1.4.15.apk",
@@ -6931,10 +6967,10 @@
   {
     "name": "Tachiyomi: MangaMoins",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangamoins",
-    "apk": "tachiyomi-fr.mangamoins-v1.4.6.apk",
+    "apk": "tachiyomi-fr.mangamoins-v1.4.7.apk",
     "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
