@@ -1830,18 +1830,18 @@
   {
     "name": "Tachiyomi: Dilar",
     "pkg": "eu.kanade.tachiyomi.extension.ar.dilar",
-    "apk": "tachiyomi-ar.dilar-v1.4.7.apk",
+    "apk": "tachiyomi-ar.dilar-v1.4.8.apk",
     "lang": "ar",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
         "name": "Dilar",
         "lang": "ar",
-        "id": "6272541812251031526",
-        "baseUrl": "https://dilar.tube#, https://golden.rest",
-        "versionId": 1
+        "id": "7634600808243438399",
+        "baseUrl": "https://dilar.tube",
+        "versionId": 2
       }
     ]
   },
@@ -2640,10 +2640,10 @@
   {
     "name": "Tachiyomi: BatCave",
     "pkg": "eu.kanade.tachiyomi.extension.en.batcave",
-    "apk": "tachiyomi-en.batcave-v1.4.5.apk",
+    "apk": "tachiyomi-en.batcave-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -6193,10 +6193,10 @@
   {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
-    "apk": "tachiyomi-es.mangacrab-v1.4.71.apk",
+    "apk": "tachiyomi-es.mangacrab-v1.4.72.apk",
     "lang": "es",
-    "code": 71,
-    "version": "1.4.71",
+    "code": 72,
+    "version": "1.4.72",
     "nsfw": 0,
     "sources": [
       {
@@ -9967,6 +9967,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaMen",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.mangamen",
+    "apk": "tachiyomi-ru.mangamen-v1.4.1.apk",
+    "lang": "ru",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaMen",
+        "lang": "ru",
+        "id": "601889634773560665",
+        "baseUrl": "https://mangamen.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NineGrid",
     "pkg": "eu.kanade.tachiyomi.extension.ru.ninegrid",
     "apk": "tachiyomi-ru.ninegrid-v1.4.2.apk",
@@ -9987,10 +10005,10 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.85.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.86.apk",
     "lang": "ru",
-    "code": 85,
-    "version": "1.4.85",
+    "code": 86,
+    "version": "1.4.86",
     "nsfw": 0,
     "sources": [
       {
@@ -10005,10 +10023,10 @@
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.39.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.40.apk",
     "lang": "ru",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "sources": [
       {
@@ -10023,10 +10041,10 @@
   {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.60.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.61.apk",
     "lang": "ru",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 0,
     "sources": [
       {
@@ -11247,17 +11265,17 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.4.22.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.23.apk",
     "lang": "vi",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "sources": [
       {
         "name": "TruyenQQ",
         "lang": "vi",
         "id": "2553532324170433933",
-        "baseUrl": "https://truyenqqno.com",
+        "baseUrl": "https://truyenqqko.com",
         "versionId": 1
       }
     ]
@@ -11301,17 +11319,17 @@
   {
     "name": "Tachiyomi: ZetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.zettruyen",
-    "apk": "tachiyomi-vi.zettruyen-v1.4.3.apk",
+    "apk": "tachiyomi-vi.zettruyen-v1.4.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
         "name": "ZetTruyen",
         "lang": "vi",
         "id": "893747327087652119",
-        "baseUrl": "https://www.zettruyen.africa",
+        "baseUrl": "https://www.zettruyen.live",
         "versionId": 1
       }
     ]
