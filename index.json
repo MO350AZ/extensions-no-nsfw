@@ -10129,6 +10129,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Doujin Moon",
+    "pkg": "eu.kanade.tachiyomi.extension.th.doujinmoon",
+    "apk": "tachiyomi-th.doujinmoon-v1.4.32.apk",
+    "lang": "th",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Doujin Moon",
+        "lang": "th",
+        "id": "1953904877869380978",
+        "baseUrl": "https://doujinmoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManhuaBug",
     "pkg": "eu.kanade.tachiyomi.extension.th.manhuabug",
     "apk": "tachiyomi-th.manhuabug-v1.4.50.apk",
