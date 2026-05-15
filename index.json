@@ -7255,10 +7255,10 @@
   {
     "name": "Tachiyomi: Comicazen",
     "pkg": "eu.kanade.tachiyomi.extension.id.comicazen",
-    "apk": "tachiyomi-id.comicazen-v1.4.8.apk",
+    "apk": "tachiyomi-id.comicazen-v1.4.9.apk",
     "lang": "id",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
@@ -9951,10 +9951,10 @@
   {
     "name": "Tachiyomi: Com-X",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.4.36.apk",
+    "apk": "tachiyomi-ru.comx-v1.4.37.apk",
     "lang": "ru",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "sources": [
       {
