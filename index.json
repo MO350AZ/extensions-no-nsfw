@@ -1371,6 +1371,31 @@
     ]
   },
   {
+    "name": "Tachiyomi: One Piece Fans",
+    "pkg": "eu.kanade.tachiyomi.extension.all.onepiecefans",
+    "apk": "tachiyomi-all.onepiecefans-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "One Piece Fans",
+        "lang": "es",
+        "id": "3010838382018156522",
+        "baseUrl": "https://one-piece-fans2.com",
+        "versionId": 1
+      },
+      {
+        "name": "One Piece Fans",
+        "lang": "en",
+        "id": "6602141352900990132",
+        "baseUrl": "https://one-piece-fans2.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Pepper&Carrot",
     "pkg": "eu.kanade.tachiyomi.extension.all.peppercarrot",
     "apk": "tachiyomi-all.peppercarrot-v1.4.5.apk",
@@ -1555,10 +1580,10 @@
   {
     "name": "Tachiyomi: Webtoons.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
-    "apk": "tachiyomi-all.webtoons-v1.4.53.apk",
+    "apk": "tachiyomi-all.webtoons-v1.4.54.apk",
     "lang": "all",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "sources": [
       {
@@ -3108,10 +3133,10 @@
   {
     "name": "Tachiyomi: Cyanide & Happiness",
     "pkg": "eu.kanade.tachiyomi.extension.en.explosm",
-    "apk": "tachiyomi-en.explosm-v1.4.4.apk",
+    "apk": "tachiyomi-en.explosm-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -3774,10 +3799,10 @@
   {
     "name": "Tachiyomi: MangaCloud",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangacloud",
-    "apk": "tachiyomi-en.mangacloud-v1.4.5.apk",
+    "apk": "tachiyomi-en.mangacloud-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -4710,17 +4735,17 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.41.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "sources": [
       {
         "name": "ReadComicOnline",
         "lang": "en",
         "id": "8061953015808280611",
-        "baseUrl": "https://readcomiconline.li",
+        "baseUrl": "https://rcostation.xyz",
         "versionId": 1
       }
     ]
@@ -5759,6 +5784,60 @@
     ]
   },
   {
+    "name": "Tachiyomi: Alpha Centauri",
+    "pkg": "eu.kanade.tachiyomi.extension.es.alphacentauri",
+    "apk": "tachiyomi-es.alphacentauri-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Alpha Centauri",
+        "lang": "es",
+        "id": "2881245355278529140",
+        "baseUrl": "https://capibaratraductor.com/alphacentauri",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ame Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.es.amefansub",
+    "apk": "tachiyomi-es.amefansub-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Ame Fansub",
+        "lang": "es",
+        "id": "9210144988875709471",
+        "baseUrl": "https://capibaratraductor.com/ame",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Animu No Mansebia",
+    "pkg": "eu.kanade.tachiyomi.extension.es.animunomansebia",
+    "apk": "tachiyomi-es.animunomansebia-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Animu No Mansebia",
+        "lang": "es",
+        "id": "2530679656590805163",
+        "baseUrl": "https://capibaratraductor.com/animunm",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: AnzManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.anzmanga",
     "apk": "tachiyomi-es.anzmanga-v1.4.1.apk",
@@ -5772,6 +5851,60 @@
         "lang": "es",
         "id": "7374498796507972405",
         "baseUrl": "https://www.anzmanga25.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Arigato S.A",
+    "pkg": "eu.kanade.tachiyomi.extension.es.arigatosa",
+    "apk": "tachiyomi-es.arigatosa-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Arigato S.A",
+        "lang": "es",
+        "id": "1372396004179730476",
+        "baseUrl": "https://capibaratraductor.com/arigatosa",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Asperuas Tradus",
+    "pkg": "eu.kanade.tachiyomi.extension.es.asperuastradus",
+    "apk": "tachiyomi-es.asperuastradus-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Asperuas Tradus",
+        "lang": "es",
+        "id": "6171000572202044993",
+        "baseUrl": "https://capibaratraductor.com/asperuastradus",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Azure Bloom",
+    "pkg": "eu.kanade.tachiyomi.extension.es.azurebloom",
+    "apk": "tachiyomi-es.azurebloom-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Azure Bloom",
+        "lang": "es",
+        "id": "8553987094229227803",
+        "baseUrl": "https://capibaratraductor.com/azurebloom",
         "versionId": 1
       }
     ]
@@ -5795,6 +5928,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Beeg Gimp",
+    "pkg": "eu.kanade.tachiyomi.extension.es.beeggimp",
+    "apk": "tachiyomi-es.beeggimp-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Beeg Gimp",
+        "lang": "es",
+        "id": "8186427894325254625",
+        "baseUrl": "https://capibaratraductor.com/beeggimp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Bega Translation",
     "pkg": "eu.kanade.tachiyomi.extension.es.begatranslation",
     "apk": "tachiyomi-es.begatranslation-v1.4.51.apk",
@@ -5808,6 +5959,24 @@
         "lang": "es",
         "id": "6757330205319558057",
         "baseUrl": "https://begatranslation.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Beyond Birthday Subs",
+    "pkg": "eu.kanade.tachiyomi.extension.es.beyondbirthdaysubs",
+    "apk": "tachiyomi-es.beyondbirthdaysubs-v1.4.4.apk",
+    "lang": "es",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Beyond Birthday Subs",
+        "lang": "es",
+        "id": "9137751739270653218",
+        "baseUrl": "https://capibaratraductor.com/beyondbirthdaysubs",
         "versionId": 1
       }
     ]
@@ -6967,10 +7136,10 @@
   {
     "name": "Tachiyomi: MangaMoins",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangamoins",
-    "apk": "tachiyomi-fr.mangamoins-v1.4.7.apk",
+    "apk": "tachiyomi-fr.mangamoins-v1.4.8.apk",
     "lang": "fr",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
@@ -7057,10 +7226,10 @@
   {
     "name": "Tachiyomi: Poseidon Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.poseidonscans",
-    "apk": "tachiyomi-fr.poseidonscans-v1.4.50.apk",
+    "apk": "tachiyomi-fr.poseidonscans-v1.4.51.apk",
     "lang": "fr",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "sources": [
       {
@@ -7075,10 +7244,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.58.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.59.apk",
     "lang": "fr",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "sources": [
       {
@@ -9465,10 +9634,10 @@
   {
     "name": "Tachiyomi: Sagrado Império da Britannia",
     "pkg": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
-    "apk": "tachiyomi-pt.imperiodabritannia-v1.4.53.apk",
+    "apk": "tachiyomi-pt.imperiodabritannia-v1.4.54.apk",
     "lang": "pt-BR",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "sources": [
       {
