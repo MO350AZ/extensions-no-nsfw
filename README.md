@@ -1,4 +1,4 @@
-# Extensions No NSFW – Safe Manga Extensions Repository
+# Extensions No NSFW – Safe Manga Extensions Repository مصادر مايهون
 
 مستودع إضافات **بدون محتوى +18** لتطبيقات قراءة المانجا.
 هذا المستودع هو **Filtered Mirror** للمستودع الرسمي، ويهدف لتوفير تجربة قراءة آمنة بدون تعديل أي ملفات أصلية.
