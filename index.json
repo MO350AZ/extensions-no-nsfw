@@ -3779,6 +3779,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangack",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangack",
+    "apk": "tachiyomi-en.mangack-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Mangack",
+        "lang": "en",
+        "id": "7208855238528281651",
+        "baseUrl": "https://mangack.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaCloud",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangacloud",
     "apk": "tachiyomi-en.mangacloud-v1.4.6.apk",
@@ -4465,18 +4483,18 @@
   {
     "name": "Tachiyomi: Philia Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
-    "apk": "tachiyomi-en.philiascans-v1.4.52.apk",
+    "apk": "tachiyomi-en.philiascans-v1.4.53.apk",
     "lang": "en",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
         "name": "Philia Scans",
         "lang": "en",
-        "id": "940450670010209918",
+        "id": "2169580002690693441",
         "baseUrl": "https://philiascans.org",
-        "versionId": 3
+        "versionId": 4
       }
     ]
   },
@@ -5534,10 +5552,10 @@
   {
     "name": "Tachiyomi: Voyce.Me",
     "pkg": "eu.kanade.tachiyomi.extension.en.voyceme",
-    "apk": "tachiyomi-en.voyceme-v1.4.4.apk",
+    "apk": "tachiyomi-en.voyceme-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -7872,6 +7890,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Twatt",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.twatt",
+    "apk": "tachiyomi-fr.twatt-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Twatt",
+        "lang": "fr",
+        "id": "5157242904926355900",
+        "baseUrl": "https://twatt.fr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ainz Scans ID",
     "pkg": "eu.kanade.tachiyomi.extension.id.ainzscansid",
     "apk": "tachiyomi-id.ainzscansid-v1.4.33.apk",
@@ -8936,10 +8972,10 @@
   {
     "name": "Tachiyomi: Comic Earth Star",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comicearthstar",
-    "apk": "tachiyomi-ja.comicearthstar-v1.4.9.apk",
+    "apk": "tachiyomi-ja.comicearthstar-v1.4.10.apk",
     "lang": "ja",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
@@ -9224,10 +9260,10 @@
   {
     "name": "Tachiyomi: GANMA!",
     "pkg": "eu.kanade.tachiyomi.extension.ja.ganma",
-    "apk": "tachiyomi-ja.ganma-v1.4.4.apk",
+    "apk": "tachiyomi-ja.ganma-v1.4.5.apk",
     "lang": "ja",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -9764,10 +9800,10 @@
   {
     "name": "Tachiyomi: U-NEXT",
     "pkg": "eu.kanade.tachiyomi.extension.ja.unext",
-    "apk": "tachiyomi-ja.unext-v1.4.2.apk",
+    "apk": "tachiyomi-ja.unext-v1.4.3.apk",
     "lang": "ja",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -12154,10 +12190,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.21.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.22.apk",
     "lang": "zh",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "sources": [
       {
