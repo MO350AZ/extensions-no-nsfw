@@ -2521,10 +2521,10 @@
   {
     "name": "Tachiyomi: Asmodeus Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asmotoon",
-    "apk": "tachiyomi-en.asmotoon-v1.4.19.apk",
+    "apk": "tachiyomi-en.asmotoon-v1.4.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "sources": [
       {
@@ -4193,6 +4193,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: ManhwaNex",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwanex",
+    "apk": "tachiyomi-en.manhwanex-v1.4.50.apk",
+    "lang": "en",
+    "code": 50,
+    "version": "1.4.50",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "ManhwaNex",
+        "lang": "en",
+        "id": "3663840686576348637",
+        "baseUrl": "https://manhwanex.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Megatokyo",
     "pkg": "eu.kanade.tachiyomi.extension.en.megatokyo",
     "apk": "tachiyomi-en.megatokyo-v1.4.4.apk",
@@ -4483,10 +4501,10 @@
   {
     "name": "Tachiyomi: Philia Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
-    "apk": "tachiyomi-en.philiascans-v1.4.53.apk",
+    "apk": "tachiyomi-en.philiascans-v1.4.54.apk",
     "lang": "en",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "sources": [
       {
@@ -5005,10 +5023,10 @@
   {
     "name": "Tachiyomi: Rinko Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.rinkocomics",
-    "apk": "tachiyomi-en.rinkocomics-v1.4.1.apk",
+    "apk": "tachiyomi-en.rinkocomics-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -5725,6 +5743,24 @@
         "lang": "en",
         "id": "2385956107618754468",
         "baseUrl": "https://xoxocomic.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Xscans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.xscans",
+    "apk": "tachiyomi-en.xscans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Xscans",
+        "lang": "en",
+        "id": "7299252694567414031",
+        "baseUrl": "https://xscans.site",
         "versionId": 1
       }
     ]
@@ -6936,6 +6972,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ragna Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.es.ragnascans",
+    "apk": "tachiyomi-es.ragnascans-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Ragna Scans",
+        "lang": "es",
+        "id": "6003330990591348231",
+        "baseUrl": "https://lector.ragnascan.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Raiki Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.raikiscan",
     "apk": "tachiyomi-es.raikiscan-v1.4.32.apk",
@@ -7658,10 +7712,10 @@
   {
     "name": "Tachiyomi: MangaMoins",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangamoins",
-    "apk": "tachiyomi-fr.mangamoins-v1.4.8.apk",
+    "apk": "tachiyomi-fr.mangamoins-v1.4.9.apk",
     "lang": "fr",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
@@ -9836,10 +9890,10 @@
   {
     "name": "Tachiyomi: Yomonga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.yomonga",
-    "apk": "tachiyomi-ja.yomonga-v1.4.1.apk",
+    "apk": "tachiyomi-ja.yomonga-v1.4.2.apk",
     "lang": "ja",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -11812,17 +11866,17 @@
   {
     "name": "Tachiyomi: Goc Truyen Tranh Vui",
     "pkg": "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui",
-    "apk": "tachiyomi-vi.goctruyentranhvui-v1.4.13.apk",
+    "apk": "tachiyomi-vi.goctruyentranhvui-v1.4.14.apk",
     "lang": "vi",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "sources": [
       {
         "name": "Goc Truyen Tranh Vui",
         "lang": "vi",
         "id": "2831859393730435398",
-        "baseUrl": "https://goctruyentranhvuiiiiiiiiii.site",
+        "baseUrl": "https://goctruyentranhvui30.com",
         "versionId": 1
       }
     ]
