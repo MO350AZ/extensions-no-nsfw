@@ -8581,12 +8581,12 @@
         "name": "Diva Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.divascans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.divascans-v1.4.22.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.divascans-v1.4.24.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.divascans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "22",
-        "versionName": "1.4.22",
+        "versionCode": "24",
+        "versionName": "1.4.24",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
