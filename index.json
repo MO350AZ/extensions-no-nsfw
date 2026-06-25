@@ -7141,18 +7141,18 @@
         "name": "Orca Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.orcamanga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.orcamanga-v1.4.13.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.orcamanga-v1.4.14.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.orcamanga.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "13",
-        "versionName": "1.4.13",
+        "versionCode": "14",
+        "versionName": "1.4.14",
         "sources": [
           {
             "id": "5634203247016722993",
             "name": "Orca Manga",
             "language": "ar",
-            "homeUrl": "https://www.orcamanga.site"
+            "homeUrl": "https://infinity896.blogspot.com"
           }
         ]
       },
@@ -8328,12 +8328,12 @@
         "name": "Coolmic",
         "packageName": "eu.kanade.tachiyomi.extension.en.coolmic",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.coolmic-v1.4.1.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.coolmic-v1.4.2.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.coolmic.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "versionCode": "2",
+        "versionName": "1.4.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -9539,12 +9539,12 @@
         "name": "HentaiNexus",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentainexus",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.hentainexus-v1.4.17.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.hentainexus-v1.4.18.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hentainexus.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "17",
-        "versionName": "1.4.17",
+        "versionCode": "18",
+        "versionName": "1.4.18",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -10757,12 +10757,12 @@
         "name": "MangaBlaze",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangablaze",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangablaze-v1.4.51.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangablaze-v1.4.52.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangablaze.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "51",
-        "versionName": "1.4.51",
+        "versionCode": "52",
+        "versionName": "1.4.52",
         "sources": [
           {
             "id": "6145388266378605164",
@@ -13960,25 +13960,6 @@
             "name": "Renascans",
             "language": "en",
             "homeUrl": "https://renascans.net"
-          }
-        ]
-      },
-      {
-        "name": "Reset Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.resetscans",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.resetscans-v1.4.66.apk",
-          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.resetscans.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "66",
-        "versionName": "1.4.66",
-        "sources": [
-          {
-            "id": "8358008083447218926",
-            "name": "Reset Scans",
-            "language": "en",
-            "homeUrl": "https://reset-scans.org"
           }
         ]
       },
@@ -17202,12 +17183,12 @@
         "name": "Rncalation",
         "packageName": "eu.kanade.tachiyomi.extension.es.nartag",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.nartag-v1.4.58.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.nartag-v1.4.59.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.nartag.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "58",
-        "versionName": "1.4.58",
+        "versionCode": "59",
+        "versionName": "1.4.59",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -18185,19 +18166,19 @@
         "name": "Hentai Origines",
         "packageName": "eu.kanade.tachiyomi.extension.fr.hentaiorigines",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.hentaiorigines-v1.4.51.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.hentaiorigines-v1.4.52.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.hentaiorigines.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "51",
-        "versionName": "1.4.51",
+        "versionCode": "52",
+        "versionName": "1.4.52",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "3875672872924535086",
             "name": "Hentai Origines",
             "language": "fr",
-            "homeUrl": "https://hentai-origines.fr"
+            "homeUrl": "https://hentai-origines.com"
           }
         ]
       },
@@ -18458,12 +18439,12 @@
         "name": "Mangakawaii",
         "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.mangakawaii-v1.4.38.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.mangakawaii-v1.4.39.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.mangakawaii.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "38",
-        "versionName": "1.4.38",
+        "versionCode": "39",
+        "versionName": "1.4.39",
         "sources": [
           {
             "id": "1384625280015637699",
@@ -19063,18 +19044,18 @@
         "name": "Ainz Scans ID",
         "packageName": "eu.kanade.tachiyomi.extension.id.ainzscansid",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.ainzscansid-v1.4.34.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.ainzscansid-v1.4.35.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.ainzscansid.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "34",
-        "versionName": "1.4.34",
+        "versionCode": "35",
+        "versionName": "1.4.35",
         "sources": [
           {
             "id": "6828652413569586396",
             "name": "Ainz Scans ID",
             "language": "id",
-            "homeUrl": "https://v1.ainzscans01.com"
+            "homeUrl": "https://v2.ainzscans01.com"
           }
         ]
       },
@@ -19436,12 +19417,12 @@
         "name": "Kiryuu",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.kiryuu-v1.4.53.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.kiryuu-v1.4.54.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.kiryuu.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "53",
-        "versionName": "1.4.53",
+        "versionCode": "54",
+        "versionName": "1.4.54",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -19494,18 +19475,18 @@
         "name": "Komik Cast",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.komikcast-v1.4.80.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.komikcast-v1.4.81.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.komikcast.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "80",
-        "versionName": "1.4.80",
+        "versionCode": "81",
+        "versionName": "1.4.81",
         "sources": [
           {
             "id": "972717448578983812",
             "name": "Komik Cast",
             "language": "id",
-            "homeUrl": "https://v2.komikcast.fit"
+            "homeUrl": "https://v3.komikcast.fit"
           }
         ]
       },
@@ -20002,18 +19983,18 @@
         "name": "Ikiru",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangatale",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.mangatale-v1.4.49.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.mangatale-v1.4.51.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.mangatale.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "49",
-        "versionName": "1.4.49",
+        "versionCode": "51",
+        "versionName": "1.4.51",
         "sources": [
           {
             "id": "1532456597012176985",
             "name": "Ikiru",
             "language": "id",
-            "homeUrl": "https://05.ikiru.wtf"
+            "homeUrl": "https://06.ikiru.wtf"
           }
         ]
       },
@@ -20217,12 +20198,12 @@
         "name": "Natsu",
         "packageName": "eu.kanade.tachiyomi.extension.id.natsu",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.natsu-v1.4.34.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.natsu-v1.4.35.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.natsu.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "34",
-        "versionName": "1.4.34",
+        "versionCode": "35",
+        "versionName": "1.4.35",
         "sources": [
           {
             "id": "778073414277513172",
@@ -21263,12 +21244,12 @@
         "name": "Comic Festa",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicfesta",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicfesta-v1.4.1.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicfesta-v1.4.2.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.comicfesta.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "versionCode": "2",
+        "versionName": "1.4.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22747,12 +22728,12 @@
         "name": "Rawkuma",
         "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.rawkuma-v1.4.37.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.rawkuma-v1.4.38.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.rawkuma.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "37",
-        "versionName": "1.4.37",
+        "versionCode": "38",
+        "versionName": "1.4.38",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -23365,19 +23346,19 @@
             "id": "5583626852311652499",
             "name": "늑대닷컴 - 웹툰",
             "language": "ko",
-            "homeUrl": "https://wfwf473.com"
+            "homeUrl": "https://wfwf475.com"
           },
           {
             "id": "7074060458114951398",
             "name": "늑대닷컴 - 만화책",
             "language": "ko",
-            "homeUrl": "https://wfwf473.com"
+            "homeUrl": "https://wfwf475.com"
           },
           {
             "id": "4225505094399546613",
             "name": "늑대닷컴 - 포토툰",
             "language": "ko",
-            "homeUrl": "https://wfwf473.com"
+            "homeUrl": "https://wfwf475.com"
           }
         ]
       },
@@ -24366,12 +24347,12 @@
         "name": "Lycan Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.lycantoons",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.lycantoons-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.lycantoons-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.lycantoons.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "sources": [
           {
             "id": "9117178890425713139",
@@ -26039,12 +26020,12 @@
         "name": "Senkognito",
         "packageName": "eu.kanade.tachiyomi.extension.ru.senkognito",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ru.senkognito-v1.4.13.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ru.senkognito-v1.4.14.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ru.senkognito.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "13",
-        "versionName": "1.4.13",
+        "versionCode": "14",
+        "versionName": "1.4.14",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -26059,12 +26040,12 @@
         "name": "Senkuro",
         "packageName": "eu.kanade.tachiyomi.extension.ru.senkuro",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ru.senkuro-v1.4.12.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ru.senkuro-v1.4.13.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ru.senkuro.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
+        "versionCode": "13",
+        "versionName": "1.4.13",
         "sources": [
           {
             "id": "1452500215874655811",
@@ -26688,22 +26669,22 @@
         ]
       },
       {
-        "name": "OneManga",
+        "name": "MangaBlackCat",
         "packageName": "eu.kanade.tachiyomi.extension.th.onemanga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-th.onemanga-v1.4.32.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-th.onemanga-v1.4.33.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.th.onemanga.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
+        "versionCode": "33",
+        "versionName": "1.4.33",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "2248402620929558947",
-            "name": "One-Manga",
+            "name": "MangaBlackCat",
             "language": "th",
-            "homeUrl": "https://one-manga.com"
+            "homeUrl": "https://mangablackcat.com"
           }
         ]
       },
@@ -27745,19 +27726,19 @@
         "name": "Moon Daisy Scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.moondaisyscans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.moondaisyscans-v1.4.37.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.moondaisyscans-v1.4.38.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.moondaisyscans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "37",
-        "versionName": "1.4.37",
+        "versionCode": "38",
+        "versionName": "1.4.38",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "2732049206654972364",
             "name": "Moon Daisy Scans",
             "language": "tr",
-            "homeUrl": "https://moondaisyscans.site"
+            "homeUrl": "https://moondaisyscans.pro"
           }
         ]
       },
@@ -28544,19 +28525,19 @@
         "name": "Ariverse",
         "packageName": "eu.kanade.tachiyomi.extension.vi.ariverse",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.ariverse-v1.4.52.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.ariverse-v1.4.53.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.ariverse.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
+        "versionCode": "53",
+        "versionName": "1.4.53",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "4480433466073326866",
             "name": "Ariverse",
             "language": "vi",
-            "homeUrl": "https://www.arigl.xyz"
+            "homeUrl": "https://arigl.xyz"
           }
         ]
       },
@@ -28682,19 +28663,19 @@
         "name": "Dua Leo Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.dualeotruyen-v1.4.21.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.dualeotruyen-v1.4.22.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.dualeotruyen.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "21",
-        "versionName": "1.4.21",
+        "versionCode": "22",
+        "versionName": "1.4.22",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "1039830224122325226",
             "name": "Dưa Leo Truyện",
             "language": "vi",
-            "homeUrl": "https://dualeotruyenbs.com"
+            "homeUrl": "https://dualeotruyenpt.com"
           }
         ]
       },
@@ -28919,12 +28900,12 @@
         "name": "LXManga",
         "packageName": "eu.kanade.tachiyomi.extension.vi.lxhentai",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.lxhentai-v1.4.31.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.lxhentai-v1.4.32.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.lxhentai.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "31",
-        "versionName": "1.4.31",
+        "versionCode": "32",
+        "versionName": "1.4.32",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -28991,6 +28972,26 @@
             "name": "MeHentai",
             "language": "vi",
             "homeUrl": "https://mehentai.blog"
+          }
+        ]
+      },
+      {
+        "name": "MeoSSS",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.meosss",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.meosss-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.meosss.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6733296438137670174",
+            "name": "MeoSSS",
+            "language": "vi",
+            "homeUrl": "https://meosss.com"
           }
         ]
       },
@@ -29384,19 +29385,19 @@
         "name": "Team Lanh Lung",
         "packageName": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.teamlanhlung-v1.4.32.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.teamlanhlung-v1.4.33.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.teamlanhlung.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
+        "versionCode": "33",
+        "versionName": "1.4.33",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "1832370231745386795",
             "name": "Team Lạnh Lùng",
             "language": "vi",
-            "homeUrl": "https://lunghihi.icu"
+            "homeUrl": "https://icecoldcore.com"
           }
         ]
       },
@@ -29424,19 +29425,19 @@
         "name": "Top Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.toptruyen",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.toptruyen-v1.4.36.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.toptruyen-v1.4.37.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.toptruyen.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "36",
-        "versionName": "1.4.36",
+        "versionCode": "37",
+        "versionName": "1.4.37",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "1166901607721102706",
             "name": "Top Truyen",
             "language": "vi",
-            "homeUrl": "https://www.toptruyenzone3.com"
+            "homeUrl": "https://www.toptruyenzone4.com"
           }
         ]
       },
@@ -29642,18 +29643,18 @@
         "name": "TruyenTuoiTho",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyentuoitho",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.truyentuoitho-v1.4.53.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.truyentuoitho-v1.4.54.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyentuoitho.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "53",
-        "versionName": "1.4.53",
+        "versionCode": "54",
+        "versionName": "1.4.54",
         "sources": [
           {
             "id": "401563321854321005",
             "name": "TruyenTuoiTho",
             "language": "vi",
-            "homeUrl": "https://truyentuoitho.com"
+            "homeUrl": "https://truyentuoitho.online"
           }
         ]
       },
@@ -29780,19 +29781,19 @@
         "name": "VinaHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.9.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.10.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vinahentai.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "9",
-        "versionName": "1.4.9",
+        "versionCode": "10",
+        "versionName": "1.4.10",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "4572372176917567711",
             "name": "VinaHentai",
             "language": "vi",
-            "homeUrl": "https://vinahentai.shop"
+            "homeUrl": "https://vinahentai.cloud"
           }
         ]
       },
@@ -29860,18 +29861,18 @@
         "name": "ZetTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.zettruyen",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.zettruyen-v1.4.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.zettruyen-v1.4.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.zettruyen.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.4.8",
+        "versionCode": "9",
+        "versionName": "1.4.9",
         "sources": [
           {
             "id": "893747327087652119",
             "name": "ZetTruyen",
             "language": "vi",
-            "homeUrl": "https://www.zettruyen.one"
+            "homeUrl": "https://www.zettruyen.club"
           }
         ]
       },
@@ -29956,17 +29957,17 @@
         "name": "BiliManga",
         "packageName": "eu.kanade.tachiyomi.extension.zh.bilimanga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.bilimanga-v1.4.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.bilimanga-v1.4.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.zh.bilimanga.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "7289707411592168382",
-            "name": "Bilimanga.net",
+            "name": "嗶哩漫畫",
             "language": "zh",
             "homeUrl": "https://www.bilimanga.net"
           }
