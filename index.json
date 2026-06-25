@@ -19417,12 +19417,12 @@
         "name": "Kiryuu",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.kiryuu-v1.4.54.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.kiryuu-v1.4.55.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.kiryuu.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "54",
-        "versionName": "1.4.54",
+        "versionCode": "55",
+        "versionName": "1.4.55",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -19983,12 +19983,12 @@
         "name": "Ikiru",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangatale",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.mangatale-v1.4.51.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.mangatale-v1.4.52.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.mangatale.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "51",
-        "versionName": "1.4.51",
+        "versionCode": "52",
+        "versionName": "1.4.52",
         "sources": [
           {
             "id": "1532456597012176985",
@@ -20198,12 +20198,12 @@
         "name": "Natsu",
         "packageName": "eu.kanade.tachiyomi.extension.id.natsu",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.natsu-v1.4.35.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.natsu-v1.4.36.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.natsu.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "35",
-        "versionName": "1.4.35",
+        "versionCode": "36",
+        "versionName": "1.4.36",
         "sources": [
           {
             "id": "778073414277513172",
@@ -22728,12 +22728,12 @@
         "name": "Rawkuma",
         "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.rawkuma-v1.4.38.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.rawkuma-v1.4.39.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.rawkuma.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "38",
-        "versionName": "1.4.38",
+        "versionCode": "39",
+        "versionName": "1.4.39",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
