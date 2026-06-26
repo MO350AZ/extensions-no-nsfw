@@ -421,12 +421,13 @@
         "name": "Comic Growl",
         "packageName": "eu.kanade.tachiyomi.extension.all.comicgrowl",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.comicgrowl-v1.4.11.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.comicgrowl-v1.4.12.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.comicgrowl.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
+        "versionCode": "12",
+        "versionName": "1.4.12",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "299423548273637501",
@@ -568,6 +569,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3350274514125477391",
@@ -613,6 +615,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2769857481066602061",
@@ -656,6 +659,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5328240584854276436",
@@ -701,6 +705,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4760608706245794364",
@@ -746,6 +751,7 @@
         "extensionLib": "1.4",
         "versionCode": "26",
         "versionName": "1.4.26",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6338219619148105941",
@@ -817,6 +823,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5855032551259176250",
@@ -1172,6 +1179,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6351052922295965587",
@@ -1491,6 +1499,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7008887237419113673",
@@ -2280,6 +2289,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4972198006998831006",
@@ -2299,6 +2309,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8779183423368672304",
@@ -2442,6 +2453,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7160867804476891075",
@@ -2689,6 +2701,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1835150489344342556",
@@ -2746,6 +2759,7 @@
         "extensionLib": "1.4",
         "versionCode": "65",
         "versionName": "1.4.65",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4508733312114627536",
@@ -2774,6 +2788,7 @@
         "extensionLib": "1.4",
         "versionCode": "21",
         "versionName": "1.4.21",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4482480338677079857",
@@ -2799,6 +2814,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5421383187922044761",
@@ -3200,6 +3216,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4033172788130537982",
@@ -3949,6 +3966,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6866320578550428692",
@@ -4056,6 +4074,7 @@
         "extensionLib": "1.4",
         "versionCode": "62",
         "versionName": "1.4.62",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1998944621602463790",
@@ -4123,6 +4142,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4994699950662723787",
@@ -4148,6 +4168,7 @@
         "extensionLib": "1.4",
         "versionCode": "11",
         "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8358097306709528603",
@@ -4173,6 +4194,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5676233752760414531",
@@ -4240,6 +4262,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7689478295161479290",
@@ -4259,6 +4282,7 @@
         "extensionLib": "1.4",
         "versionCode": "11",
         "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2882993841250976719",
@@ -4483,6 +4507,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1480743237782384863",
@@ -4686,6 +4711,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6815287454679474132",
@@ -5253,6 +5279,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3010838382018156522",
@@ -5494,6 +5521,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "279282683217001983",
@@ -5623,6 +5651,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8965918600406781666",
@@ -5682,6 +5711,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8111958912268118735",
@@ -5847,6 +5877,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2332326521515456967",
@@ -5898,6 +5929,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4379246890416497052",
@@ -5941,12 +5973,13 @@
         "name": "Thunder Scans",
         "packageName": "eu.kanade.tachiyomi.extension.all.thunderscans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.thunderscans-v1.4.44.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.thunderscans-v1.4.45.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.thunderscans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "44",
-        "versionName": "1.4.44",
+        "versionCode": "45",
+        "versionName": "1.4.45",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3209001028102012989",
@@ -6106,6 +6139,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9005452006043030878",
@@ -6131,6 +6165,7 @@
         "extensionLib": "1.4",
         "versionCode": "55",
         "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2522335540328470744",
@@ -6286,6 +6321,7 @@
         "extensionLib": "1.4",
         "versionCode": "16",
         "versionName": "1.4.16",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1538249443376436084",
@@ -6389,6 +6425,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9170389107417152397",
@@ -6414,6 +6451,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2056490261402651047",
@@ -6493,6 +6531,7 @@
         "extensionLib": "1.4",
         "versionCode": "34",
         "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8112280317896333809",
@@ -6512,6 +6551,7 @@
         "extensionLib": "1.4",
         "versionCode": "34",
         "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "241593018172482505",
@@ -6531,6 +6571,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8156789703798131884",
@@ -6550,6 +6591,7 @@
         "extensionLib": "1.4",
         "versionCode": "67",
         "versionName": "1.4.67",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2482399499047903203",
@@ -6569,6 +6611,7 @@
         "extensionLib": "1.4",
         "versionCode": "15",
         "versionName": "1.4.15",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7487319247633385575",
@@ -6588,6 +6631,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "886527590434722171",
@@ -6607,6 +6651,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5702082694566979718",
@@ -6626,6 +6671,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7634600808243438399",
@@ -6745,6 +6791,7 @@
         "extensionLib": "1.4",
         "versionCode": "35",
         "versionName": "1.4.35",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "917436262447415426",
@@ -6764,6 +6811,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4177563748162518441",
@@ -6783,6 +6831,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "323105186892383931",
@@ -6802,6 +6851,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1073624495230267708",
@@ -6821,6 +6871,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7109397520501699498",
@@ -6860,6 +6911,7 @@
         "extensionLib": "1.4",
         "versionCode": "60",
         "versionName": "1.4.60",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "918460697583900080",
@@ -6879,6 +6931,7 @@
         "extensionLib": "1.4",
         "versionCode": "56",
         "versionName": "1.4.56",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3568795724496898351",
@@ -6898,6 +6951,7 @@
         "extensionLib": "1.4",
         "versionCode": "56",
         "versionName": "1.4.56",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2589550143244611118",
@@ -6917,6 +6971,7 @@
         "extensionLib": "1.4",
         "versionCode": "57",
         "versionName": "1.4.57",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2436176998646301840",
@@ -6936,6 +6991,7 @@
         "extensionLib": "1.4",
         "versionCode": "60",
         "versionName": "1.4.60",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6058166507489091982",
@@ -6955,6 +7011,7 @@
         "extensionLib": "1.4",
         "versionCode": "61",
         "versionName": "1.4.61",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7657007209499352344",
@@ -6974,6 +7031,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5218550345649535189",
@@ -6993,6 +7051,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1011491016492324749",
@@ -7012,6 +7071,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "215553151312092548",
@@ -7051,6 +7111,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9042359004298978629",
@@ -7090,6 +7151,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "743599002989616408",
@@ -7109,6 +7171,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4966914277555229831",
@@ -7128,6 +7191,7 @@
         "extensionLib": "1.4",
         "versionCode": "16",
         "versionName": "1.4.16",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "335499577904379512",
@@ -7147,6 +7211,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5634203247016722993",
@@ -7186,6 +7251,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3301038340499911137",
@@ -7205,6 +7271,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2142158598125421915",
@@ -7224,6 +7291,7 @@
         "extensionLib": "1.4",
         "versionCode": "30",
         "versionName": "1.4.30",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4110737012647435874",
@@ -7243,6 +7311,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "898162339487144205",
@@ -7262,6 +7331,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6170348197605244575",
@@ -7281,6 +7351,7 @@
         "extensionLib": "1.4",
         "versionCode": "15",
         "versionName": "1.4.15",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4337506350787725909",
@@ -7340,6 +7411,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4406556873729219957",
@@ -7359,6 +7431,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3974404971892520732",
@@ -7418,6 +7491,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6851437974515624757",
@@ -7437,6 +7511,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1987646205658282178",
@@ -7456,6 +7531,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2048669781308052214",
@@ -7575,6 +7651,7 @@
         "extensionLib": "1.4",
         "versionCode": "62",
         "versionName": "1.4.62",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "626267698662819838",
@@ -7594,6 +7671,7 @@
         "extensionLib": "1.4",
         "versionCode": "15",
         "versionName": "1.4.15",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6809555026902049727",
@@ -7613,6 +7691,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8861274191478178487",
@@ -7652,6 +7731,7 @@
         "extensionLib": "1.4",
         "versionCode": "25",
         "versionName": "1.4.25",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "734404203508686053",
@@ -7671,6 +7751,7 @@
         "extensionLib": "1.4",
         "versionCode": "61",
         "versionName": "1.4.61",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2559570015828016575",
@@ -7690,6 +7771,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7621724834621233483",
@@ -7729,6 +7811,7 @@
         "extensionLib": "1.4",
         "versionCode": "22",
         "versionName": "1.4.22",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5258838449396844455",
@@ -7748,6 +7831,7 @@
         "extensionLib": "1.4",
         "versionCode": "17",
         "versionName": "1.4.17",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8088090686762347480",
@@ -7767,6 +7851,7 @@
         "extensionLib": "1.4",
         "versionCode": "62",
         "versionName": "1.4.62",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6247824327199706550",
@@ -7826,6 +7911,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9148518200946142514",
@@ -7865,6 +7951,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2005076600562293471",
@@ -7884,6 +7971,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6251873330157357206",
@@ -7903,6 +7991,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7422099479605463706",
@@ -7922,6 +8011,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2529980242070778875",
@@ -8001,6 +8091,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7909401032149692930",
@@ -8020,6 +8111,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2175678633501332475",
@@ -8039,6 +8131,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5944672760629857205",
@@ -8078,6 +8171,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5740849136135469941",
@@ -8097,6 +8191,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "285164574089229147",
@@ -8176,6 +8271,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1896428900030795228",
@@ -8235,6 +8331,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2310489567413492709",
@@ -8354,6 +8451,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2142724534705483892",
@@ -8453,6 +8551,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1650720534254409337",
@@ -8472,6 +8571,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2059482759352416637",
@@ -8491,6 +8591,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1395072850055110585",
@@ -8510,6 +8611,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4722346859737894698",
@@ -8549,6 +8651,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5731115645938971449",
@@ -8568,6 +8671,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1057298314437889941",
@@ -8581,12 +8685,12 @@
         "name": "Diva Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.divascans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.divascans-v1.4.24.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.divascans-v1.4.25.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.divascans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "24",
-        "versionName": "1.4.24",
+        "versionCode": "25",
+        "versionName": "1.4.25",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -8647,6 +8751,7 @@
         "extensionLib": "1.4",
         "versionCode": "56",
         "versionName": "1.4.56",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6573506892686767219",
@@ -8666,6 +8771,7 @@
         "extensionLib": "1.4",
         "versionCode": "48",
         "versionName": "1.4.48",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8284219650954312474",
@@ -8725,6 +8831,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6631281276194159210",
@@ -8784,6 +8891,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6159323532820101296",
@@ -8803,6 +8911,7 @@
         "extensionLib": "1.4",
         "versionCode": "34",
         "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3896703921896511395",
@@ -8922,6 +9031,7 @@
         "extensionLib": "1.4",
         "versionCode": "39",
         "versionName": "1.4.39",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1124131000360667434",
@@ -8941,6 +9051,7 @@
         "extensionLib": "1.4",
         "versionCode": "34",
         "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1911019612901009263",
@@ -8960,6 +9071,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "684582342346256208",
@@ -8979,6 +9091,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "491094567635736188",
@@ -8998,6 +9111,7 @@
         "extensionLib": "1.4",
         "versionCode": "62",
         "versionName": "1.4.62",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3317136566565343717",
@@ -9057,6 +9171,7 @@
         "extensionLib": "1.4",
         "versionCode": "55",
         "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5761461704760730187",
@@ -9076,6 +9191,7 @@
         "extensionLib": "1.4",
         "versionCode": "49",
         "versionName": "1.4.49",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8531542650987673943",
@@ -9095,6 +9211,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "27704135061035291",
@@ -9114,6 +9231,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5246625723235112128",
@@ -9233,6 +9351,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4273874799952447458",
@@ -9272,6 +9391,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "288706940180085416",
@@ -9291,6 +9411,7 @@
         "extensionLib": "1.4",
         "versionCode": "20",
         "versionName": "1.4.20",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8588684547293952127",
@@ -9310,6 +9431,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1991252499508931836",
@@ -9329,6 +9451,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6036325841864340105",
@@ -9348,6 +9471,7 @@
         "extensionLib": "1.4",
         "versionCode": "25",
         "versionName": "1.4.25",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4637971935551651734",
@@ -9367,6 +9491,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4006397036545425884",
@@ -9406,6 +9531,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4351130568935854113",
@@ -9725,6 +9851,7 @@
         "extensionLib": "1.4",
         "versionCode": "23",
         "versionName": "1.4.23",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "454381816904772144",
@@ -9764,6 +9891,7 @@
         "extensionLib": "1.4",
         "versionCode": "12",
         "versionName": "1.4.12",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6620819060709781499",
@@ -9803,6 +9931,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5652636928388608981",
@@ -9862,6 +9991,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7749515081735994760",
@@ -9881,6 +10011,7 @@
         "extensionLib": "1.4",
         "versionCode": "65",
         "versionName": "1.4.65",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6311653253665366075",
@@ -9980,6 +10111,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2482510125735992610",
@@ -10059,6 +10191,7 @@
         "extensionLib": "1.4",
         "versionCode": "27",
         "versionName": "1.4.27",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3406901199711327034",
@@ -10078,6 +10211,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3133607736276627986",
@@ -10097,6 +10231,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7831933086917318633",
@@ -10116,6 +10251,7 @@
         "extensionLib": "1.4",
         "versionCode": "21",
         "versionName": "1.4.21",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2816768640766208312",
@@ -10135,6 +10271,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5520021760150818261",
@@ -10214,6 +10351,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8143442163119480220",
@@ -10313,6 +10451,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7925933833035450162",
@@ -10332,6 +10471,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1228130671216317629",
@@ -10351,6 +10491,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8802607595629671202",
@@ -10370,6 +10511,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6236979603959140497",
@@ -10449,6 +10591,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1555415289901855998",
@@ -10468,6 +10611,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "972271455406675873",
@@ -10487,6 +10631,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1698654724978495521",
@@ -10566,6 +10711,7 @@
         "extensionLib": "1.4",
         "versionCode": "34",
         "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9025563662441338944",
@@ -10585,6 +10731,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7291521832235473745",
@@ -10604,6 +10751,7 @@
         "extensionLib": "1.4",
         "versionCode": "69",
         "versionName": "1.4.69",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1589747287364201069",
@@ -10763,6 +10911,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6145388266378605164",
@@ -10782,6 +10931,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "286088605022156276",
@@ -10841,6 +10991,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7208855238528281651",
@@ -10860,6 +11011,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8787213233662904706",
@@ -10919,6 +11071,7 @@
         "extensionLib": "1.4",
         "versionCode": "19",
         "versionName": "1.4.19",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2900023289777642714",
@@ -10938,6 +11091,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "408151224123746617",
@@ -10971,12 +11125,12 @@
         "name": "Mangadotnet",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.11.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.12.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadotnet.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
+        "versionCode": "12",
+        "versionName": "1.4.12",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -11157,6 +11311,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6389620462589488124",
@@ -11296,6 +11451,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3253856465912445981",
@@ -11375,6 +11531,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2402699562771779060",
@@ -11414,6 +11571,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3392354321117553495",
@@ -11433,6 +11591,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6458420328066857684",
@@ -11452,6 +11611,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "954997815643613941",
@@ -11571,6 +11731,7 @@
         "extensionLib": "1.4",
         "versionCode": "35",
         "versionName": "1.4.35",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7661417715431651982",
@@ -11670,6 +11831,7 @@
         "extensionLib": "1.4",
         "versionCode": "35",
         "versionName": "1.4.35",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2527199067559866087",
@@ -11709,6 +11871,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3606721916149050760",
@@ -11728,6 +11891,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3478835885302345699",
@@ -11787,6 +11951,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1983630122600815139",
@@ -11846,6 +12011,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3913016041409072217",
@@ -11865,6 +12031,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7638481723868333116",
@@ -11884,6 +12051,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3544957587727489204",
@@ -11903,6 +12071,7 @@
         "extensionLib": "1.4",
         "versionCode": "58",
         "versionName": "1.4.58",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9030178752551947945",
@@ -11922,6 +12091,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5075089422240578347",
@@ -11941,6 +12111,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5670748624310603730",
@@ -12000,6 +12171,7 @@
         "extensionLib": "1.4",
         "versionCode": "56",
         "versionName": "1.4.56",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4005973248538140146",
@@ -12159,6 +12331,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2979406394980750413",
@@ -12278,6 +12451,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3663840686576348637",
@@ -12457,6 +12631,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2609498548705590664",
@@ -12496,6 +12671,7 @@
         "extensionLib": "1.4",
         "versionCode": "20",
         "versionName": "1.4.20",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3314074618469377356",
@@ -12555,6 +12731,7 @@
         "extensionLib": "1.4",
         "versionCode": "21",
         "versionName": "1.4.21",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "80073424419623517",
@@ -12574,6 +12751,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1211137741907860722",
@@ -12593,6 +12771,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1373514020932708527",
@@ -12612,6 +12791,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6808348229250819000",
@@ -12731,6 +12911,7 @@
         "extensionLib": "1.4",
         "versionCode": "20",
         "versionName": "1.4.20",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4767860851588977182",
@@ -12790,6 +12971,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1688373109141386238",
@@ -12929,6 +13111,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3116973119218453326",
@@ -12948,6 +13131,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5854986367394591788",
@@ -12967,6 +13151,7 @@
         "extensionLib": "1.4",
         "versionCode": "21",
         "versionName": "1.4.21",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3025454996745441538",
@@ -13006,6 +13191,7 @@
         "extensionLib": "1.4",
         "versionCode": "26",
         "versionName": "1.4.26",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "419822582289753882",
@@ -13145,6 +13331,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "897097334505121559",
@@ -13184,6 +13371,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6973362428290892964",
@@ -13243,6 +13431,7 @@
         "extensionLib": "1.4",
         "versionCode": "23",
         "versionName": "1.4.23",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7776050777496310004",
@@ -13302,6 +13491,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5782663927698937256",
@@ -13361,6 +13551,7 @@
         "extensionLib": "1.4",
         "versionCode": "58",
         "versionName": "1.4.58",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5404809838386240671",
@@ -13380,6 +13571,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1001157238479601077",
@@ -13399,6 +13591,7 @@
         "extensionLib": "1.4",
         "versionCode": "39",
         "versionName": "1.4.39",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "263040414613624318",
@@ -13438,6 +13631,7 @@
         "extensionLib": "1.4",
         "versionCode": "26",
         "versionName": "1.4.26",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5806040666300479660",
@@ -13457,6 +13651,7 @@
         "extensionLib": "1.4",
         "versionCode": "10",
         "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5564060716297760161",
@@ -13476,6 +13671,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8692263513374836785",
@@ -13495,6 +13691,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1502370949450941405",
@@ -13534,6 +13731,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3017959474962204247",
@@ -13553,6 +13751,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2492552743813599108",
@@ -13572,6 +13771,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "58328287106519523",
@@ -13591,6 +13791,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8930801332831394412",
@@ -13610,6 +13811,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4917014756556380981",
@@ -13629,6 +13831,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6485938153129890061",
@@ -13648,6 +13851,7 @@
         "extensionLib": "1.4",
         "versionCode": "10",
         "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4967091367056966966",
@@ -13687,6 +13891,7 @@
         "extensionLib": "1.4",
         "versionCode": "43",
         "versionName": "1.4.43",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8061953015808280611",
@@ -13706,6 +13911,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7185601298150078890",
@@ -13725,6 +13931,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1330793582354406642",
@@ -13744,6 +13951,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "808850989053853006",
@@ -13763,6 +13971,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7952360835727640966",
@@ -13782,6 +13991,7 @@
         "extensionLib": "1.4",
         "versionCode": "10",
         "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3945031984510180731",
@@ -13801,6 +14011,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4152343549985168968",
@@ -13820,6 +14031,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1061544757733451419",
@@ -13839,6 +14051,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8254209929759906152",
@@ -13858,6 +14071,7 @@
         "extensionLib": "1.4",
         "versionCode": "10",
         "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1374366734159205648",
@@ -13877,6 +14091,7 @@
         "extensionLib": "1.4",
         "versionCode": "11",
         "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6468833665354206027",
@@ -13896,6 +14111,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5300358436613908601",
@@ -13915,6 +14131,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4890735226828164084",
@@ -13954,6 +14171,7 @@
         "extensionLib": "1.4",
         "versionCode": "23",
         "versionName": "1.4.23",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3447464472094373275",
@@ -14013,6 +14231,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4915548839286527736",
@@ -14032,6 +14251,7 @@
         "extensionLib": "1.4",
         "versionCode": "23",
         "versionName": "1.4.23",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8220771912098311271",
@@ -14051,6 +14271,7 @@
         "extensionLib": "1.4",
         "versionCode": "45",
         "versionName": "1.4.45",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3062320139670175675",
@@ -14070,6 +14291,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8957809252307939773",
@@ -14089,6 +14311,7 @@
         "extensionLib": "1.4",
         "versionCode": "34",
         "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "830150807344972132",
@@ -14108,6 +14331,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3390167717659783669",
@@ -14147,6 +14371,7 @@
         "extensionLib": "1.4",
         "versionCode": "20",
         "versionName": "1.4.20",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4638024470188065245",
@@ -14186,6 +14411,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "346019099366213894",
@@ -14225,6 +14451,7 @@
         "extensionLib": "1.4",
         "versionCode": "23",
         "versionName": "1.4.23",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1931508394363321246",
@@ -14244,6 +14471,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3035799230093482569",
@@ -14283,6 +14511,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4705692208637300585",
@@ -14302,6 +14531,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8546397272954539389",
@@ -14341,6 +14571,7 @@
         "extensionLib": "1.4",
         "versionCode": "35",
         "versionName": "1.4.35",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9079184529211162476",
@@ -14360,6 +14591,7 @@
         "extensionLib": "1.4",
         "versionCode": "20",
         "versionName": "1.4.20",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5804710058654490234",
@@ -14399,6 +14631,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5756634909776784131",
@@ -14418,6 +14651,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7250486205199627024",
@@ -14437,6 +14671,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4735212915018805501",
@@ -14476,6 +14711,7 @@
         "extensionLib": "1.4",
         "versionCode": "49",
         "versionName": "1.4.49",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5914422711950728870",
@@ -14515,6 +14751,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7900982727014582653",
@@ -14534,6 +14771,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1061713767402958340",
@@ -14553,6 +14791,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4098334577101891258",
@@ -14592,6 +14831,7 @@
         "extensionLib": "1.4",
         "versionCode": "12",
         "versionName": "1.4.12",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1435116756378369709",
@@ -14611,6 +14851,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3067475212004248014",
@@ -14710,6 +14951,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7307224992915342074",
@@ -14729,6 +14971,7 @@
         "extensionLib": "1.4",
         "versionCode": "20",
         "versionName": "1.4.20",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9063123408669132087",
@@ -14948,6 +15191,7 @@
         "extensionLib": "1.4",
         "versionCode": "55",
         "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6032516943051342273",
@@ -14967,6 +15211,7 @@
         "extensionLib": "1.4",
         "versionCode": "56",
         "versionName": "1.4.56",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3650631607354829018",
@@ -14986,6 +15231,7 @@
         "extensionLib": "1.4",
         "versionCode": "22",
         "versionName": "1.4.22",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8440187396173658748",
@@ -15005,6 +15251,7 @@
         "extensionLib": "1.4",
         "versionCode": "23",
         "versionName": "1.4.23",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "587361422129220750",
@@ -15024,6 +15271,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8735588151075137817",
@@ -15043,6 +15291,7 @@
         "extensionLib": "1.4",
         "versionCode": "25",
         "versionName": "1.4.25",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2727926930665642563",
@@ -15068,6 +15317,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4815322300278778429",
@@ -15127,6 +15377,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9161629559428486377",
@@ -15166,6 +15417,7 @@
         "extensionLib": "1.4",
         "versionCode": "10",
         "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7547950838983208237",
@@ -15185,6 +15437,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8642723584365423504",
@@ -15204,6 +15457,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4081135203808920563",
@@ -15303,6 +15557,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8536147748985688790",
@@ -15322,6 +15577,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8919726581572234359",
@@ -15341,6 +15597,7 @@
         "extensionLib": "1.4",
         "versionCode": "20",
         "versionName": "1.4.20",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "561830040001881975",
@@ -15360,6 +15617,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6540843430852844328",
@@ -15419,6 +15677,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2385956107618754468",
@@ -15438,6 +15697,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7299252694567414031",
@@ -15457,6 +15717,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4871612284225100668",
@@ -15556,6 +15817,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2467588305419524836",
@@ -15655,6 +15917,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1987105317893699901",
@@ -15694,6 +15957,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7374498796507972405",
@@ -15793,6 +16057,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8219271831795034464",
@@ -15832,6 +16097,7 @@
         "extensionLib": "1.4",
         "versionCode": "50",
         "versionName": "1.4.50",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1598762687295904337",
@@ -15951,6 +16217,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1814471239661920836",
@@ -16010,6 +16277,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5416462601349591349",
@@ -16069,6 +16337,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1626637101814976364",
@@ -16168,6 +16437,7 @@
         "extensionLib": "1.4",
         "versionCode": "63",
         "versionName": "1.4.63",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4562754350961964148",
@@ -16187,6 +16457,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8884198347282365114",
@@ -16266,6 +16537,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6911130909796364094",
@@ -16465,6 +16737,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5594696691862732725",
@@ -16484,6 +16757,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6963106975536326424",
@@ -16503,6 +16777,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8879875375160764811",
@@ -16522,6 +16797,7 @@
         "extensionLib": "1.4",
         "versionCode": "31",
         "versionName": "1.4.31",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5322003068520429479",
@@ -16541,6 +16817,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "609477585841458199",
@@ -16560,6 +16837,7 @@
         "extensionLib": "1.4",
         "versionCode": "67",
         "versionName": "1.4.67",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8103409233756077332",
@@ -16579,6 +16857,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "475788948976592183",
@@ -16698,6 +16977,7 @@
         "extensionLib": "1.4",
         "versionCode": "17",
         "versionName": "1.4.17",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5621901596522308538",
@@ -16817,6 +17097,7 @@
         "extensionLib": "1.4",
         "versionCode": "74",
         "versionName": "1.4.74",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6167683270485370369",
@@ -16836,6 +17117,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1995045995184096324",
@@ -16955,6 +17237,7 @@
         "extensionLib": "1.4",
         "versionCode": "70",
         "versionName": "1.4.70",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "829053423099062956",
@@ -16994,6 +17277,7 @@
         "extensionLib": "1.4",
         "versionCode": "68",
         "versionName": "1.4.68",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5713083996691468192",
@@ -17093,6 +17377,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5937472249278743372",
@@ -17112,6 +17397,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3505996597464989970",
@@ -17131,6 +17417,7 @@
         "extensionLib": "1.4",
         "versionCode": "65",
         "versionName": "1.4.65",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3253304651550496369",
@@ -17150,6 +17437,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5862188113261788590",
@@ -17229,6 +17517,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4960725964791825687",
@@ -17268,6 +17557,7 @@
         "extensionLib": "1.4",
         "versionCode": "58",
         "versionName": "1.4.58",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5125011410949702843",
@@ -17287,6 +17577,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2716608619626653265",
@@ -17306,6 +17597,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9161344173890108758",
@@ -17325,6 +17617,7 @@
         "extensionLib": "1.4",
         "versionCode": "20",
         "versionName": "1.4.20",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1596411039134168890",
@@ -17424,6 +17717,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1348827658894665970",
@@ -17443,6 +17737,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6003330990591348231",
@@ -17462,6 +17757,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7874966674901996300",
@@ -17481,6 +17777,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "698913079501532785",
@@ -17500,6 +17797,7 @@
         "extensionLib": "1.4",
         "versionCode": "56",
         "versionName": "1.4.56",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1245067583654716116",
@@ -17519,6 +17817,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8955531858664387570",
@@ -17558,6 +17857,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8713024885922119175",
@@ -17637,6 +17937,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6084280098324546826",
@@ -17656,6 +17957,7 @@
         "extensionLib": "1.4",
         "versionCode": "60",
         "versionName": "1.4.60",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5157867187592331768",
@@ -17935,12 +18237,13 @@
         "name": "AnimeSama",
         "packageName": "eu.kanade.tachiyomi.extension.fr.animesama",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.animesama-v1.4.16.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.animesama-v1.4.17.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.animesama.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "16",
-        "versionName": "1.4.16",
+        "versionCode": "17",
+        "versionName": "1.4.17",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5104384223103778991",
@@ -17960,6 +18263,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7086384324753337104",
@@ -17979,6 +18283,7 @@
         "extensionLib": "1.4",
         "versionCode": "48",
         "versionName": "1.4.48",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8815089098147858609",
@@ -18018,6 +18323,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4410528266393104437",
@@ -18037,6 +18343,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2095949455655924623",
@@ -18056,6 +18363,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7263540291758019148",
@@ -18075,6 +18383,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7036720639283559699",
@@ -18114,6 +18423,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7699632518084274667",
@@ -18133,6 +18443,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "267710359229814456",
@@ -18272,6 +18583,7 @@
         "extensionLib": "1.4",
         "versionCode": "70",
         "versionName": "1.4.70",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "11",
@@ -18291,6 +18603,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8654267899929745421",
@@ -18310,6 +18623,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6624592926208705847",
@@ -18329,6 +18643,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8647761747185981431",
@@ -18348,6 +18663,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8620544519921042006",
@@ -18367,6 +18683,7 @@
         "extensionLib": "1.4",
         "versionCode": "15",
         "versionName": "1.4.15",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4874205281198767614",
@@ -18406,6 +18723,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1528177119657303302",
@@ -18445,6 +18763,7 @@
         "extensionLib": "1.4",
         "versionCode": "39",
         "versionName": "1.4.39",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1384625280015637699",
@@ -18464,6 +18783,7 @@
         "extensionLib": "1.4",
         "versionCode": "11",
         "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6508647660473520087",
@@ -18483,6 +18803,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "514127183927359583",
@@ -18522,6 +18843,7 @@
         "extensionLib": "1.4",
         "versionCode": "55",
         "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4803238581797687746",
@@ -18541,6 +18863,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8284543629565327451",
@@ -18640,6 +18963,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6081284597648692367",
@@ -18679,6 +19003,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8936307069044646761",
@@ -18698,6 +19023,7 @@
         "extensionLib": "1.4",
         "versionCode": "68",
         "versionName": "1.4.68",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8373267671495516033",
@@ -18717,6 +19043,7 @@
         "extensionLib": "1.4",
         "versionCode": "35",
         "versionName": "1.4.35",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "203984087587807085",
@@ -18796,6 +19123,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6450715347254021327",
@@ -18835,6 +19163,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "155525085323453412",
@@ -18854,6 +19183,7 @@
         "extensionLib": "1.4",
         "versionCode": "15",
         "versionName": "1.4.15",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2455131357585282669",
@@ -18873,6 +19203,7 @@
         "extensionLib": "1.4",
         "versionCode": "20",
         "versionName": "1.4.20",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9130638185861146476",
@@ -18892,6 +19223,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4969929389259348100",
@@ -18971,6 +19303,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5157242904926355900",
@@ -19050,6 +19383,7 @@
         "extensionLib": "1.4",
         "versionCode": "35",
         "versionName": "1.4.35",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6828652413569586396",
@@ -19089,6 +19423,7 @@
         "extensionLib": "1.4",
         "versionCode": "15",
         "versionName": "1.4.15",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4383360263234319058",
@@ -19108,6 +19443,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2677079941490683989",
@@ -19147,6 +19483,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6559481336553833282",
@@ -19186,6 +19523,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "760062745121170981",
@@ -19219,19 +19557,19 @@
         "name": "DoujinDesu",
         "packageName": "eu.kanade.tachiyomi.extension.id.doujindesu",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.doujindesu-v1.4.14.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.doujindesu-v1.4.15.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.doujindesu.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "14",
-        "versionName": "1.4.14",
+        "versionCode": "15",
+        "versionName": "1.4.15",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "7704282043609669342",
             "name": "Doujindesu",
             "language": "id",
-            "homeUrl": "https://doujindesu.tv"
+            "homeUrl": "https://doujin.desu.xxx"
           }
         ]
       },
@@ -19365,6 +19703,7 @@
         "extensionLib": "1.4",
         "versionCode": "41",
         "versionName": "1.4.41",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1645729642561182833",
@@ -19384,6 +19723,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "831567442922111170",
@@ -19443,6 +19783,7 @@
         "extensionLib": "1.4",
         "versionCode": "56",
         "versionName": "1.4.56",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5213948951740602020",
@@ -19462,6 +19803,7 @@
         "extensionLib": "1.4",
         "versionCode": "37",
         "versionName": "1.4.37",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7875815514004535629",
@@ -19475,12 +19817,13 @@
         "name": "Komik Cast",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.komikcast-v1.4.81.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.komikcast-v1.4.82.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.komikcast.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "81",
-        "versionName": "1.4.81",
+        "versionCode": "82",
+        "versionName": "1.4.82",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "972717448578983812",
@@ -19540,6 +19883,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5430652619051267300",
@@ -19639,6 +19983,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5850393134813310906",
@@ -19658,6 +20003,7 @@
         "extensionLib": "1.4",
         "versionCode": "39",
         "versionName": "1.4.39",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6148605743576635261",
@@ -19697,6 +20043,7 @@
         "extensionLib": "1.4",
         "versionCode": "21",
         "versionName": "1.4.21",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4838485846640015979",
@@ -19716,6 +20063,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7989972744533303938",
@@ -19735,6 +20083,7 @@
         "extensionLib": "1.4",
         "versionCode": "34",
         "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8489420317813224728",
@@ -19754,6 +20103,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2556223347862084050",
@@ -19813,6 +20163,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3545985978448263801",
@@ -19832,6 +20183,7 @@
         "extensionLib": "1.4",
         "versionCode": "15",
         "versionName": "1.4.15",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1601772753251290758",
@@ -19871,6 +20223,7 @@
         "extensionLib": "1.4",
         "versionCode": "55",
         "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2530259860313477889",
@@ -19950,6 +20303,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7859511511298731707",
@@ -19989,6 +20343,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1532456597012176985",
@@ -20088,6 +20443,7 @@
         "extensionLib": "1.4",
         "versionCode": "39",
         "versionName": "1.4.39",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3111049819536223391",
@@ -20107,6 +20463,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1031213229391436059",
@@ -20120,12 +20477,13 @@
         "name": "MG Komik",
         "packageName": "eu.kanade.tachiyomi.extension.id.mgkomik",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.mgkomik-v1.4.74.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.mgkomik-v1.4.75.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.mgkomik.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "74",
-        "versionName": "1.4.74",
+        "versionCode": "75",
+        "versionName": "1.4.75",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5845004992097969882",
@@ -20185,6 +20543,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4748581925941451102",
@@ -20204,6 +20563,7 @@
         "extensionLib": "1.4",
         "versionCode": "36",
         "versionName": "1.4.36",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "778073414277513172",
@@ -20223,6 +20583,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4607768416266139943",
@@ -20242,6 +20603,7 @@
         "extensionLib": "1.4",
         "versionCode": "38",
         "versionName": "1.4.38",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5360960267485387879",
@@ -20261,6 +20623,7 @@
         "extensionLib": "1.4",
         "versionCode": "37",
         "versionName": "1.4.37",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2636071300407720294",
@@ -20280,6 +20643,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8361715798247396418",
@@ -20339,6 +20703,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3188369186728831217",
@@ -20418,6 +20783,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7209416153926734838",
@@ -20497,6 +20863,7 @@
         "extensionLib": "1.4",
         "versionCode": "29",
         "versionName": "1.4.29",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7081372932062301579",
@@ -20516,6 +20883,7 @@
         "extensionLib": "1.4",
         "versionCode": "79",
         "versionName": "1.4.79",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3411809758861089969",
@@ -20535,6 +20903,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7712565009997781291",
@@ -20574,6 +20943,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7106013231844823613",
@@ -20613,6 +20983,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4398521787288838980",
@@ -20632,6 +21003,7 @@
         "extensionLib": "1.4",
         "versionCode": "34",
         "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8061354444776372735",
@@ -20691,6 +21063,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "440952493414630310",
@@ -20710,6 +21083,7 @@
         "extensionLib": "1.4",
         "versionCode": "43",
         "versionName": "1.4.43",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8883916630998758688",
@@ -20769,6 +21143,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "726858430404746545",
@@ -20788,6 +21163,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4975929166626394514",
@@ -20807,6 +21183,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4450188005228586123",
@@ -20826,6 +21203,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2773063800266255222",
@@ -20845,6 +21223,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3278618591126542009",
@@ -20904,6 +21283,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1779918793601923139",
@@ -20923,6 +21303,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "148102640598931038",
@@ -20942,6 +21323,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7114846210461894145",
@@ -20981,6 +21363,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7816508865953731299",
@@ -21000,6 +21383,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6272882172599295519",
@@ -21019,6 +21403,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2102507871480604746",
@@ -21038,6 +21423,7 @@
         "extensionLib": "1.4",
         "versionCode": "39",
         "versionName": "1.4.39",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6566957355096372149",
@@ -21057,6 +21443,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8830049663587145084",
@@ -21110,12 +21497,13 @@
         "name": "Big Comics",
         "packageName": "eu.kanade.tachiyomi.extension.ja.bigcomics",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.bigcomics-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.bigcomics-v1.4.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.bigcomics.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2944603286439592172",
@@ -21135,6 +21523,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1585589665574145721",
@@ -21174,6 +21563,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1188951475836296058",
@@ -21193,6 +21583,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1077630719925082256",
@@ -21212,6 +21603,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5332604811772266259",
@@ -21231,6 +21623,7 @@
         "extensionLib": "1.4",
         "versionCode": "10",
         "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3574188328700228273",
@@ -21290,6 +21683,7 @@
         "extensionLib": "1.4",
         "versionCode": "10",
         "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3118962894631295374",
@@ -21309,6 +21703,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "218928749727744731",
@@ -21322,12 +21717,13 @@
         "name": "Comic MeDu",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicmedu",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicmedu-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicmedu-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.comicmedu.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7310112963091407823",
@@ -21367,6 +21763,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1398057210066455013",
@@ -21400,12 +21797,13 @@
         "name": "Comic Pash",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicpash",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicpash-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicpash-v1.4.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.comicpash.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6626616605316433619",
@@ -21419,12 +21817,13 @@
         "name": "Comic Ride",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicride",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicride-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicride-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.comicride.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6786869574657969795",
@@ -21444,6 +21843,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "516402804198118822",
@@ -21463,6 +21863,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6785510785647577495",
@@ -21482,6 +21883,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1322991157305499061",
@@ -21501,6 +21903,7 @@
         "extensionLib": "1.4",
         "versionCode": "10",
         "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7653486023663086171",
@@ -21520,6 +21923,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8354556596244088751",
@@ -21565,6 +21969,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2833994049092509182",
@@ -21644,6 +22049,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6276622162610581454",
@@ -21663,6 +22069,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6525907185900913523",
@@ -21702,6 +22109,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1467355738916791140",
@@ -21721,6 +22129,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8045942616403978870",
@@ -21740,6 +22149,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9220365500598403749",
@@ -21793,12 +22203,13 @@
         "name": "Hana To Yume+",
         "packageName": "eu.kanade.tachiyomi.extension.ja.hanayume",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.hanayume-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.hanayume-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.hanayume.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6820605856874807465",
@@ -21812,12 +22223,13 @@
         "name": "HERO",
         "packageName": "eu.kanade.tachiyomi.extension.ja.herosweb",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.herosweb-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.herosweb-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.herosweb.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6981500022236807277",
@@ -21837,6 +22249,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2248461957459826404",
@@ -21890,12 +22303,13 @@
         "name": "J-N Books",
         "packageName": "eu.kanade.tachiyomi.extension.ja.jnbooks",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.jnbooks-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.jnbooks-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.jnbooks.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2876739237900975302",
@@ -21915,6 +22329,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4194563020378281165",
@@ -21934,6 +22349,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8396089563187142394",
@@ -21947,12 +22363,13 @@
         "name": "KimiComi",
         "packageName": "eu.kanade.tachiyomi.extension.ja.kimicomi",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.kimicomi-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.kimicomi-v1.4.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.kimicomi.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "645302785022492537",
@@ -22032,6 +22449,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4046163527731172053",
@@ -22111,6 +22529,7 @@
         "extensionLib": "1.4",
         "versionCode": "12",
         "versionName": "1.4.12",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "583369548372015159",
@@ -22130,6 +22549,7 @@
         "extensionLib": "1.4",
         "versionCode": "11",
         "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8643773902904736600",
@@ -22143,12 +22563,13 @@
         "name": "MagKan",
         "packageName": "eu.kanade.tachiyomi.extension.ja.magkan",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.magkan-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.magkan-v1.4.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.magkan.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8826192789792786070",
@@ -22182,12 +22603,13 @@
         "name": "MangaBang Comics",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangabang",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.mangabang-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.mangabang-v1.4.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.mangabang.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6323380629311776595",
@@ -22201,12 +22623,13 @@
         "name": "Champion Cross",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangacross",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.mangacross-v1.4.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.mangacross-v1.4.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.mangacross.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.4.8",
+        "versionCode": "9",
+        "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4711824862797870329",
@@ -22266,6 +22689,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4278045440527026000",
@@ -22285,6 +22709,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5152016637336953348",
@@ -22304,6 +22729,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2561264003659474410",
@@ -22343,6 +22769,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7717838940254847800",
@@ -22362,6 +22789,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7948822981386785924",
@@ -22381,6 +22809,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2905661176145448719",
@@ -22420,6 +22849,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7564150377964448106",
@@ -22439,6 +22869,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "697820552173578283",
@@ -22518,6 +22949,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1452408892924080686",
@@ -22537,6 +22969,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5200293225675847390",
@@ -22576,6 +23009,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4500173675620672840",
@@ -22615,6 +23049,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2937751339618832603",
@@ -22848,12 +23283,13 @@
         "name": "RimacomiPlus",
         "packageName": "eu.kanade.tachiyomi.extension.ja.rimacomiplus",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.rimacomiplus-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.rimacomiplus-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.rimacomiplus.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8784054084293367959",
@@ -22893,6 +23329,7 @@
         "extensionLib": "1.4",
         "versionCode": "11",
         "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5161357527629843269",
@@ -22946,12 +23383,13 @@
         "name": "TakeComic",
         "packageName": "eu.kanade.tachiyomi.extension.ja.takecomic",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.takecomic-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.takecomic-v1.4.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.takecomic.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5158991361251014104",
@@ -22971,6 +23409,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5726629019734498294",
@@ -22990,6 +23429,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "493846804748918744",
@@ -23009,6 +23449,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1896940876613282856",
@@ -23074,6 +23515,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3322701627784242064",
@@ -23093,6 +23535,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7561635982432447429",
@@ -23106,12 +23549,13 @@
         "name": "Young Animal",
         "packageName": "eu.kanade.tachiyomi.extension.ja.younganimal",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.younganimal-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.younganimal-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.younganimal.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3590997004623427971",
@@ -23125,12 +23569,12 @@
         "name": "Young Champion",
         "packageName": "eu.kanade.tachiyomi.extension.ja.youngchampion",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.youngchampion-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.youngchampion-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.youngchampion.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -23171,6 +23615,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5353704886651317926",
@@ -23190,6 +23635,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8525996702535864887",
@@ -23249,6 +23695,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1311262507446028482",
@@ -23372,6 +23819,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8922529241027133892",
@@ -23411,6 +23859,7 @@
         "extensionLib": "1.4",
         "versionCode": "18",
         "versionName": "1.4.18",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3639622845750368999",
@@ -23430,6 +23879,7 @@
         "extensionLib": "1.4",
         "versionCode": "47",
         "versionName": "1.4.47",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4475020039832513819",
@@ -23449,6 +23899,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6897166867127039489",
@@ -23468,6 +23919,7 @@
         "extensionLib": "1.4",
         "versionCode": "55",
         "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2731562656488805764",
@@ -23487,6 +23939,7 @@
         "extensionLib": "1.4",
         "versionCode": "29",
         "versionName": "1.4.29",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7330216215852925244",
@@ -23506,6 +23959,7 @@
         "extensionLib": "1.4",
         "versionCode": "58",
         "versionName": "1.4.58",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1641160681602874924",
@@ -23525,6 +23979,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "551908063793499841",
@@ -23544,6 +23999,7 @@
         "extensionLib": "1.4",
         "versionCode": "47",
         "versionName": "1.4.47",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4457222405258030659",
@@ -23623,6 +24079,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7671549037049858081",
@@ -23642,6 +24099,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2962682340286299668",
@@ -23761,6 +24219,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2058412298484770949",
@@ -24080,6 +24539,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1639829368022947378",
@@ -24119,6 +24579,7 @@
         "extensionLib": "1.4",
         "versionCode": "55",
         "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7355004027880350247",
@@ -24158,6 +24619,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3369880498778715870",
@@ -24177,6 +24639,7 @@
         "extensionLib": "1.4",
         "versionCode": "55",
         "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4352186290154944735",
@@ -24196,6 +24659,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5221484950287110636",
@@ -24215,6 +24679,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "73579729889528478",
@@ -24274,6 +24739,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "11864058740306611",
@@ -24347,12 +24813,13 @@
         "name": "Lycan Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.lycantoons",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.lycantoons-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.lycantoons-v1.4.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.lycantoons.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9117178890425713139",
@@ -24426,12 +24893,13 @@
         "name": "Manga Livre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.64.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.65.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "64",
-        "versionName": "1.4.64",
+        "versionCode": "65",
+        "versionName": "1.4.65",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2834885536325274328",
@@ -24451,6 +24919,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "588678420372440028",
@@ -24490,6 +24959,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3930085636692943299",
@@ -24503,12 +24973,12 @@
         "name": "Mangas Brasuka",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangasbrasuka",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangasbrasuka-v1.4.53.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangasbrasuka-v1.4.54.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mangasbrasuka.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "53",
-        "versionName": "1.4.53",
+        "versionCode": "54",
+        "versionName": "1.4.54",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -24529,6 +24999,7 @@
         "extensionLib": "1.4",
         "versionCode": "43",
         "versionName": "1.4.43",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "924359643993288771",
@@ -24548,6 +25019,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8989984812354857153",
@@ -24647,6 +25119,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7427054289018024291",
@@ -24680,12 +25153,13 @@
         "name": "Mugiwaras Oficial",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mugiwarasoficial",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mugiwarasoficial-v1.4.53.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mugiwarasoficial-v1.4.54.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mugiwarasoficial.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "53",
-        "versionName": "1.4.53",
+        "versionCode": "54",
+        "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2079534153507614534",
@@ -24765,6 +25239,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4392067503694697213",
@@ -24864,6 +25339,7 @@
         "extensionLib": "1.4",
         "versionCode": "15",
         "versionName": "1.4.15",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8456404960509331854",
@@ -24937,12 +25413,13 @@
         "name": "Pluma Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.plumacomics",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.plumacomics-v1.4.48.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.plumacomics-v1.4.49.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.plumacomics.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "48",
-        "versionName": "1.4.48",
+        "versionCode": "49",
+        "versionName": "1.4.49",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3795139541047356251",
@@ -24962,6 +25439,7 @@
         "extensionLib": "1.4",
         "versionCode": "34",
         "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2210021497257492329",
@@ -25001,6 +25479,7 @@
         "extensionLib": "1.4",
         "versionCode": "59",
         "versionName": "1.4.59",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1108163814448330624",
@@ -25020,6 +25499,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7462657023971681136",
@@ -25059,6 +25539,7 @@
         "extensionLib": "1.4",
         "versionCode": "12",
         "versionName": "1.4.12",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3492404357721425345",
@@ -25078,6 +25559,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4905131080278546043",
@@ -25117,6 +25599,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "273341846992513187",
@@ -25356,6 +25839,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "534693024654050396",
@@ -25375,6 +25859,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3650511144741653873",
@@ -25474,6 +25959,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2666797837434784507",
@@ -25553,6 +26039,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8900485893586998299",
@@ -25652,6 +26139,7 @@
         "extensionLib": "1.4",
         "versionCode": "39",
         "versionName": "1.4.39",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1114173092141608635",
@@ -25831,6 +26319,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "601889634773560665",
@@ -25910,6 +26399,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5811065998267343017",
@@ -25949,6 +26439,7 @@
         "extensionLib": "1.4",
         "versionCode": "88",
         "versionName": "1.4.88",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5",
@@ -25968,6 +26459,7 @@
         "extensionLib": "1.4",
         "versionCode": "42",
         "versionName": "1.4.42",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6651547640332983611",
@@ -26007,6 +26499,7 @@
         "extensionLib": "1.4",
         "versionCode": "63",
         "versionName": "1.4.63",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5227602742162454547",
@@ -26046,6 +26539,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1452500215874655811",
@@ -26065,6 +26559,7 @@
         "extensionLib": "1.4",
         "versionCode": "10",
         "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6859623422196397486",
@@ -26104,6 +26599,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5458965504724393093",
@@ -26203,6 +26699,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4393941999923514698",
@@ -26242,6 +26739,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "1953904877869380978",
@@ -26501,6 +26999,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1111043926688521377",
@@ -26540,6 +27039,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7916744898099174736",
@@ -26559,6 +27059,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4798104006981431448",
@@ -26758,6 +27259,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "834994810873638550",
@@ -26877,6 +27379,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8964063758548358169",
@@ -26896,6 +27399,7 @@
         "extensionLib": "1.4",
         "versionCode": "36",
         "versionName": "1.4.36",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4839000923958753250",
@@ -26915,6 +27419,7 @@
         "extensionLib": "1.4",
         "versionCode": "31",
         "versionName": "1.4.31",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4020109289796113875",
@@ -26954,6 +27459,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8011699941614610362",
@@ -26973,6 +27479,7 @@
         "extensionLib": "1.4",
         "versionCode": "55",
         "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7380467428978561926",
@@ -27012,6 +27519,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "174388226839740265",
@@ -27031,6 +27539,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7298383099057828683",
@@ -27050,6 +27559,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4357416108470845594",
@@ -27089,6 +27599,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5412929724953013469",
@@ -27108,6 +27619,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "455290087526139932",
@@ -27127,6 +27639,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3266930735690843593",
@@ -27146,6 +27659,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7364322791901505063",
@@ -27165,6 +27679,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4962507861930922611",
@@ -27204,6 +27719,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7442439989890509521",
@@ -27243,6 +27759,7 @@
         "extensionLib": "1.4",
         "versionCode": "56",
         "versionName": "1.4.56",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "546920749196078093",
@@ -27302,6 +27819,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1475942648540931708",
@@ -27361,6 +27879,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7878720572813992644",
@@ -27400,6 +27919,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5186628758186958017",
@@ -27439,6 +27959,7 @@
         "extensionLib": "1.4",
         "versionCode": "60",
         "versionName": "1.4.60",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6502558540101660304",
@@ -27458,6 +27979,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6479744508771928030",
@@ -27537,6 +28059,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1820900722595855271",
@@ -27576,6 +28099,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2576579305327069452",
@@ -27595,6 +28119,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9068262319581900273",
@@ -27614,6 +28139,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5075981853261303438",
@@ -27653,6 +28179,7 @@
         "extensionLib": "1.4",
         "versionCode": "37",
         "versionName": "1.4.37",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4883620005315879682",
@@ -27752,6 +28279,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4325951682189741537",
@@ -27771,6 +28299,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2783611133798677654",
@@ -27850,6 +28379,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3730980240510982131",
@@ -27869,6 +28399,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6167788720399583825",
@@ -27888,6 +28419,7 @@
         "extensionLib": "1.4",
         "versionCode": "49",
         "versionName": "1.4.49",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1571842183434448758",
@@ -27907,6 +28439,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5020277403848576351",
@@ -27926,6 +28459,7 @@
         "extensionLib": "1.4",
         "versionCode": "55",
         "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5786550835901373927",
@@ -27945,6 +28479,7 @@
         "extensionLib": "1.4",
         "versionCode": "51",
         "versionName": "1.4.51",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5507342509037890098",
@@ -27964,6 +28499,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1993924607457500259",
@@ -27983,6 +28519,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3852979672050614736",
@@ -28002,6 +28539,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "876756264275379458",
@@ -28041,6 +28579,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2901533594719087473",
@@ -28080,6 +28619,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1346985078461508977",
@@ -28119,6 +28659,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8054539304013575208",
@@ -28138,6 +28679,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5317159072505726832",
@@ -28157,6 +28699,7 @@
         "extensionLib": "1.4",
         "versionCode": "7",
         "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5906663076478194825",
@@ -28196,6 +28739,7 @@
         "extensionLib": "1.4",
         "versionCode": "53",
         "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1479830960881750685",
@@ -28235,6 +28779,7 @@
         "extensionLib": "1.4",
         "versionCode": "52",
         "versionName": "1.4.52",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1213201447439140959",
@@ -28294,6 +28839,7 @@
         "extensionLib": "1.4",
         "versionCode": "47",
         "versionName": "1.4.47",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9155782272853059412",
@@ -28313,6 +28859,7 @@
         "extensionLib": "1.4",
         "versionCode": "58",
         "versionName": "1.4.58",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8902732421830627437",
@@ -28412,6 +28959,7 @@
         "extensionLib": "1.4",
         "versionCode": "32",
         "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1669762383546832433",
@@ -28551,6 +29099,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5975790728262229465",
@@ -28650,6 +29199,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7595811359698226104",
@@ -28689,6 +29239,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4353548193024198457",
@@ -28728,6 +29279,7 @@
         "extensionLib": "1.4",
         "versionCode": "15",
         "versionName": "1.4.15",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2831859393730435398",
@@ -28827,6 +29379,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6706783596626868301",
@@ -28926,6 +29479,7 @@
         "extensionLib": "1.4",
         "versionCode": "18",
         "versionName": "1.4.18",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5818973680777851987",
@@ -29097,6 +29651,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8689080191405841403",
@@ -29156,6 +29711,7 @@
         "extensionLib": "1.4",
         "versionCode": "16",
         "versionName": "1.4.16",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3563992092786616290",
@@ -29195,6 +29751,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3975552840628459451",
@@ -29214,6 +29771,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3129953610837449394",
@@ -29233,6 +29791,7 @@
         "extensionLib": "1.4",
         "versionCode": "29",
         "versionName": "1.4.29",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6861496002170366525",
@@ -29292,6 +29851,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8070757025584294717",
@@ -29491,6 +30051,7 @@
         "extensionLib": "1.4",
         "versionCode": "13",
         "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1458993267006200127",
@@ -29590,6 +30151,7 @@
         "extensionLib": "1.4",
         "versionCode": "24",
         "versionName": "1.4.24",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2553532324170433933",
@@ -29649,6 +30211,7 @@
         "extensionLib": "1.4",
         "versionCode": "54",
         "versionName": "1.4.54",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "401563321854321005",
@@ -29708,6 +30271,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4438807780413463687",
@@ -29867,6 +30431,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "893747327087652119",
@@ -29906,6 +30471,7 @@
         "extensionLib": "1.4",
         "versionCode": "28",
         "versionName": "1.4.28",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5724751873601868259",
@@ -29925,6 +30491,7 @@
         "extensionLib": "1.4",
         "versionCode": "36",
         "versionName": "1.4.36",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "774030471139699415",
@@ -29944,6 +30511,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5943234929466346733",
@@ -30023,6 +30591,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8110122805257580230",
@@ -30042,6 +30611,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8346821279138091413",
@@ -30081,6 +30651,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4222375517460530289",
@@ -30100,6 +30671,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7167507050606280098",
@@ -30199,6 +30771,7 @@
         "extensionLib": "1.4",
         "versionCode": "24",
         "versionName": "1.4.24",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6523822705383645833",
@@ -30258,6 +30831,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2198877009406729694",
@@ -30357,6 +30931,7 @@
         "extensionLib": "1.4",
         "versionCode": "12",
         "versionName": "1.4.12",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8099870292642776005",
@@ -30376,6 +30951,7 @@
         "extensionLib": "1.4",
         "versionCode": "14",
         "versionName": "1.4.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5234610795363016972",
@@ -30455,6 +31031,7 @@
         "extensionLib": "1.4",
         "versionCode": "18",
         "versionName": "1.4.18",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3616827811449702173",
@@ -30474,6 +31051,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6230622879116184108",
@@ -30493,6 +31071,7 @@
         "extensionLib": "1.4",
         "versionCode": "9",
         "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3279300917142951720",
@@ -30532,6 +31111,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7895725080195720063",
@@ -30551,6 +31131,7 @@
         "extensionLib": "1.4",
         "versionCode": "8",
         "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "116946528518438525",
@@ -30650,6 +31231,7 @@
         "extensionLib": "1.4",
         "versionCode": "5",
         "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "392262758488714109",
@@ -30709,6 +31291,7 @@
         "extensionLib": "1.4",
         "versionCode": "4",
         "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "4585134706567717130",
@@ -30768,6 +31351,7 @@
         "extensionLib": "1.4",
         "versionCode": "6",
         "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3329849726908639188",
@@ -30827,6 +31411,7 @@
         "extensionLib": "1.4",
         "versionCode": "18",
         "versionName": "1.4.18",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "524579092615598717",
@@ -30846,6 +31431,7 @@
         "extensionLib": "1.4",
         "versionCode": "2",
         "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6466445276541048432",
