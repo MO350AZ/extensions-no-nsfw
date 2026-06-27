@@ -8425,12 +8425,12 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.31.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.32.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comix.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "31",
-        "versionName": "1.4.31",
+        "versionCode": "32",
+        "versionName": "1.4.32",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -19574,15 +19574,15 @@
         ]
       },
       {
-        "name": "DoujinDesu",
+        "name": "Doujindesu",
         "packageName": "eu.kanade.tachiyomi.extension.id.doujindesu",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.doujindesu-v1.4.15.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.doujindesu-v1.4.16.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.doujindesu.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "15",
-        "versionName": "1.4.15",
+        "versionCode": "16",
+        "versionName": "1.4.16",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
