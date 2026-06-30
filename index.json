@@ -2918,12 +2918,12 @@
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.lunaranime.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -12102,7 +12102,7 @@
         ]
       },
       {
-        "name": "ManhuaPlus (unoriginal)",
+        "name": "ManhuaPlus (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhuaplusorg",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.6.apk",
@@ -12115,7 +12115,7 @@
         "sources": [
           {
             "id": "5075089422240578347",
-            "name": "ManhuaPlus (unoriginal)",
+            "name": "ManhuaPlus (Unoriginal)",
             "language": "en",
             "homeUrl": "https://manhuaplus.org"
           }
@@ -13465,16 +13465,16 @@
         "name": "Paradise Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.paradisescans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.paradisescans-v1.4.20.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.paradisescans-v1.4.21.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.paradisescans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "20",
-        "versionName": "1.4.20",
+        "versionCode": "21",
+        "versionName": "1.4.21",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "7568332238121510401",
+            "id": "5928300995303689257",
             "name": "Paradise Scans",
             "language": "en",
             "homeUrl": "https://paradisescans.com"
@@ -14985,19 +14985,19 @@
         "name": "TimelessToons",
         "packageName": "eu.kanade.tachiyomi.extension.en.timelesstoons",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.timelesstoons-v1.4.20.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.timelesstoons-v1.4.21.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.timelesstoons.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "20",
-        "versionName": "1.4.20",
+        "versionCode": "21",
+        "versionName": "1.4.21",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9063123408669132087",
             "name": "TimelessToons",
             "language": "en",
-            "homeUrl": "https://timelesstoons.org/"
+            "homeUrl": "https://timelesstoons.org"
           }
         ]
       },
@@ -18717,12 +18717,12 @@
         "name": "Les Poroiniens",
         "packageName": "eu.kanade.tachiyomi.extension.fr.lesporoiniens",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.lesporoiniens-v1.4.2.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.lesporoiniens-v1.4.1.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.lesporoiniens.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
+        "versionCode": "1",
+        "versionName": "1.4.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -20934,7 +20934,7 @@
         ]
       },
       {
-        "name": "ShiroDoujin",
+        "name": "Shiro Doujin",
         "packageName": "eu.kanade.tachiyomi.extension.id.shirodoujin",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.shirodoujin-v1.4.3.apk",
@@ -20946,8 +20946,8 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3578524062229706135",
-            "name": "ShiroDoujin",
+            "id": "8468586261171749665",
+            "name": "Shiro Doujin",
             "language": "id",
             "homeUrl": "https://shirodoujin.com"
           }
@@ -24913,12 +24913,12 @@
         "name": "Manga Livre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.67.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.68.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "67",
-        "versionName": "1.4.67",
+        "versionCode": "68",
+        "versionName": "1.4.68",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -30905,17 +30905,17 @@
         "name": "92Manhua",
         "packageName": "eu.kanade.tachiyomi.extension.zh.jiuermanhua",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.jiuermanhua-v1.4.14.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.jiuermanhua-v1.4.15.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.zh.jiuermanhua.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "14",
-        "versionName": "1.4.14",
+        "versionCode": "15",
+        "versionName": "1.4.15",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "2877974326917466207",
-            "name": "92Manhua",
+            "id": "1520913911854846698",
+            "name": "92漫画",
             "language": "zh",
             "homeUrl": "http://www.92mh.com"
           }
@@ -31015,7 +31015,7 @@
         "sources": [
           {
             "id": "1637952806167036168",
-            "name": "YKMH",
+            "name": "优酷漫画",
             "language": "zh",
             "homeUrl": "https://www.ykmh.net"
           }
