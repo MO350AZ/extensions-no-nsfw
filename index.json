@@ -5970,32 +5970,6 @@
         ]
       },
       {
-        "name": "Thunder Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.all.thunderscans",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.thunderscans-v1.4.45.apk",
-          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.thunderscans.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "45",
-        "versionName": "1.4.45",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3209001028102012989",
-            "name": "Lava Scans",
-            "language": "ar",
-            "homeUrl": "https://lavascans.com"
-          },
-          {
-            "id": "2848420679472350044",
-            "name": "Thunder Scans",
-            "language": "en",
-            "homeUrl": "https://en-thunderscans.com"
-          }
-        ]
-      },
-      {
         "name": "Toomics",
         "packageName": "eu.kanade.tachiyomi.extension.all.toomics",
         "resources": {
@@ -6838,6 +6812,26 @@
             "name": "Kawii Manga",
             "language": "ar",
             "homeUrl": "https://kawaiimanga.org"
+          }
+        ]
+      },
+      {
+        "name": "Lava Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.lavascans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.lavascans-v1.4.33.apk",
+          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.lavascans.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "33",
+        "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3209001028102012989",
+            "name": "Lava Scans",
+            "language": "ar",
+            "homeUrl": "https://lavascans.com"
           }
         ]
       },
@@ -14982,6 +14976,26 @@
         ]
       },
       {
+        "name": "Thunder Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.thunderscans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.thunderscans-v1.4.33.apk",
+          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.thunderscans.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "33",
+        "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2848420679472350044",
+            "name": "Thunder Scans",
+            "language": "en",
+            "homeUrl": "https://en-thunderscans.com"
+          }
+        ]
+      },
+      {
         "name": "TimelessToons",
         "packageName": "eu.kanade.tachiyomi.extension.en.timelesstoons",
         "resources": {
@@ -23103,19 +23117,19 @@
         "name": "Raw18",
         "packageName": "eu.kanade.tachiyomi.extension.ja.raw18",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.raw18-v1.4.13.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.raw18-v1.4.14.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.raw18.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "13",
-        "versionName": "1.4.13",
+        "versionCode": "14",
+        "versionName": "1.4.14",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "2238636513447052332",
             "name": "Raw18",
             "language": "ja",
-            "homeUrl": "https://raw18.tax"
+            "homeUrl": "https://raw18.cool"
           }
         ]
       },
@@ -24973,19 +24987,19 @@
         "name": "Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangaonline",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangaonline-v1.4.54.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangaonline-v1.4.55.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mangaonline.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "54",
-        "versionName": "1.4.54",
+        "versionCode": "55",
+        "versionName": "1.4.55",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3930085636692943299",
             "name": "Manga Online",
             "language": "pt-BR",
-            "homeUrl": "https://mangaonline.red"
+            "homeUrl": "https://mangaonline.blue"
           }
         ]
       },
@@ -27853,19 +27867,19 @@
         "name": "Kuroi Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.kuroimanga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.kuroimanga-v1.4.55.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.kuroimanga-v1.4.56.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.kuroimanga.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "versionCode": "56",
+        "versionName": "1.4.56",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "8755089223917220341",
             "name": "Kuroi Manga",
             "language": "tr",
-            "homeUrl": "https://www.kuroimanga.mom"
+            "homeUrl": "https://www.kuroimanga.best"
           }
         ]
       },
@@ -28333,19 +28347,19 @@
         "name": "Nivera Fansub",
         "packageName": "eu.kanade.tachiyomi.extension.tr.niverafansub",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.niverafansub-v1.4.54.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.niverafansub-v1.4.55.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.niverafansub.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "54",
-        "versionName": "1.4.54",
+        "versionCode": "55",
+        "versionName": "1.4.55",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "3875676731760385630",
             "name": "Nivera Fansub",
             "language": "tr",
-            "homeUrl": "https://niverafansub.lol"
+            "homeUrl": "https://niverafansub.one"
           }
         ]
       },
@@ -29313,12 +29327,12 @@
         "name": "CBHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.hentaicube-v1.4.83.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.hentaicube-v1.4.84.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.hentaicube.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "83",
-        "versionName": "1.4.83",
+        "versionCode": "84",
+        "versionName": "1.4.84",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -31225,19 +31239,19 @@
         "name": "Roumanwu",
         "packageName": "eu.kanade.tachiyomi.extension.zh.roumanwu",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.roumanwu-v1.4.18.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.roumanwu-v1.4.19.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.zh.roumanwu.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "18",
-        "versionName": "1.4.18",
+        "versionCode": "19",
+        "versionName": "1.4.19",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3647420805839021718",
-            "name": "肉漫屋",
+            "id": "3712511079792209426",
+            "name": "Roumanwu",
             "language": "zh",
-            "homeUrl": "https://roum22.xyz"
+            "homeUrl": "https://rouman5.com"
           }
         ]
       },
