@@ -696,32 +696,6 @@
         ]
       },
       {
-        "name": "Corona EX",
-        "packageName": "eu.kanade.tachiyomi.extension.all.coronaex",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.coronaex-v1.4.1.apk",
-          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.coronaex.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "4760608706245794364",
-            "name": "Corona EX",
-            "language": "ja",
-            "homeUrl": "https://to-corona-ex.com"
-          },
-          {
-            "id": "8608333040792766579",
-            "name": "Corona EX",
-            "language": "en",
-            "homeUrl": "https://en.to-corona-ex.com"
-          }
-        ]
-      },
-      {
         "name": "CosplayTele",
         "packageName": "eu.kanade.tachiyomi.extension.all.cosplaytele",
         "resources": {
@@ -5293,12 +5267,12 @@
         "name": "OniSaga",
         "packageName": "eu.kanade.tachiyomi.extension.all.onisaga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.onisaga-v1.4.2.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.onisaga-v1.4.3.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.onisaga.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
+        "versionCode": "3",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -6853,19 +6827,19 @@
         "name": "3asq",
         "packageName": "eu.kanade.tachiyomi.extension.ar.manga3asq",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.manga3asq-v1.4.53.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.manga3asq-v1.4.54.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.manga3asq.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "53",
-        "versionName": "1.4.53",
+        "versionCode": "54",
+        "versionName": "1.4.54",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1073624495230267708",
             "name": "مانجا العاشق",
             "language": "ar",
-            "homeUrl": "https://3asq.org"
+            "homeUrl": "https://3asq.pro"
           }
         ]
       },
@@ -7273,12 +7247,12 @@
         "name": "StellarSaber",
         "packageName": "eu.kanade.tachiyomi.extension.ar.stellarsaber",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.stellarsaber-v1.4.32.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.stellarsaber-v1.4.33.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.stellarsaber.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
+        "versionCode": "33",
+        "versionName": "1.4.33",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -13193,19 +13167,19 @@
         "name": "Nyx Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.nyxscans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.nyxscans-v1.4.26.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.nyxscans-v1.4.27.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.nyxscans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "26",
-        "versionName": "1.4.26",
+        "versionCode": "27",
+        "versionName": "1.4.27",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "419822582289753882",
             "name": "Nyx Scans",
             "language": "en",
-            "homeUrl": "https://nyxmanga.org"
+            "homeUrl": "https://nyxscans.com"
           }
         ]
       },
@@ -16099,12 +16073,12 @@
         "name": "Bloom Scans",
         "packageName": "eu.kanade.tachiyomi.extension.es.bloomscans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.bloomscans-v1.4.34.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.bloomscans-v1.4.35.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.bloomscans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "34",
-        "versionName": "1.4.34",
+        "versionCode": "35",
+        "versionName": "1.4.35",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -19525,12 +19499,12 @@
         "name": "CrotPedia",
         "packageName": "eu.kanade.tachiyomi.extension.id.crotpedia",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.crotpedia-v1.4.2.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.crotpedia-v1.4.3.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.crotpedia.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
+        "versionCode": "3",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -20265,12 +20239,12 @@
         "name": "Maid - Manga",
         "packageName": "eu.kanade.tachiyomi.extension.id.maidmanga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.maidmanga-v1.4.12.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.maidmanga-v1.4.13.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.maidmanga.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
+        "versionCode": "13",
+        "versionName": "1.4.13",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -20945,12 +20919,12 @@
         "name": "Shiro Doujin",
         "packageName": "eu.kanade.tachiyomi.extension.id.shirodoujin",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.shirodoujin-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.shirodoujin-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.shirodoujin.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -21938,6 +21912,26 @@
             "name": "Corocoro Online",
             "language": "ja",
             "homeUrl": "https://www.corocoro.jp"
+          }
+        ]
+      },
+      {
+        "name": "Corona EX",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.coronaex",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.coronaex-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.coronaex.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4760608706245794364",
+            "name": "Corona EX",
+            "language": "ja",
+            "homeUrl": "https://to-corona-ex.com"
           }
         ]
       },
@@ -23941,12 +23935,12 @@
         "name": "Argos Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.argoscomics",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.argoscomics-v1.4.55.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.argoscomics-v1.4.56.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.argoscomics.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "versionCode": "56",
+        "versionName": "1.4.56",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24741,12 +24735,12 @@
         "name": "Leitura Manga",
         "packageName": "eu.kanade.tachiyomi.extension.pt.leituramanga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.leituramanga-v1.4.5.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.leituramanga-v1.4.6.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.leituramanga.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "5",
-        "versionName": "1.4.5",
+        "versionCode": "6",
+        "versionName": "1.4.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -24921,12 +24915,12 @@
         "name": "Manga Livre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.70.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.71.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "70",
-        "versionName": "1.4.70",
+        "versionCode": "71",
+        "versionName": "1.4.71",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -30913,12 +30907,12 @@
         "name": "Komiic",
         "packageName": "eu.kanade.tachiyomi.extension.zh.komiic",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.komiic-v1.4.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.komiic-v1.4.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.zh.komiic.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.4.8",
+        "versionCode": "9",
+        "versionName": "1.4.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30965,7 +30959,7 @@
             "id": "5234610795363016972",
             "name": "Mangabz",
             "language": "zh",
-            "homeUrl": "https://mangabz.com#, https://xmanhua.com#, https://yymanhua.com"
+            "homeUrl": "https://mangabz.com"
           }
         ]
       },
@@ -31365,7 +31359,7 @@
             "id": "3329849726908639188",
             "name": "vomic",
             "language": "zh",
-            "homeUrl": "http://www.vomicmh.com"
+            "homeUrl": "https://www.vomicmh.com"
           }
         ]
       },
@@ -31385,7 +31379,7 @@
             "id": "6551136894818591762",
             "name": "紳士漫畫",
             "language": "zh",
-            "homeUrl": "https://www.wn05.ru#, https://www.wn04.ru#, https://www.wnacg05.cc"
+            "homeUrl": "https://www.wn07.cfd#, https://www.wn07.shop#, https://www.wn06.cfd#, https://www.wn06.shop"
           }
         ]
       },
@@ -31405,7 +31399,7 @@
             "id": "2417676426413230210",
             "name": "一耽女孩",
             "language": "zh",
-            "homeUrl": "https://yidan1.club"
+            "homeUrl": "https://yidan9.club"
           }
         ]
       },
