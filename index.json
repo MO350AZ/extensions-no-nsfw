@@ -6892,19 +6892,19 @@
         "name": "Mangalek",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangalek",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.mangalek-v1.4.61.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.mangalek-v1.4.62.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.mangalek.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "61",
-        "versionName": "1.4.61",
+        "versionCode": "62",
+        "versionName": "1.4.62",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "918460697583900080",
             "name": "مانجا ليك",
             "language": "ar",
-            "homeUrl": "https://lekmanga.net"
+            "homeUrl": "https://lek-manga.net"
           }
         ]
       },
