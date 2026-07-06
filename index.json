@@ -24860,12 +24860,12 @@
         "name": "Manga Livre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.72.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.73.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "72",
-        "versionName": "1.4.72",
+        "versionCode": "73",
+        "versionName": "1.4.73",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -29400,19 +29400,19 @@
         "name": "KiraKira",
         "packageName": "eu.kanade.tachiyomi.extension.vi.kirakira",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.kirakira-v1.4.2.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.kirakira-v1.4.3.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.kirakira.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
+        "versionCode": "3",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6706783596626868301",
             "name": "KiraKira",
             "language": "vi",
-            "homeUrl": "https://truyenkira.com"
+            "homeUrl": "https://truyenkira.net"
           }
         ]
       },
@@ -29440,19 +29440,19 @@
         "name": "LuotTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.luottruyen",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.luottruyen-v1.4.5.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.luottruyen-v1.4.6.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.luottruyen.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "5",
-        "versionName": "1.4.5",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "versionCode": "6",
+        "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6560112192335153780",
             "name": "LuotTruyen",
             "language": "vi",
-            "homeUrl": "https://luottruyen10.com"
+            "homeUrl": "https://luottruyen11.com"
           }
         ]
       },
@@ -29692,19 +29692,19 @@
         "name": "MunTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.muntruyen",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.muntruyen-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.muntruyen-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.muntruyen.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "8377696427566362386",
             "name": "MunTruyen",
             "language": "vi",
-            "homeUrl": "https://moonnovel.store"
+            "homeUrl": "https://munedge.com"
           }
         ]
       },
@@ -29992,19 +29992,19 @@
         "name": "Top Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.toptruyen",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.toptruyen-v1.4.38.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.toptruyen-v1.4.39.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.toptruyen.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "38",
-        "versionName": "1.4.38",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "versionCode": "39",
+        "versionName": "1.4.39",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1166901607721102706",
             "name": "Top Truyen",
             "language": "vi",
-            "homeUrl": "https://www.toptruyenzone5.com"
+            "homeUrl": "https://www.toptruyenzone6.com"
           }
         ]
       },
@@ -30092,19 +30092,19 @@
         "name": "TruyenHentaivn",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyenhentaivn",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.truyenhentaivn-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.truyenhentaivn-v1.4.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyenhentaivn.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "2450247754585878955",
             "name": "TruyenHentaivn",
             "language": "vi",
-            "homeUrl": "https://truyenhentaivn.space"
+            "homeUrl": "https://truyenhentaivn.store"
           }
         ]
       },
