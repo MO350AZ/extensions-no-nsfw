@@ -2727,12 +2727,12 @@
         "name": "Komga",
         "packageName": "eu.kanade.tachiyomi.extension.all.komga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.komga-v1.4.66.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.komga-v1.4.67.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.komga.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "66",
-        "versionName": "1.4.66",
+        "versionCode": "67",
+        "versionName": "1.4.67",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2756,12 +2756,12 @@
         "name": "LANraragi",
         "packageName": "eu.kanade.tachiyomi.extension.all.lanraragi",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.lanraragi-v1.4.23.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.lanraragi-v1.4.24.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.lanraragi.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "23",
-        "versionName": "1.4.23",
+        "versionCode": "24",
+        "versionName": "1.4.24",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
