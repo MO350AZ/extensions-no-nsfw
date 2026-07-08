@@ -453,109 +453,181 @@
             "id": "4972933717624256217",
             "name": "Comick (Unoriginal)",
             "language": "en",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "1095063608575855195",
             "name": "Comick (Unoriginal)",
             "language": "ru",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "1242615521765763940",
             "name": "Comick (Unoriginal)",
             "language": "vi",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "3494454472553986530",
             "name": "Comick (Unoriginal)",
             "language": "fr",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "5107985495531372013",
             "name": "Comick (Unoriginal)",
             "language": "pl",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "8935908788702897887",
             "name": "Comick (Unoriginal)",
             "language": "id",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "7976210704034726483",
             "name": "Comick (Unoriginal)",
             "language": "tr",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "3726023637787405221",
             "name": "Comick (Unoriginal)",
             "language": "it",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "4425270083878931881",
             "name": "Comick (Unoriginal)",
             "language": "es",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "5456927204345304785",
             "name": "Comick (Unoriginal)",
             "language": "uk",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "4042311977545840779",
             "name": "Comick (Unoriginal)",
             "language": "de",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "2383498398383195108",
             "name": "Comick (Unoriginal)",
             "language": "ko",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "1760602273537165744",
             "name": "Comick (Unoriginal)",
             "language": "th",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "4145490410049708986",
             "name": "Comick (Unoriginal)",
             "language": "ro",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "3139638167324501617",
             "name": "Comick (Unoriginal)",
             "language": "ms",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "1887856725598271183",
             "name": "Comick (Unoriginal)",
             "language": "ja",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "5535756921059789785",
             "name": "Comick (Unoriginal)",
             "language": "sv",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           },
           {
             "id": "2810925842440106828",
             "name": "Comick (Unoriginal)",
             "language": "no",
-            "homeUrl": "https://comick.live"
+            "homeUrl": "https://comick.live",
+            "mirrorUrls": [
+              "https://comick.live",
+              "https://comick.art"
+            ]
           }
         ]
       },
@@ -2701,25 +2773,53 @@
             "id": "713326856395200688",
             "name": "SchaleNetwork",
             "language": "all",
-            "homeUrl": "https://schale.network"
+            "homeUrl": "https://schale.network",
+            "mirrorUrls": [
+              "https://schale.network",
+              "https://anchira.to",
+              "https://gehenna.jp",
+              "https://niyaniya.moe",
+              "https://shupogaki.moe"
+            ]
           },
           {
             "id": "1484902275639232927",
             "name": "SchaleNetwork",
             "language": "en",
-            "homeUrl": "https://schale.network"
+            "homeUrl": "https://schale.network",
+            "mirrorUrls": [
+              "https://schale.network",
+              "https://anchira.to",
+              "https://gehenna.jp",
+              "https://niyaniya.moe",
+              "https://shupogaki.moe"
+            ]
           },
           {
             "id": "8512356093551591735",
             "name": "SchaleNetwork",
             "language": "ja",
-            "homeUrl": "https://schale.network"
+            "homeUrl": "https://schale.network",
+            "mirrorUrls": [
+              "https://schale.network",
+              "https://anchira.to",
+              "https://gehenna.jp",
+              "https://niyaniya.moe",
+              "https://shupogaki.moe"
+            ]
           },
           {
             "id": "8839994618804276749",
             "name": "SchaleNetwork",
             "language": "zh",
-            "homeUrl": "https://schale.network"
+            "homeUrl": "https://schale.network",
+            "mirrorUrls": [
+              "https://schale.network",
+              "https://anchira.to",
+              "https://gehenna.jp",
+              "https://niyaniya.moe",
+              "https://shupogaki.moe"
+            ]
           }
         ]
       },
@@ -2738,17 +2838,20 @@
           {
             "id": "4508733312114627536",
             "name": "Komga",
-            "language": "all"
+            "language": "all",
+            "homeUrl": "https://127.0.0.1:25600"
           },
           {
             "id": "8074481155021144106",
             "name": "Komga (2)",
-            "language": "all"
+            "language": "all",
+            "homeUrl": "https://127.0.0.1:25600"
           },
           {
             "id": "5132811728275817394",
             "name": "Komga (3)",
-            "language": "all"
+            "language": "all",
+            "homeUrl": "https://127.0.0.1:25600"
           }
         ]
       },
@@ -3110,73 +3213,121 @@
             "id": "2774395484485436593",
             "name": "Luscious",
             "language": "en",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           },
           {
             "id": "356192691213044104",
             "name": "Luscious",
             "language": "ja",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           },
           {
             "id": "4290611657061143259",
             "name": "Luscious",
             "language": "es",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           },
           {
             "id": "80965277100704155",
             "name": "Luscious",
             "language": "it",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           },
           {
             "id": "5185485787190542529",
             "name": "Luscious",
             "language": "de",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           },
           {
             "id": "151111346668901230",
             "name": "Luscious",
             "language": "fr",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           },
           {
             "id": "5200417794129414472",
             "name": "Luscious",
             "language": "zh",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           },
           {
             "id": "264934399418113929",
             "name": "Luscious",
             "language": "ko",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           },
           {
             "id": "1383462828430089842",
             "name": "Luscious",
             "language": "other",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           },
           {
             "id": "2638955581892699679",
             "name": "Luscious",
             "language": "th",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           },
           {
             "id": "4625881812440927464",
             "name": "Luscious",
             "language": "all",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           },
           {
             "id": "5826725746643311801",
             "name": "Luscious",
             "language": "pt-BR",
-            "homeUrl": "https://www.luscious.net"
+            "homeUrl": "https://www.luscious.net",
+            "mirrorUrls": [
+              "https://www.luscious.net",
+              "https://members.luscious.net"
+            ]
           }
         ]
       },
@@ -6832,7 +6983,14 @@
             "id": "918460697583900080",
             "name": "مانجا ليك",
             "language": "ar",
-            "homeUrl": "https://lek-manga.net"
+            "homeUrl": "https://lek-manga.net",
+            "mirrorUrls": [
+              "https://lek-manga.net",
+              "https://lekmanga.online",
+              "https://like-manga.net",
+              "https://lekmanga.site",
+              "https://manga-leko.site"
+            ]
           }
         ]
       },
@@ -9817,7 +9975,7 @@
         ]
       },
       {
-        "name": "I",
+        "name": "I'm An Evil God",
         "packageName": "eu.kanade.tachiyomi.extension.en.imanevilgod",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.imanevilgod-v1.4.7.apk",
@@ -9992,7 +10150,13 @@
             "id": "7660637864742395387",
             "name": "KaliScan",
             "language": "en",
-            "homeUrl": "https://kaliscan.com"
+            "homeUrl": "https://kaliscan.com",
+            "mirrorUrls": [
+              "https://kaliscan.com",
+              "https://kaliscan.me",
+              "https://kaliscan.io",
+              "https://mgjinx.com"
+            ]
           }
         ]
       },
@@ -11292,7 +11456,11 @@
             "id": "2528986671771677900",
             "name": "Mangakakalot",
             "language": "en",
-            "homeUrl": "https://www.mangakakalot.gg"
+            "homeUrl": "https://www.mangakakalot.gg",
+            "mirrorUrls": [
+              "https://www.mangakakalot.gg",
+              "https://www.mangakakalove.com"
+            ]
           }
         ]
       },
@@ -11472,7 +11640,13 @@
             "id": "1024627298672457456",
             "name": "Manganato",
             "language": "en",
-            "homeUrl": "https://www.natomanga.com"
+            "homeUrl": "https://www.natomanga.com",
+            "mirrorUrls": [
+              "https://www.natomanga.com",
+              "https://www.nelomanga.com",
+              "https://www.nelomanga.net",
+              "https://www.manganato.gg"
+            ]
           }
         ]
       },
@@ -12252,7 +12426,11 @@
             "id": "492596911850505683",
             "name": "ManhwaRead",
             "language": "en",
-            "homeUrl": "https://manhwaread.com"
+            "homeUrl": "https://manhwaread.com",
+            "mirrorUrls": [
+              "https://manhwaread.com",
+              "https://manhwaread.org"
+            ]
           }
         ]
       },
@@ -12692,7 +12870,11 @@
             "id": "3639911276143172075",
             "name": "New Manhwa",
             "language": "en",
-            "homeUrl": "https://newmanhwa.com"
+            "homeUrl": "https://newmanhwa.com",
+            "mirrorUrls": [
+              "https://newmanhwa.com",
+              "https://fullmanhwa.com"
+            ]
           }
         ]
       },
@@ -13652,7 +13834,11 @@
             "id": "8061953015808280611",
             "name": "ReadComicOnline",
             "language": "en",
-            "homeUrl": "https://readcomiconline.li"
+            "homeUrl": "https://readcomiconline.li",
+            "mirrorUrls": [
+              "https://readcomiconline.li",
+              "https://rcostation.xyz"
+            ]
           }
         ]
       },
@@ -14452,7 +14638,12 @@
             "id": "6202325652827735606",
             "name": "SpyFakku",
             "language": "en",
-            "homeUrl": "https://hentalk.pw"
+            "homeUrl": "https://hentalk.pw",
+            "mirrorUrls": [
+              "https://hentalk.pw",
+              "https://fakku.cc",
+              "https://fakkuonion.airdns.org:4096"
+            ]
           }
         ]
       },
@@ -21069,7 +21260,7 @@
         ]
       },
       {
-        "name": "C",
+        "name": "C'moA",
         "packageName": "eu.kanade.tachiyomi.extension.ja.cmoa",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.cmoa-v1.4.2.apk",
@@ -21775,7 +21966,7 @@
         ]
       },
       {
-        "name": "HERO",
+        "name": "HERO'S Web",
         "packageName": "eu.kanade.tachiyomi.extension.ja.herosweb",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.herosweb-v1.4.5.apk",
@@ -25580,7 +25771,11 @@
             "id": "1114173092141608635",
             "name": "Com-X",
             "language": "ru",
-            "homeUrl": "https://ru.com-x.life"
+            "homeUrl": "https://ru.com-x.life",
+            "mirrorUrls": [
+              "https://ru.com-x.life",
+              "https://com-x.life"
+            ]
           }
         ]
       },
@@ -25960,7 +26155,11 @@
             "id": "8393977756208732343",
             "name": "Senkognito",
             "language": "ru",
-            "homeUrl": "https://senkuro.me"
+            "homeUrl": "https://senkuro.me",
+            "mirrorUrls": [
+              "https://senkuro.me",
+              "https://senkognito.com"
+            ]
           }
         ]
       },
@@ -25980,7 +26179,11 @@
             "id": "1452500215874655811",
             "name": "Senkuro",
             "language": "ru",
-            "homeUrl": "https://senkuro.me"
+            "homeUrl": "https://senkuro.me",
+            "mirrorUrls": [
+              "https://senkuro.me",
+              "https://senkuro.com"
+            ]
           }
         ]
       },
@@ -29092,7 +29295,11 @@
             "id": "8689080191405841403",
             "name": "MoeTruyen",
             "language": "vi",
-            "homeUrl": "https://moetruyen.net"
+            "homeUrl": "https://moetruyen.net",
+            "mirrorUrls": [
+              "https://moetruyen.net",
+              "https://truyen.moe"
+            ]
           }
         ]
       },
@@ -29912,7 +30119,24 @@
             "id": "5724751873601868259",
             "name": "包子漫画",
             "language": "zh",
-            "homeUrl": "https://cn.baozimh.com"
+            "homeUrl": "https://cn.baozimh.com",
+            "mirrorUrls": [
+              "https://cn.baozimh.com",
+              "https://tw.baozimh.com",
+              "https://www.baozimh.com",
+              "https://cn.webmota.com",
+              "https://tw.webmota.com",
+              "https://www.webmota.com",
+              "https://cn.kukuc.co",
+              "https://tw.kukuc.co",
+              "https://www.kukuc.co",
+              "https://cn.twmanga.com",
+              "https://tw.twmanga.com",
+              "https://www.twmanga.com",
+              "https://cn.dinnerku.com",
+              "https://tw.dinnerku.com",
+              "https://www.dinnerku.com"
+            ]
           }
         ]
       },
@@ -29932,7 +30156,15 @@
             "id": "774030471139699415",
             "name": "GoDa漫画",
             "language": "zh",
-            "homeUrl": "https://baozimh.org"
+            "homeUrl": "https://baozimh.org",
+            "mirrorUrls": [
+              "https://baozimh.org",
+              "https://godamh.com",
+              "https://m.baozimh.one",
+              "https://bzmh.org",
+              "https://g-mh.org",
+              "https://m.g-mh.org"
+            ]
           }
         ]
       },
@@ -29992,7 +30224,11 @@
             "id": "1471112097704477289",
             "name": "香香腐宅",
             "language": "zh",
-            "homeUrl": "https://boylove.cc"
+            "homeUrl": "https://boylove.cc",
+            "mirrorUrls": [
+              "https://boylove.cc",
+              "https://boylove4.xyz"
+            ]
           }
         ]
       },
@@ -30072,7 +30308,11 @@
             "id": "293789630396851172",
             "name": "动漫屋",
             "language": "zh",
-            "homeUrl": "https://www.dm5.com"
+            "homeUrl": "https://www.dm5.com",
+            "mirrorUrls": [
+              "https://www.dm5.com",
+              "https://www.dm5.cn"
+            ]
           }
         ]
       },
@@ -30152,7 +30392,13 @@
             "id": "2276541741750874058",
             "name": "喜漫漫画",
             "language": "zh",
-            "homeUrl": "https://www.favcomic.com"
+            "homeUrl": "https://www.favcomic.com",
+            "mirrorUrls": [
+              "https://www.favcomic.com",
+              "https://www.favcomic.xyz",
+              "https://www.favcomic.net",
+              "https://www.favcomic.cc"
+            ]
           }
         ]
       },
@@ -30352,7 +30598,11 @@
             "id": "792932060924485302",
             "name": "Komiic",
             "language": "zh",
-            "homeUrl": "https://komiic.com"
+            "homeUrl": "https://komiic.com",
+            "mirrorUrls": [
+              "https://komiic.com",
+              "https://komiic.cc"
+            ]
           }
         ]
       },
@@ -30392,7 +30642,12 @@
             "id": "5234610795363016972",
             "name": "Mangabz",
             "language": "zh",
-            "homeUrl": "https://mangabz.com"
+            "homeUrl": "https://mangabz.com",
+            "mirrorUrls": [
+              "https://mangabz.com",
+              "https://xmanhua.com",
+              "https://yymanhua.com"
+            ]
           }
         ]
       },
@@ -30452,7 +30707,13 @@
             "id": "7057750772596492765",
             "name": "漫画柜",
             "language": "zh",
-            "homeUrl": "https://www.manhuagui.com"
+            "homeUrl": "https://www.manhuagui.com",
+            "mirrorUrls": [
+              "https://www.manhuagui.com",
+              "https://tw.manhuagui.com",
+              "https://www.mhgui.com",
+              "https://tw.mhgui.com"
+            ]
           }
         ]
       },
@@ -30652,7 +30913,11 @@
             "id": "3647420805839021718",
             "name": "肉漫屋",
             "language": "zh",
-            "homeUrl": "https://rouman5.com"
+            "homeUrl": "https://rouman5.com",
+            "mirrorUrls": [
+              "https://rouman5.com",
+              "https://roum27.xyz"
+            ]
           }
         ]
       },
@@ -30812,7 +31077,7 @@
             "id": "6551136894818591762",
             "name": "紳士漫畫",
             "language": "zh",
-            "homeUrl": "https://www.wn07.cfd#, https://www.wn07.shop#, https://www.wn06.cfd#, https://www.wn06.shop"
+            "homeUrl": "https://www.wn07.cfd"
           }
         ]
       },
