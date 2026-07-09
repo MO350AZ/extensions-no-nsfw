@@ -15291,12 +15291,12 @@
         "name": "VIZ",
         "packageName": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.vizshonenjump-v1.4.27.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.vizshonenjump-v1.4.28.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.vizshonenjump.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "27",
-        "versionName": "1.4.27",
+        "versionCode": "28",
+        "versionName": "1.4.28",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
