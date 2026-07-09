@@ -6971,19 +6971,19 @@
         "name": "3asq",
         "packageName": "eu.kanade.tachiyomi.extension.ar.manga3asq",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ar.manga3asq-v1.4.54.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ar.manga3asq-v1.4.55.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.ar.manga3asq.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "54",
-        "versionName": "1.4.54",
+        "versionCode": "55",
+        "versionName": "1.4.55",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1073624495230267708",
             "name": "مانجا العاشق",
             "language": "ar",
-            "homeUrl": "https://3asq.pro"
+            "homeUrl": "https://3asq.online"
           }
         ]
       },
@@ -11344,12 +11344,12 @@
         "name": "Mangago",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangago",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangago-v1.4.35.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangago-v1.4.36.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.mangago.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "35",
-        "versionName": "1.4.35",
+        "versionCode": "36",
+        "versionName": "1.4.36",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -29011,12 +29011,12 @@
         "name": "CBHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.hentaicube-v1.4.85.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.hentaicube-v1.4.86.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.vi.hentaicube.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "85",
-        "versionName": "1.4.85",
+        "versionCode": "86",
+        "versionName": "1.4.86",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
