@@ -2599,12 +2599,12 @@
         "name": "Kagane",
         "packageName": "eu.kanade.tachiyomi.extension.all.kagane",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-all.kagane-v1.4.26.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-all.kagane-v1.4.27.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.all.kagane.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "26",
-        "versionName": "1.4.26",
+        "versionCode": "27",
+        "versionName": "1.4.27",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -7938,12 +7938,12 @@
         "name": "Asura Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.asurascans",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.asurascans-v1.4.62.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.asurascans-v1.4.63.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.asurascans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "62",
-        "versionName": "1.4.62",
+        "versionCode": "63",
+        "versionName": "1.4.63",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -13115,6 +13115,26 @@
             "name": "Noxen Scans",
             "language": "en",
             "homeUrl": "https://noxenscan.com"
+          }
+        ]
+      },
+      {
+        "name": "Nuvia Toon",
+        "packageName": "eu.kanade.tachiyomi.extension.en.nuviatoon",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.nuviatoon-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.nuviatoon.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "9071935154458913856",
+            "name": "Nuvia Toon",
+            "language": "en",
+            "homeUrl": "https://nuviatoon.com"
           }
         ]
       },
