@@ -8156,13 +8156,13 @@
         "name": "Asura Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.asurascans",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.asurascans-v1.4.63.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.asurascans-v1.4.64.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.asurascans.png",
-          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-en.asurascans-v1.4.63.jar"
+          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-en.asurascans-v1.4.64.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "63",
-        "versionName": "1.4.63",
+        "versionCode": "64",
+        "versionName": "1.4.64",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -10235,13 +10235,13 @@
         "name": "Hiperdex",
         "packageName": "eu.kanade.tachiyomi.extension.en.hiperdex",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.hiperdex-v1.4.82.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.hiperdex-v1.4.83.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.hiperdex.png",
-          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-en.hiperdex-v1.4.82.jar"
+          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-en.hiperdex-v1.4.83.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "82",
-        "versionName": "1.4.82",
+        "versionCode": "83",
+        "versionName": "1.4.83",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -25352,13 +25352,13 @@
         "name": "HipercooL",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hipercool",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.hipercool-v1.4.57.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.hipercool-v1.4.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.pt.hipercool.png",
-          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-pt.hipercool-v1.4.57.jar"
+          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-pt.hipercool-v1.4.58.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "57",
-        "versionName": "1.4.57",
+        "versionCode": "58",
+        "versionName": "1.4.58",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -25373,13 +25373,13 @@
         "name": "Hipertoon",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hipertoon",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.hipertoon-v1.4.3.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.hipertoon-v1.4.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.pt.hipertoon.png",
-          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-pt.hipertoon-v1.4.3.jar"
+          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-pt.hipertoon-v1.4.4.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -25667,13 +25667,13 @@
         "name": "Maid Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.maidscan",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.maidscan-v1.4.61.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.maidscan-v1.4.62.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.pt.maidscan.png",
-          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-pt.maidscan-v1.4.61.jar"
+          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-pt.maidscan-v1.4.62.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "61",
-        "versionName": "1.4.61",
+        "versionCode": "62",
+        "versionName": "1.4.62",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -26738,13 +26738,13 @@
         "name": "Vegitoons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.vegitoons",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.vegitoons-v1.4.10.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.vegitoons-v1.4.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.pt.vegitoons.png",
-          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-pt.vegitoons-v1.4.10.jar"
+          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-pt.vegitoons-v1.4.11.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -26759,14 +26759,14 @@
         "name": "Verdinha",
         "packageName": "eu.kanade.tachiyomi.extension.pt.verdinha",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.verdinha-v1.4.10.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.verdinha-v1.4.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.pt.verdinha.png",
-          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-pt.verdinha-v1.4.10.jar"
+          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-pt.verdinha-v1.4.11.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "versionCode": "11",
+        "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "3410911112857734134",
@@ -30047,13 +30047,13 @@
         "name": "Zenko",
         "packageName": "eu.kanade.tachiyomi.extension.uk.zenko",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-uk.zenko-v1.4.7.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-uk.zenko-v1.4.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.uk.zenko.png",
-          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-uk.zenko-v1.4.7.jar"
+          "jarUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/jar/tachiyomi-uk.zenko-v1.4.8.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "7",
-        "versionName": "1.4.7",
+        "versionCode": "8",
+        "versionName": "1.4.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
