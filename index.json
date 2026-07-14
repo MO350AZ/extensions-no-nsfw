@@ -20465,20 +20465,20 @@
         "name": "Kiryuu",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.kiryuu-v1.4.55.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.kiryuu-v1.4.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.kiryuu.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.kiryuu-v1.4.55.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.kiryuu-v1.4.56.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "versionCode": "56",
+        "versionName": "1.4.56",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "3639673976007021338",
             "name": "Kiryuu",
             "language": "id",
-            "homeUrl": "https://v6.kiryuu.to"
+            "homeUrl": "https://v7.kiryuu.to"
           }
         ]
       },
@@ -21578,13 +21578,13 @@
         "name": "Shinigami",
         "packageName": "eu.kanade.tachiyomi.extension.id.shinigami",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.shinigami-v1.4.79.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.shinigami-v1.4.80.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.id.shinigami.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.shinigami-v1.4.79.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.shinigami-v1.4.80.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "79",
-        "versionName": "1.4.79",
+        "versionCode": "80",
+        "versionName": "1.4.80",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24551,13 +24551,13 @@
         "name": "Naver Comic",
         "packageName": "eu.kanade.tachiyomi.extension.ko.navercomic",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ko.navercomic-v1.4.8.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ko.navercomic-v1.4.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.ko.navercomic.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ko.navercomic-v1.4.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ko.navercomic-v1.4.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.4.8",
+        "versionCode": "9",
+        "versionName": "1.4.9",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
