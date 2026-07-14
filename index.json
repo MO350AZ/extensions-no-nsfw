@@ -7817,6 +7817,27 @@
         ]
       },
       {
+        "name": "Akaza Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.akazascans",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.akazascans-v1.4.32.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.akazascans.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.akazascans-v1.4.32.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "32",
+        "versionName": "1.4.32",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8513894820944573933",
+            "name": "Akaza Scans",
+            "language": "en",
+            "homeUrl": "https://akazascans.org"
+          }
+        ]
+      },
+      {
         "name": "Alandal",
         "packageName": "eu.kanade.tachiyomi.extension.en.alandal",
         "resources": {
@@ -9521,13 +9542,13 @@
         "name": "Flame Comics",
         "packageName": "eu.kanade.tachiyomi.extension.en.flamecomics",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.flamecomics-v1.4.49.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.flamecomics-v1.4.50.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.flamecomics.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.flamecomics-v1.4.49.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.flamecomics-v1.4.50.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "49",
-        "versionName": "1.4.49",
+        "versionCode": "50",
+        "versionName": "1.4.50",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -10235,13 +10256,13 @@
         "name": "Hiperdex",
         "packageName": "eu.kanade.tachiyomi.extension.en.hiperdex",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.hiperdex-v1.4.83.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.hiperdex-v1.4.84.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.hiperdex.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.hiperdex-v1.4.83.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.hiperdex-v1.4.84.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "83",
-        "versionName": "1.4.83",
+        "versionCode": "84",
+        "versionName": "1.4.84",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11564,13 +11585,13 @@
         "name": "Mangadotnet",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangadotnet-v1.4.13.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangadotnet-v1.4.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.mangadotnet.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.mangadotnet-v1.4.13.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.mangadotnet-v1.4.14.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "13",
-        "versionName": "1.4.13",
+        "versionCode": "14",
+        "versionName": "1.4.14",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11732,13 +11753,13 @@
         "name": "Mangago",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangago",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangago-v1.4.36.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangago-v1.4.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.mangago.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.mangago-v1.4.36.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.mangago-v1.4.37.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "36",
-        "versionName": "1.4.36",
+        "versionCode": "37",
+        "versionName": "1.4.37",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -12225,13 +12246,13 @@
         "name": "MangaGeko",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangarawclub",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangarawclub-v1.4.32.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.mangarawclub-v1.4.33.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.mangarawclub.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.mangarawclub-v1.4.32.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.mangarawclub-v1.4.33.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
+        "versionCode": "33",
+        "versionName": "1.4.33",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -14207,13 +14228,13 @@
         "name": "Rage Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.ragescans",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.ragescans-v1.4.33.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.ragescans-v1.4.34.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.ragescans.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.ragescans-v1.4.33.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.ragescans-v1.4.34.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "33",
-        "versionName": "1.4.33",
+        "versionCode": "34",
+        "versionName": "1.4.34",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24446,13 +24467,13 @@
         "name": "Zenon",
         "packageName": "eu.kanade.tachiyomi.extension.ja.zenon",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ja.zenon-v1.4.9.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ja.zenon-v1.4.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.ja.zenon.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ja.zenon-v1.4.9.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ja.zenon-v1.4.10.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "9",
-        "versionName": "1.4.9",
+        "versionCode": "10",
+        "versionName": "1.4.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25352,13 +25373,13 @@
         "name": "HipercooL",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hipercool",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.hipercool-v1.4.58.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.hipercool-v1.4.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.pt.hipercool.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.hipercool-v1.4.58.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.hipercool-v1.4.59.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "58",
-        "versionName": "1.4.58",
+        "versionCode": "59",
+        "versionName": "1.4.59",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -25373,13 +25394,13 @@
         "name": "Hipertoon",
         "packageName": "eu.kanade.tachiyomi.extension.pt.hipertoon",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.hipertoon-v1.4.4.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.hipertoon-v1.4.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.pt.hipertoon.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.hipertoon-v1.4.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.hipertoon-v1.4.5.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -25730,13 +25751,13 @@
         "name": "Manga Livre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.mangalivre-v1.4.77.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.mangalivre-v1.4.78.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.mangalivre-v1.4.77.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.mangalivre-v1.4.78.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "77",
-        "versionName": "1.4.77",
+        "versionCode": "78",
+        "versionName": "1.4.78",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -30341,13 +30362,13 @@
         "name": "CBHentai",
         "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.hentaicube-v1.4.87.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.hentaicube-v1.4.88.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.vi.hentaicube.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.hentaicube-v1.4.87.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.hentaicube-v1.4.88.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "87",
-        "versionName": "1.4.87",
+        "versionCode": "88",
+        "versionName": "1.4.88",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
