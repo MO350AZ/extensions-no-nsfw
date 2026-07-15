@@ -14523,6 +14523,27 @@
         ]
       },
       {
+        "name": "Read Horimiya Online",
+        "packageName": "eu.kanade.tachiyomi.extension.en.readhorimiyaonline",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.readhorimiyaonline.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.readhorimiyaonline-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "855674716623999161",
+            "name": "Read Horimiya Online",
+            "language": "en",
+            "homeUrl": "https://read-horimiya.online"
+          }
+        ]
+      },
+      {
         "name": "Read Jujutsu Kaisen Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline",
         "resources": {
