@@ -8177,13 +8177,13 @@
         "name": "Asura Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.asurascans",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.asurascans-v1.4.64.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.asurascans-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.asurascans.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.asurascans-v1.4.64.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.asurascans-v1.6.65.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "64",
-        "versionName": "1.4.64",
+        "extensionLib": "1.6",
+        "versionCode": "65",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
