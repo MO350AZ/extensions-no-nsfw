@@ -10403,13 +10403,13 @@
         "name": "Hive Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.infernalvoidscans-v1.6.65.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.infernalvoidscans-v1.6.66.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.infernalvoidscans.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.infernalvoidscans-v1.6.65.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.infernalvoidscans-v1.6.66.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "65",
-        "versionName": "1.6.65",
+        "versionCode": "66",
+        "versionName": "1.6.66",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27541,6 +27541,27 @@
             "name": "Usagi",
             "language": "ru",
             "homeUrl": "https://web.usagi.one"
+          }
+        ]
+      },
+      {
+        "name": "WaManga",
+        "packageName": "eu.kanade.tachiyomi.extension.ru.wamanga",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ru.wamanga-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.ru.wamanga.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ru.wamanga-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1686869715645322994",
+            "name": "WaManga",
+            "language": "ru",
+            "homeUrl": "https://wamanga.ru"
           }
         ]
       },
