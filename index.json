@@ -4771,13 +4771,13 @@
         "name": "MissKon",
         "packageName": "eu.kanade.tachiyomi.extension.all.misskon",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-all.misskon-v1.4.4.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-all.misskon-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.all.misskon.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-all.misskon-v1.4.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-all.misskon-v1.6.5.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "extensionLib": "1.6",
+        "versionCode": "5",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -7197,6 +7197,27 @@
             "name": "MangaCloud",
             "language": "ar",
             "homeUrl": "https://mangacloud.online"
+          }
+        ]
+      },
+      {
+        "name": "MangaDar",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.mangadar",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ar.mangadar-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.ar.mangadar.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ar.mangadar-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3975276517041363504",
+            "name": "MangaDar",
+            "language": "ar",
+            "homeUrl": "https://mangadar.com"
           }
         ]
       },
@@ -16158,13 +16179,13 @@
         "name": "Webdex Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.webdexscans",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.webdexscans-v1.4.52.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.webdexscans-v1.6.53.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.webdexscans.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.webdexscans-v1.4.52.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.webdexscans-v1.6.53.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
+        "extensionLib": "1.6",
+        "versionCode": "53",
+        "versionName": "1.6.53",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16179,13 +16200,13 @@
         "name": "WebNovel",
         "packageName": "eu.kanade.tachiyomi.extension.en.webnovel",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.webnovel-v1.4.13.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.webnovel-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.webnovel.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.webnovel-v1.4.13.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.webnovel-v1.6.14.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "13",
-        "versionName": "1.4.13",
+        "extensionLib": "1.6",
+        "versionCode": "14",
+        "versionName": "1.6.14",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25860,13 +25881,13 @@
         "name": "Manga Livre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.mangalivre-v1.4.79.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.mangalivre-v1.4.80.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.mangalivre-v1.4.79.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.mangalivre-v1.4.80.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "79",
-        "versionName": "1.4.79",
+        "versionCode": "80",
+        "versionName": "1.4.80",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -30429,20 +30450,20 @@
         "name": "Dua Leo Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.dualeotruyen-v1.4.24.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.dualeotruyen-v1.6.25.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.vi.dualeotruyen.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.dualeotruyen-v1.4.24.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.dualeotruyen-v1.6.25.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "24",
-        "versionName": "1.4.24",
+        "extensionLib": "1.6",
+        "versionCode": "25",
+        "versionName": "1.6.25",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "1039830224122325226",
             "name": "Dưa Leo Truyện",
             "language": "vi",
-            "homeUrl": "https://dualeotruyenhn.com"
+            "homeUrl": "https://dualeotruyenvt.com"
           }
         ]
       },
