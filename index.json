@@ -4192,13 +4192,13 @@
         "name": "MangaFire",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangafire",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-all.mangafire-v1.4.26.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-all.mangafire-v1.6.27.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.all.mangafire.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-all.mangafire-v1.4.26.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-all.mangafire-v1.6.27.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "26",
-        "versionName": "1.4.26",
+        "extensionLib": "1.6",
+        "versionCode": "27",
+        "versionName": "1.6.27",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -10113,13 +10113,13 @@
         "name": "HentaiNexus",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentainexus",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.hentainexus-v1.4.18.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.hentainexus-v1.6.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.en.hentainexus.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.hentainexus-v1.4.18.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.hentainexus-v1.6.19.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "18",
-        "versionName": "1.4.18",
+        "extensionLib": "1.6",
+        "versionCode": "19",
+        "versionName": "1.6.19",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
