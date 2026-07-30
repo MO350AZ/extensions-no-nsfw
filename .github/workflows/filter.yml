@@ -47,11 +47,14 @@ jobs:
           fi
 
       - name: Filter NSFW from index files
-        run: |
-          jq '[.[] | select(type=="object" and (.nsfw // 0) != 1)]' index.json > index.tmp.json
-          jq -c '[.[] | select(type=="object" and (.nsfw // 0) != 1)]' index.min.json > index.tmp.min.json
-          mv index.tmp.json index.json
-          mv index.tmp.min.json index.min.json
+       run: |
+           jq '[.[] | select(type=="object" and (.nsfw // 0) != 1)]' index.json > index.tmp.json
+
+           # استبدل index.json بالنسخة المفلترة
+            mv index.tmp.json index.json
+
+           # أنشئ index.min.json من النسخة المفلترة
+           jq -c '.' index.json > index.min.json.tmp.min.json index.min.json
 
       - name: Commit & push changes
         run: |
