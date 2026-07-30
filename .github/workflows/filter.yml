@@ -47,7 +47,7 @@ jobs:
           fi
 
       - name: Filter NSFW from index files
-       run: |
+        run: |
            jq '[.[] | select(type=="object" and (.nsfw // 0) != 1)]' index.json > index.tmp.json
 
            # استبدل index.json بالنسخة المفلترة
@@ -61,6 +61,6 @@ jobs:
           set -e
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add apk icon index.html index.json index.min.json README.md
+          git add apk jar index.html index.json index.min.json index.pb repo.json README.md
           git commit -m "Update extensions & filter NSFW (keep README)" || exit 0
           git push
