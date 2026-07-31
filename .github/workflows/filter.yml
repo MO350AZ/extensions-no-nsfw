@@ -51,9 +51,9 @@ jobs:
          run: |
            pip install "protobuf>=7.35.1"
 
-       - name: Rebuild repository index
+       - name: Filter index.pb
          run: |
-           python scripts/rebuild_index.py
+            python scripts/filter_pb.py
       
 
       - name: Commit & push changes
