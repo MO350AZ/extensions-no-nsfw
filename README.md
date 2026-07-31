@@ -3,7 +3,7 @@
 ![NSFW Free](https://img.shields.io/badge/NSFW-Free-success?style=for-the-badge)
 ![Auto Sync](https://img.shields.io/badge/Auto%20Sync-Every%2030%20Minutes-blue?style=for-the-badge)
 
-# 📚 Extensions No NSFW
+# 📚 Extensions No NSFW for Mihon & Tachimanga
 
 ### Safe Extensions Repository for Mihon & Compatible Apps
 
