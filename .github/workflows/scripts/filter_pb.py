@@ -82,7 +82,18 @@ with HTML_FILE.open("w", encoding="utf-8") as f:
         f.write(f'<a href="{url}">{name}</a>\n')
 
     f.write("</pre>\n</body>\n</html>\n")
+repo = {
+    "index_v2": "https://raw.githubusercontent.com/MO350AZ/extensions-no-nsfw/repo/index.pb",
+    "meta": {
+        "name": "Extensions No NSFW",
+        "website": "https://github.com/MO350AZ/extensions-no-nsfw",
+        "signingKeyFingerprint": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2",
+    },
+}
 
+with open("repo.json", "w", encoding="utf-8") as f:
+    json.dump(repo, f, ensure_ascii=False, indent=2)
+    
 print(f"Extensions before: {before}")
 print(f"Extensions after : {after}")
 print(f"Removed          : {before-after}")
