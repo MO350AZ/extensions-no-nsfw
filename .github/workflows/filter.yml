@@ -19,11 +19,7 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Ensure jq is installed
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq
-
+      
       - name: Save local README
         run: |
           if [ -f README.md ]; then
@@ -45,16 +41,20 @@ jobs:
           if [ -f /tmp/README.local ]; then
             mv /tmp/README.local README.md
           fi
+          
+       - name: Set up Python
+         uses: actions/setup-python@v5
+         with:
+           python-version: "3.11"
 
-      - name: Filter NSFW from index files
-        run: |
-           jq '[.[] | select(type=="object" and (.nsfw // 0) != 1)]' index.json > index.tmp.json
+       - name: Install dependencies
+         run: |
+           pip install protobuf
 
-           # استبدل index.json بالنسخة المفلترة
-            mv index.tmp.json index.json
-
-           # أنشئ index.min.json من النسخة المفلترة
-           jq -c '.' index.json > index.min.json.tmp.min.json index.min.json
+       - name: Rebuild repository index
+         run: |
+           python scripts/rebuild_index.py
+      
 
       - name: Commit & push changes
         run: |
