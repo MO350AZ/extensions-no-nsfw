@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    
       - name: Checkout current repo
         uses: actions/checkout@v4
         with:
@@ -42,18 +43,18 @@ jobs:
             mv /tmp/README.local README.md
           fi
           
-       - name: Set up Python
-         uses: actions/setup-python@v5
-         with:
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
            python-version: "3.11"
+           
+      - name: Install dependencies
+        run: |
+          pip install "protobuf>=7.35.1"
 
-       - name: Install dependencies
-         run: |
-           pip install "protobuf>=7.35.1"
-
-       - name: Filter index.pb
-         run: |
-            python scripts/filter_pb.py
+      - name: Filter index.pb
+        run: |
+          python scripts/filter_pb.py
       
 
       - name: Commit & push changes
