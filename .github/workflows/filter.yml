@@ -54,7 +54,7 @@ jobs:
 
       - name: Filter index.pb
         run: |
-          python scripts/filter_pb.py
+          python .github/workflows/scripts/filter_pb.py
       
 
       - name: Commit & push changes
