@@ -49,7 +49,7 @@ jobs:
 
        - name: Install dependencies
          run: |
-           pip install protobuf
+           pip install "protobuf>=7.35.1"
 
        - name: Rebuild repository index
          run: |
