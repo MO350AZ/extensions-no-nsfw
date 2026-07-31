@@ -91,7 +91,9 @@ repo = {
     },
 }
 
-with open("repo.json", "w", encoding="utf-8") as f:
+REPO_JSON_FILE = REPO_DIR / "repo.json"
+
+with REPO_JSON_FILE.open("w", encoding="utf-8") as f:
     json.dump(repo, f, ensure_ascii=False, indent=2)
     
 print(f"Extensions before: {before}")
