@@ -1,3 +1,4 @@
+Safe NSFW-filtered extension repository for Mihon, Tachimanga, Tachiyomi and other compatible manga reader applications.
 ![Last Commit](https://img.shields.io/github/last-commit/MO350AZ/extensions-no-nsfw/repo?style=for-the-badge&label=Last%20Update)
 ![Auto Update](https://img.shields.io/github/actions/workflow/status/MO350AZ/extensions-no-nsfw/filter.yml?branch=repo&style=for-the-badge&label=Auto%20Update)
 ![NSFW Free](https://img.shields.io/badge/NSFW-Free-success?style=for-the-badge)
