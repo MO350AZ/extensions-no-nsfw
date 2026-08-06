@@ -3,7 +3,7 @@ name: Update & filter extensions repo (no NSFW)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "12/30 * * * *"
 
 permissions:
   contents: write
