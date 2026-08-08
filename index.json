@@ -10845,20 +10845,20 @@
         "name": "VyvyManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.vyvymanga",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.vyvymanga-v1.6.41.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.vyvymanga-v1.6.42.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/vyvymanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.vyvymanga-v1.6.41.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.vyvymanga-v1.6.42.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "41",
-        "versionName": "1.6.41",
+        "versionCode": "42",
+        "versionName": "1.6.42",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6958928548959982041",
             "name": "VyvyManga",
             "language": "en",
-            "homeUrl": "https://vymanga.net"
+            "homeUrl": "https://mangavyvy.net"
           }
         ]
       },
@@ -14625,20 +14625,20 @@
         "name": "Ota Scans",
         "packageName": "eu.kanade.tachiyomi.extension.id.otascans",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.otascans-v1.4.55.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-id.otascans-v1.4.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/otascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.otascans-v1.4.55.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-id.otascans-v1.4.56.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "versionCode": "56",
+        "versionName": "1.4.56",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "2170345400165397182",
             "name": "Ota Scans",
             "language": "id",
-            "homeUrl": "https://yurilabs.my.id"
+            "homeUrl": "https://yurilab.top"
           }
         ]
       },
@@ -22392,13 +22392,13 @@
         "name": "TruyenQQ",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqq",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.truyenqq-v1.6.24.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.truyenqq-v1.6.25.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyenqq/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.truyenqq-v1.6.24.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.truyenqq-v1.6.25.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "24",
-        "versionName": "1.6.24",
+        "versionCode": "25",
+        "versionName": "1.6.25",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22518,20 +22518,20 @@
         "name": "ZetTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.zettruyen",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.zettruyen-v1.6.11.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-vi.zettruyen-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.zettruyen-v1.6.11.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-vi.zettruyen-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "11",
-        "versionName": "1.6.11",
+        "versionCode": "12",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "893747327087652119",
             "name": "ZetTruyen",
             "language": "vi",
-            "homeUrl": "https://www.zettruyen.homes"
+            "homeUrl": "https://www.zettruyen.work"
           }
         ]
       },
