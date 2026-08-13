@@ -34,7 +34,7 @@ jobs:
 
       - name: Update selected files from upstream (sync)
         run: |
-          git checkout upstream/repo -- icon index.html index.json index.min.json index.pb repo.json index.beta.json index.beta.pb release-assets.json
+          git checkout upstream/repo -- index.html index.json index.min.json index.pb repo.json
           git checkout . && git status --porcelain
 
       - name: Restore local README
