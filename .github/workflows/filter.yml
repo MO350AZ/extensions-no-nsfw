@@ -34,7 +34,7 @@ jobs:
 
       - name: Update selected files from upstream (sync)
         run: |
-          git checkout upstream/repo -- apk jar index.html index.json index.min.json index.pb repo.json
+          git checkout upstream/repo -- icon index.html index.json index.min.json index.pb repo.json index.beta.json index.beta.pb release-assets.json
           git checkout . && git status --porcelain
 
       - name: Restore local README
@@ -62,6 +62,6 @@ jobs:
           set -e
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add apk jar index.html index.json index.min.json index.pb repo.json README.md
+          git add icon index.html index.json index.min.json index.pb repo.json index.beta.json index.beta.pb release-assets.json README.md
           git commit -m "Update extensions & filter NSFW (keep README)" || exit 0
           git push
