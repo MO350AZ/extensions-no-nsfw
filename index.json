@@ -5007,13 +5007,13 @@
         "name": "Dilar",
         "packageName": "eu.kanade.tachiyomi.extension.ar.dilar",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ar.dilar-v1.6.9.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-ar.dilar-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/dilar/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ar.dilar-v1.6.9.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-ar.dilar-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "9",
-        "versionName": "1.6.9",
+        "versionCode": "10",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -7517,13 +7517,13 @@
         "name": "Hiperdex",
         "packageName": "eu.kanade.tachiyomi.extension.en.hiperdex",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.hiperdex-v1.6.87.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-en.hiperdex-v1.6.88.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hiperdex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.hiperdex-v1.6.87.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-en.hiperdex-v1.6.88.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "87",
-        "versionName": "1.6.87",
+        "versionCode": "88",
+        "versionName": "1.6.88",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -19241,13 +19241,13 @@
         "name": "KivaraToons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.kivaratoons",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.kivaratoons-v1.6.2.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.kivaratoons-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kivaratoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.kivaratoons-v1.6.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.kivaratoons-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "2",
-        "versionName": "1.6.2",
+        "versionCode": "3",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -19325,13 +19325,13 @@
         "name": "Little Tyrant",
         "packageName": "eu.kanade.tachiyomi.extension.pt.littletyrant",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.littletyrant-v1.4.62.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.littletyrant-v1.4.63.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/littletyrant/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.littletyrant-v1.4.62.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.littletyrant-v1.4.63.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "62",
-        "versionName": "1.4.62",
+        "versionCode": "63",
+        "versionName": "1.4.63",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24254,13 +24254,13 @@
         "name": "NoyAcg",
         "packageName": "eu.kanade.tachiyomi.extension.zh.noyacg",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-zh.noyacg-v1.6.6.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-zh.noyacg-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/noyacg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-zh.noyacg-v1.6.6.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-zh.noyacg-v1.6.7.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "6",
-        "versionName": "1.6.6",
+        "versionCode": "7",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
