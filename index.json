@@ -5416,20 +5416,20 @@
         "name": "Manga Starz",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangastarz",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/66535bd/tachiyomi-ar.mangastarz-v1.6.62.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5c3c082/tachiyomi-ar.mangastarz-v1.6.63.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangastarz/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/66535bd/tachiyomi-ar.mangastarz-v1.6.62.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5c3c082/tachiyomi-ar.mangastarz-v1.6.63.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "62",
-        "versionName": "1.6.62",
+        "versionCode": "63",
+        "versionName": "1.6.63",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6058166507489091982",
             "name": "Manga Starz",
             "language": "ar",
-            "homeUrl": "https://manga-starz.net"
+            "homeUrl": "https://starzmanga.com"
           }
         ]
       },
@@ -20588,13 +20588,13 @@
         "name": "InkStory",
         "packageName": "eu.kanade.tachiyomi.extension.ru.inkstory",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a76c957-2/tachiyomi-ru.inkstory-v1.4.4.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5c3c082/tachiyomi-ru.inkstory-v1.4.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/inkstory/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/afa591f-2/tachiyomi-ru.inkstory-v1.4.4.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5c3c082/tachiyomi-ru.inkstory-v1.4.5.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
