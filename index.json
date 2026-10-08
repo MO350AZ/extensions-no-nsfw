@@ -1126,13 +1126,13 @@
         "name": "Komga",
         "packageName": "eu.kanade.tachiyomi.extension.all.komga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.komga-v1.6.70.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-all.komga-v1.6.71.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/komga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/2fb2e7e/tachiyomi-all.komga-v1.6.70.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-all.komga-v1.6.71.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106070",
-        "versionName": "1.6.70",
+        "versionCode": "106071",
+        "versionName": "1.6.71",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -13461,6 +13461,27 @@
         ]
       },
       {
+        "name": "Webnex",
+        "packageName": "eu.kanade.tachiyomi.extension.en.webnex",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-en.webnex-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-en.webnex-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "319678837350572744",
+            "name": "Webnex",
+            "language": "en",
+            "homeUrl": "https://webnex.cc"
+          }
+        ]
+      },
+      {
         "name": "WebNovel",
         "packageName": "eu.kanade.tachiyomi.extension.en.webnovel",
         "resources": {
@@ -14031,13 +14052,13 @@
         "name": "DragonTranslation.org",
         "packageName": "eu.kanade.tachiyomi.extension.es.dragontranslationorg",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.dragontranslationorg-v1.6.58.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-es.dragontranslationorg-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/dragontranslationorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.dragontranslationorg-v1.6.58.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-es.dragontranslationorg-v1.6.59.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106058",
-        "versionName": "1.6.58",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -14493,13 +14514,13 @@
         "name": "MangoLibreria",
         "packageName": "eu.kanade.tachiyomi.extension.es.lectormonline",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/e40e1b7/tachiyomi-es.lectormonline-v1.6.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-es.lectormonline-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/lectormonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/e40e1b7/tachiyomi-es.lectormonline-v1.6.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-es.lectormonline-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17674,13 +17695,13 @@
         "name": "Mangaworld",
         "packageName": "eu.kanade.tachiyomi.extension.it.mangaworld",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-it.mangaworld-v1.6.0.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-it.mangaworld-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangaworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-it.mangaworld-v1.6.0.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-it.mangaworld-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -20761,16 +20782,37 @@
         ]
       },
       {
+        "name": "Newtoki (SBXH)",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.sbxh",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-ko.sbxh-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/sbxh/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-ko.sbxh-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5836877907605844302",
+            "name": "Newtoki (SBXH)",
+            "language": "ko",
+            "homeUrl": "https://sbxh9.com"
+          }
+        ]
+      },
+      {
         "name": "11toon",
         "packageName": "eu.kanade.tachiyomi.extension.ko.toon11",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ko.toon11-v1.6.0.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-ko.toon11-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/toon11/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ko.toon11-v1.6.0.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-ko.toon11-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -22225,13 +22267,13 @@
         "name": "Saikai Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.saikaiscan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-pt.saikaiscan-v1.4.13.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-pt.saikaiscan-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/saikaiscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/19c8e5f-2/tachiyomi-pt.saikaiscan-v1.4.13.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-pt.saikaiscan-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104013",
-        "versionName": "1.4.13",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22288,20 +22330,20 @@
         "name": "Nexus Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.spectralscan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-pt.spectralscan-v1.6.0.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-pt.spectralscan-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/spectralscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-pt.spectralscan-v1.6.0.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-pt.spectralscan-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "5304928452449566995",
             "name": "Nexus Toons",
             "language": "pt-BR",
-            "homeUrl": "https://nx-toons.xyz"
+            "homeUrl": "https://nexustoons.com"
           }
         ]
       },
