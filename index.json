@@ -1228,13 +1228,13 @@
         "name": "Komga",
         "packageName": "eu.kanade.tachiyomi.extension.all.komga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-all.komga-v1.6.73.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-all.komga-v1.6.74.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/komga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-all.komga-v1.6.73.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-all.komga-v1.6.74.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106073",
-        "versionName": "1.6.73",
+        "versionCode": "106074",
+        "versionName": "1.6.74",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -7494,13 +7494,13 @@
         "name": "Comic Asura",
         "packageName": "eu.kanade.tachiyomi.extension.en.comicasura",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.comicasura-v1.6.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-en.comicasura-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/comicasura/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.comicasura-v1.6.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-en.comicasura-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -13730,13 +13730,13 @@
         "name": "Webnex",
         "packageName": "eu.kanade.tachiyomi.extension.en.webnex",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/314a0d1/tachiyomi-en.webnex-v1.6.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-en.webnex-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/314a0d1/tachiyomi-en.webnex-v1.6.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-en.webnex-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15099,13 +15099,13 @@
         "name": "ManhwaWeb",
         "packageName": "eu.kanade.tachiyomi.extension.es.manhwaweb",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-es.manhwaweb-v1.6.14.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-es.manhwaweb-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwaweb/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-es.manhwaweb-v1.6.14.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-es.manhwaweb-v1.6.15.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106014",
-        "versionName": "1.6.14",
+        "versionCode": "106015",
+        "versionName": "1.6.15",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -19892,6 +19892,27 @@
             "name": "MangaRaw",
             "language": "ja",
             "homeUrl": "https://mangaraw.co.uk"
+          }
+        ]
+      },
+      {
+        "name": "Manga Rw",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.mangarw",
+        "resources": {
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-ja.mangarw-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangarw/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-ja.mangarw-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7145934117309913101",
+            "name": "Manga Rw",
+            "language": "ja",
+            "homeUrl": "https://mangarw.com"
           }
         ]
       },
@@ -25040,20 +25061,20 @@
         "name": "Sunset Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.sunsetmanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.sunsetmanga-v1.6.55.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-tr.sunsetmanga-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/sunsetmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.sunsetmanga-v1.6.55.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-tr.sunsetmanga-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6406690174131145499",
             "name": "Sunset Manga",
             "language": "tr",
-            "homeUrl": "https://sunsetmanga.com"
+            "homeUrl": "https://sunsetscans.com.tr"
           }
         ]
       },
@@ -25166,13 +25187,13 @@
         "name": "Tr Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.trmanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-tr.trmanga-v1.6.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-tr.trmanga-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/trmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/8652f11/tachiyomi-tr.trmanga-v1.6.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-tr.trmanga-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
