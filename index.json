@@ -12386,20 +12386,20 @@
         "name": "Mist Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.mistscans",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-en.mistscans-v1.6.28.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/f394a9a/tachiyomi-en.mistscans-v1.6.29.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mistscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-en.mistscans-v1.6.28.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/f394a9a/tachiyomi-en.mistscans-v1.6.29.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106028",
-        "versionName": "1.6.28",
+        "versionCode": "106029",
+        "versionName": "1.6.29",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5732165121603348598",
             "name": "Mist Scans",
             "language": "en",
-            "homeUrl": "https://mistscans.org"
+            "homeUrl": "https://mistscans.to"
           }
         ]
       },
@@ -13793,20 +13793,20 @@
         "name": "Siren Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.sirenscans",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-en.sirenscans-v1.6.28.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/9f70fab/tachiyomi-en.sirenscans-v1.6.29.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sirenscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-en.sirenscans-v1.6.28.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/9f70fab/tachiyomi-en.sirenscans-v1.6.29.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106028",
-        "versionName": "1.6.28",
+        "versionCode": "106029",
+        "versionName": "1.6.29",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5804710058654490234",
             "name": "Siren Scans",
             "language": "en",
-            "homeUrl": "https://sirenscans.com"
+            "homeUrl": "https://sirenscans.net"
           }
         ]
       },
@@ -16272,13 +16272,13 @@
         "name": "Mangas.in",
         "packageName": "eu.kanade.tachiyomi.extension.es.mangasin",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-es.mangasin-v1.6.5.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/9f70fab/tachiyomi-es.mangasin-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangasin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-es.mangasin-v1.6.5.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/9f70fab/tachiyomi-es.mangasin-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -28111,13 +28111,13 @@
         "name": "MangaInUa",
         "packageName": "eu.kanade.tachiyomi.extension.uk.mangainua",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-uk.mangainua-v1.6.13.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/e8c7f53/tachiyomi-uk.mangainua-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/mangainua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-uk.mangainua-v1.6.13.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/e8c7f53/tachiyomi-uk.mangainua-v1.6.15.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106013",
-        "versionName": "1.6.13",
+        "versionCode": "106015",
+        "versionName": "1.6.15",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -29721,13 +29721,13 @@
         "name": "Dumanwu",
         "packageName": "eu.kanade.tachiyomi.extension.zh.dumanwu",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-zh.dumanwu-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/9f70fab/tachiyomi-zh.dumanwu-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/dumanwu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-zh.dumanwu-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/9f70fab/tachiyomi-zh.dumanwu-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -30473,13 +30473,13 @@
         "name": "Rumanhua",
         "packageName": "eu.kanade.tachiyomi.extension.zh.rumanhua",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-zh.rumanhua-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/9f70fab/tachiyomi-zh.rumanhua-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/rumanhua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-zh.rumanhua-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/9f70fab/tachiyomi-zh.rumanhua-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
