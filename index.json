@@ -6998,27 +6998,6 @@
         ]
       },
       {
-        "name": "Orca Manga",
-        "packageName": "eu.kanade.tachiyomi.extension.ar.orcamanga",
-        "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-0/tachiyomi-ar.orcamanga-v1.6.20.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/orcamanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-0/tachiyomi-ar.orcamanga-v1.6.20.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106020",
-        "versionName": "1.6.20",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5634203247016722993",
-            "name": "Orca Manga",
-            "language": "ar",
-            "homeUrl": "https://infinity896.blogspot.com"
-          }
-        ]
-      },
-      {
         "name": "Peach BL",
         "packageName": "eu.kanade.tachiyomi.extension.ar.peachbl",
         "resources": {
@@ -13727,27 +13706,6 @@
         ]
       },
       {
-        "name": "ScansGG",
-        "packageName": "eu.kanade.tachiyomi.extension.en.scansgg",
-        "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-en.scansgg-v1.6.4.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/scansgg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-en.scansgg-v1.6.4.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "5988638662832109557",
-            "name": "ScansGG",
-            "language": "en",
-            "homeUrl": "https://scans.gg"
-          }
-        ]
-      },
-      {
         "name": "Schale Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.schalescans",
         "resources": {
@@ -14554,27 +14512,6 @@
             "name": "TopManhua.fan",
             "language": "en",
             "homeUrl": "https://www.topmanhua.fan"
-          }
-        ]
-      },
-      {
-        "name": "TopManhua.net",
-        "packageName": "eu.kanade.tachiyomi.extension.en.topmanhuanet",
-        "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bac637a/tachiyomi-en.topmanhuanet-v1.6.60.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/topmanhuanet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bac637a/tachiyomi-en.topmanhuanet-v1.6.60.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106060",
-        "versionName": "1.6.60",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "6421630287504544593",
-            "name": "TopManhua.net",
-            "language": "en",
-            "homeUrl": "https://topmanhua.net"
           }
         ]
       },
@@ -19114,27 +19051,6 @@
             "name": "Manhwa List",
             "language": "id",
             "homeUrl": "https://m1.manhwalist.my.id"
-          }
-        ]
-      },
-      {
-        "name": "IsekaiKomik",
-        "packageName": "eu.kanade.tachiyomi.extension.id.manhwalistorg",
-        "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-2/tachiyomi-id.manhwalistorg-v1.6.4.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/manhwalistorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-2/tachiyomi-id.manhwalistorg-v1.6.4.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1031213229391436059",
-            "name": "IsekaiKomik",
-            "language": "id",
-            "homeUrl": "https://ch1.isekaikomik.site"
           }
         ]
       },
@@ -27145,13 +27061,13 @@
         "name": "Manga K\u00fct\u00fcphanem",
         "packageName": "eu.kanade.tachiyomi.extension.tr.mangakutuphanem",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-tr.mangakutuphanem-v1.6.0.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/7f91c9d/tachiyomi-tr.mangakutuphanem-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangakutuphanem/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-tr.mangakutuphanem-v1.6.0.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/7f91c9d/tachiyomi-tr.mangakutuphanem-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
